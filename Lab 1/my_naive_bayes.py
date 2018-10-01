@@ -207,6 +207,7 @@ class NaiveBayesClassifier():
     def classify(self):
         result={}
         summary =[]
+        writeFile = open('results.txt','w')
         for testDoc in self.data:
             testSentence = (' ').join(testDoc[0])
             sumPosLikelihood = self.handler.priors['1']
@@ -222,7 +223,8 @@ class NaiveBayesClassifier():
             else:
                 summary.append((testSentence,'1'))
         for i in summary:
-            print(i,'\n')
+            writeFile.write(i,'\n')
+        writeFile.close()
         return summary
             
     def predictionAccuracy(self):
