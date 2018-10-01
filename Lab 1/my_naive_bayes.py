@@ -223,7 +223,7 @@ class NaiveBayesClassifier():
             else:
                 summary.append((testSentence,'1'))
         for i in summary:
-            writeFile.write(i)
+            writeFile.write(i[0]+'\t'+i[1]+'\n')
         writeFile.close()
         return summary
             
