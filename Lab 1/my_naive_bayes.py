@@ -218,11 +218,11 @@ class NaiveBayesClassifier():
             result['0'] = sumNegLikelihood
             result['1'] = sumPosLikelihood
             if result['0']>result['1']:
-                summary.append((testSentence,'0'))
+                summary.append((0))
             else:
-                summary.append((testSentence,'1'))
+                summary.append((1))
         for i in summary:
-            writeFile.write(i[0]+'\t'+i[1]+'\n')
+            writeFile.write(i+'\n')
         writeFile.close()
         return summary
             
