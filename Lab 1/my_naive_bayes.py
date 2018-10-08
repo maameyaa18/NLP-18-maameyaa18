@@ -195,11 +195,10 @@ class NaiveBayesClassifier():
     def splitToData(self):
         data =[]
         for line in self.file:
-            cleanLine = line.rstrip('\n').split('\t')
-            sentence = cleanLine[0].replace(".","").replace("!","").replace("-","").replace(":","").replace(")","").replace(";","").replace("@","").replace("(","").replace(",","").replace("&","").replace('"','').replace("?","").replace("*","").replace("+","").lower()
+            cleanLine = line.rstrip('\n')
+            sentence = cleanLine.replace(".","").replace("!","").replace("-","").replace(":","").replace(")","").replace(";","").replace("@","").replace("(","").replace(",","").replace("&","").replace('"','').replace("?","").replace("*","").replace("+","").lower()
             features = sentence.split(' ')
-            tag = cleanLine[1]
-            pair = (features,tag)
+            pair = (features)
             data.append(pair)
         self.file.close()
         return data
@@ -209,10 +208,10 @@ class NaiveBayesClassifier():
         summary =[]
         writeFile = open('results.txt','w')
         for testDoc in self.data:
-            testSentence = (' ').join(testDoc[0])
+            testSentence = (' ').join(testDoc)
             sumPosLikelihood = self.handler.priors['1']
             sumNegLikelihood = self.handler.priors['0']
-            for i in testDoc[0]:
+            for i in testDoc:
                 if i in self.handler.vocabulary:
                     sumPosLikelihood+= self.handler.logLikelihoods[(i,1)]
                     sumNegLikelihood+= self.handler.logLikelihoods[(i,0)]
@@ -227,15 +226,7 @@ class NaiveBayesClassifier():
         writeFile.close()
         return summary
             
-    def predictionAccuracy(self):
-        correct = []
-        for i in range (len(self.classify)):
-            if self.classify[i][1]== self.data[i][1]:
-                correct.append(1)
-            else:
-                pass
-        return(round((sum(correct)/len(self.classify))*100,2))
-    
+
         
 
 
@@ -247,7 +238,6 @@ def main(argv):
     start = time.time()
     handler = DataHandler(readFile1,readFile2,readFile3)
     classifier = NaiveBayesClassifier(handler,argv[1])
-    print("Prediction accuracy: ", classifier.predictionAccuracy(), "%\n")
     end = time.time()
     print("Completed in "+str(round((end-start),2))+' seconds')
     
