@@ -1,403 +1,403 @@
-1.	Ten
-2.	Fufu
-3.	Otumfuo Osei Tutu I
-4.	Cocoa
-5.	Farming
-6.	Cote D'Ivoire
-7.	Dr. Owusu Afriyie Akoto
-8.	The practice of growing a series of different types of crops in the same area in sequenced seasons
-9.	An agricultural crop grown for sale to return profit.
-10.	A kind of farming in which the land is ploughed and used to grow crops.
-11.	Twi
-12.	28.8 million
-13.	Accra
-14.	Obuasi
-15.	West Africa
-16.	Cape Three points
-17.	1957
-18.	Ashanti Region
-19.	7.7 billion
-20.	Qatar
-21.	Carbohydrates
-22.	Protein
-23.	fats and oil.
-24.	Vitamin K
-25.	Vitamin C
-26.	Akan
-27.	Ga
-28.	Accra
-29.	Three
-30.	northern part
-31.	Two
-32.	Ghana.
-33.	54
-34.	Trotro
-35.	doctors and nurses
-36.	football players
-37.	Terminal 3
-38.	Nigeria
-39.	VIP buses
-40.	Akosombo dam
-41.	Britain
-42.	1964
-43.	Nairobi
-44.	Africa
-45.	Yes
-46.	Tanzania to the south and south-west, Uganda to the west, South Sudan to the north-west, Ethipia to the north and Somalia to the north-east
-47.	Approximately 48 million
-48.	Mombasa
-49.	Kisumu city
-50.	Yes
-51.	Mzee Jomo Kenyatta
-52.	Daniel Arap Moi
-53.	Mwai Kibaki
-54.	Uhuru Kenyatta
-55.	4
-56.	The President of Kenya
-57.	Agriculture
-58.	Tourism
-59.	24%
-60.	14%
-61.	15
-62.	Geothermal power
-63.	$74.94 billion (2017)
-64.	4.9%
-65.	tea, coffee, flowers
-66.	73%
-67.	Kikuyu
-68.	English, Kiswahili
-69.	Christianity
-70.	Islam
-71.	4.49 children per woman
-72.	8-4-4
-73.	8 years
-74.	4 years
-75.	Ngugi wa Thiong'o
-76.	Sauti Sol band
-77.	middle-distance athletics, long-distance athletics
-78.	Kenya is named after mt. Kenya
-79.	Ugali
-80.	Rift Valley Academy
-81.	Asynchronous JavaScript and XML.
-82.	JavaScript Object Notation.
-83.	Hypertext Markup Language.
-84.	PHP Hypertext Preprocessor.
-85.	Cascading Style Sheets.
-86.	Standard Query Language
-87.	Content Management System
-88.	Wordpress, WIX
-89.	Active Server Pages
-90.	extensible markup language.
-91.	Extensible Stylesheet Language
-92.	Extensible Stylesheet Language Transformations
-93.	HyperText Transfer Protocol
-94.	Java is a programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more.
-95.	eXtensible Markup Language
-96.	Active Server Pages. ASP is a development framework for building web pages.
-97.	Python is a popular programming language. It was created in 1991 by Guido van Rossum. It is used for: web development (server-side), software development, mathematics and system scripting.
-98.	AngularJS is a JavaScript framework. It is a library written in JavaScript. AngularJS extends HTML with ng-directives.
-99.	Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
-100.	JSON stands for JavaScript Object Notation. JSON is a syntax for storing and exchanging data.
-101.	Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.
-102.	AJAX can be used to read data from a web server - after the page has loaded, update a web page without reloading the page and send data to a web server - in the background.
-103.	HTML stands for Hypertext markup language. HTML describes the structure of Web pages using markup. HTML elements are the building blocks of HTML pages. 
-104.	JavaScript is the programming language of HTML and the Web. JavaScript can make changes to HTML attributes and modify CSS.
-105.	for Cascading Style Sheets.
-106.	jQuery is a lightweight, "write less, do more", JavaScript library
-107.	SQL is a standard language for storing, manipulating and retrieving data in relational databases.
-108.	PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
-109.	RSS stands for "Really Simple Syndication". 
-110.	ReactJS basically is an open-source JavaScript library which is used for building user interfaces specifically for single page applications.
-111.	React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android.
-112.	Vue is a progressive framework for building user interfaces.
-113.	All HTML elements can have attributes. Attributes provide additional information about an element.
-114.	Responsive Web design is the approach that suggests that design and development should respond to the user's behavior and environment based on screen size, platform and orientation. The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries.
-115.	HTML5 is the latest evolution of the standard that defines HTML.
-116.	The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents.
-117.	A relational database is a set of formally described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables. 
-118.	A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. 
-119.	WordPress is an online, open source website creation tool written in PHP.
-120.	SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
-121.	The Fastest Goal in Soccer history was scored just over 2 seconds after kick-off.
-122.	Soccer is played in a stadium.
-123.	At the start of a game, there are a total of 22 footballers on the pitch (11 a-side).
-124.	To become a Football Association (FA) referee you need to be at least 14-years-old.
-125.	In FIFA Football, a penalty kick is a unique version of the direct free kick.
-126.	The original 2014 World Cup's ball was produced in Pakistan.
-127.	The most goals scored in a World Cup's match was 10 by Hungary against El Salvador in 1982.
-128.	The British coined the term "Soccer" in the late 1800s, not America.
-129.	Australia's National Soccer team is called "The Socceroos."
-130.	A 20-month-old baby was the youngest professional soccer player ever, after being signed up by a Belgian club.
-131.	The first soccer game was televised in 1937.
-132.	The first soccer game televised was a friendly match between Arsenal's first and second team in 1937.
-133.	On average, soccer players run as far as 9.5 miles in a single match.
-134.	90 minutes, excluding additional time and extra time.
-135.	Yes it does.
-136.	Yes it does.
-137.	The Fédération Internationale de Football Association (FIFA) is an association governed by Swiss law.
-138.	FIFA was founded in 1904
-139.	FIFA is headquatered in Zuric, Switzerland
-140.	FIFA has 211 national associatons
-141.	The first World Cup took place in Montevideo, Uruguay in 1930.
-142.	Just 13 national teams participated.
-143.	The hosts Uruguay were the winners of the first wworld cup.
-144.	The UEFA Champions League is an annual club football competition organised by UEFA and contested by top-division European clubs.
-145.	The UEFA Champions League was founded in 1955.
-146.	The World Cup's top scorer is the retired German striker Miroslav Klose. He scored 24 goals over four tournaments.
-147.	The former French player Just Fontaine holds the record for top scorer in a single World Cup. In 1958 he sccored 13 goals.
-148.	Real Madrid was the first team to ever win the Champions League in 1955-56. 
-149.	Tony Britten wrote the UEFA Champions League anthem in 1992 when the competition got rebranded.
-150.	The fastest goal scored in the Champions League was by Bayern Munich’s Roy Makkay versus Real Madrid in 2007.
-151.	The biggest win in World Cup Qualifying was in 2001, between Australia and American Samoa. The Australians won by 31 to 0.
-152.	The team with the most trophies is Brazil. They have won the competition on five occasions.
-153.	Retired goalkeeper Dino Zoff is the oldest player to win the competition in 1982 when Italy won it. He was 40 years old.
-154.	Brazil is the only team to have participated in every edition of the World Cup.
-155.	Swansea’s Bafétimbi Gomis scored the fastest Champions League hattrick in 2011 under 8 minutes.
-156.	Brazil (in 1958 and 1962) and Italy (in 1934 and 1938) are the only countries to win the competitions back-to-back.
-157.	Uruguay in 1930, Italy in 1934, England in 1966, Germany in 1974, Argentina in 1978 and France in 1998.
-158.	The Brazillain, Jairzinho is the only footballer to score at least one goal in every game of one competition.
-159.	 Rafael Marques, Lothar Matthaus and Antonio Carbajal all have 5 appearances. 
-160.	Former Cameroon striker, Roger Milla. He was 42-years old.
-161.	The best times to buy a new car are at the end of the month, the end of the quarter and the end of the year. Dealers and their salespeople are rewarded for meeting sales goals during those time periods, so the sale of a few more vehicles could result in their getting a huge bonus that is based on all the vehicles they sold before the end of that time period. In these situations, dealers and salespeople are so motivated to close a sale that they will let some new cars go with little-or-no profit in the deal.
-162.	No, there are no laws giving you a "three day right to cancel" or any kind of cooling-off period that would permit you to return a car that you bought. However, if the dealer puts that language in your contract (most dealers won't), then it might be possible. Just remember: if something you want is not in writing, you're probably not going to get it.
-163.	The dealer invoice price is NOT the real dealer cost on a new car or truck. Dealers get all kinds of cash incentives, rewards and bonuses after new vehicles are sold, which allows them to make huge profits when they sell at the invoice price.
-164.	In most cases, leasing is NOT cheaper than buying. If you typically keep new cars longer than three years, then buying is going to be cheaper in the long run.
-165.	A good lease deal is no money down, lease term 36 months or less, and a $200 monthly payment - or as close to this as you can get. 
-166.	Our inventory is primarily 1-Owner Carfax Certified cars and truck. Most of our vehicles are Factory Certification Eligible.
-167.	Yes, simply fill out our locater request and we will locate a vehicle that meets your requirements.
-168.	Yes we welcome any independent inspection to be performed on all of our vehicles.
-169.	We have access to all original equipment part as well as all aftermarket and high performance. Feel free to contact us if you have any specific questions or requests.
-170.	We recommend you have your brakes inspected approximately every 2nd oil change. This is the best way to ensure top safety and performance, and avoid long-term damage.
-171.	If you feel that something’s not right with your vehicle, the best thing you can do is write down the symptoms, come in and see us, and give us the best explanation that you can.
-172.	When driving in the winter, be sure to familiarize yourself with potential conditions, such as hydroplaning or snow, keep emergency numbers available at all times.
-173.	As an environmentally-friendly automotive shop, Victoria Transmission and Auto Care is proud to offer tips and tricks to our valued customers, to help you be a more ‘green’ driver.
-174.	Very! Following your vehicle's routine maintenance schedule is the most effective thing you can do to preserve your vehicle's resale value and prolong its working life.
-175.	One of the most obvious reasons to buy used is the cost involved – used cars are, on average, 50% cheaper than new cars. Finance options will also be much more convenient, with shorter terms and lower payments.
-176.	At the moment, we do not offer leasing options for used cars, but you can opt for our other great solutions, such as a Personal Contract Plan or Hire Purchase.
-177.	Oftentimes it is not possible to receive a detailed history of your car – this is not the case at Thame Cars. Each one of our used cars comes with thorough information, is under 25,000 miles, visually looked after and screened through a 100-point safety check before being sold, so you can be sure that our cars are as reliable as they come.
-178.	Used cars are priced according to their specifications, age and condition. At Thames, all our cars enjoy low prices and great quality – each one is carefully inspected and under 25,000 miles.
-179.	Used cars are taxed according to where you buy them from and when they were registered. Buying a car with a registration certificate (V5C) from a dealer ensures that switching to a used car will be hassle-free and that you get all the help you need with the process.
-180.	It is estimated that the use of air conditioning in a typical car reduces fuel economy by one to two miles per gallon. For larger cars, or when traveling in extreme heat, air conditioning cuts fuel economy up to four miles per gallon.
-181.	Definitely. When tires are cold, add five pounds to the pressures recommended by your car's manufacturer. But don't overload the car because excessive loads and sharp impacts can cause tire cord breaks and create damaging heat buildup because of abnormal sidewall flexing.
-182.	A car engine shouldn't be left idling unnecessarily for more than a minute. It takes less fuel to start a car than it takes to let it idle while waiting, say, for a long freight train to pass.
-183.	An engine shouldn't idle for more than 15 to 30 seconds in any season, especially if it's fuel-injected.
-184.	The old models were more colorful and simpler to fix. But they were fuel-guzzling, overweight polluters that didn't stay in tune as long as modern cars. Also, while most 1950s cars rarely exceeded 100,000 miles without lots of maintenance and gentle driving, even low-priced 1990s autos are routinely driven far more than 100,000 miles with minimal maintenance. They're also safer, with items such as air bags, advanced safety belt systems, anti-lock brakes and "crush" zones that let the car--not its occupants--absorb the impact in collisions. Being lighter and more efficient, they're faster with a V-6 than most of the old V-8s.
-185.	Buy gasoline at busy stations to ensure you don't get a "bad load" that has been sitting too long in a tank. Also, don't buy gas at a station at the same time you see a delivery truck filling an underground tank--and stirring up impurities in the fuel in that tank.
-186.	While window shopping is a good way to get started on your car buying journey, the only way to get the best feel for a vehicle is to get behind the wheel for a test drive.
-187.	Regular maintenance helps to keep any vehicle running at optimum levels.
-188.	Oil changes should be done every three months or every 3,000 to 5,000 miles, whichever comes first.
-189.	Oil changes are necessary to keep your vehicle running in good condition, as oil provides lubrication for your engine and helps maintain cleanliness.
-190.	Your vehicle should be able to travel in a straight line without corrective action from you when the steering wheel is in the proper position. If it can't, your automobile may be out of alignment.
-191.	This is a vehicle history report based on the VIN number of the vehicle. A CarFax report typically provides information like how many owners the car has had and if it has been in an accident.
-192.	This is the amount that the dealership will credit you towards a new purchase based on the value of the vehicle that you have traded in.
-193.	If you don't mind listing the vehicle, marketing it, scheduling potential buyers, worrying about damage done during a test drive and other "costs," then you might choose to sell it yourself.
-194.	You will always find an extensive inventory of new Dodge cars and RAM trucks at competitive prices at our Dodge dealership, no matter the time of year. 
-195.	If you want your car to run for years, be sure to get it regular maintenance. When you schedule regular maintenance at our Ford service center, you will feel confident in the health of your vehicle.
-196.	We buy from sellers like Mercedes-Benz Credit, BMW Financial, and etc....If you've ever leased or purchased a new car from a Mercedes-Benz Dealer, then you probably were financed through either your own credit union or Mercedes-Benz Credit Corp.
-197.	Leasing a new Toyota sedan or a new luxury SUV has several advantages. If you like the idea of driving a new car every few years, don't drive a lot of miles per year (12,000 or less), don't relish the idea of trading in or selling a vehicle after your purchase it, then leasing at our car dealership in Indianapolis, IN makes a lot of sense.
-198.	Not at all. We're living in a pre-owned vehicle "golden age", where the quality and reliability possessed by pre-owned cars, and especially certified pre-owned cars, is at an all-time high. For example, every certified used car for sale is exhaustively inspected, refurbished into "like new" condition, and comes with an exceptional warranty, maintenance discounts, and much more.
-199.	Anyone who is not currently affiliated with a car dealership, or has not worked for any car dealership in the past 5 years can write a review provided he/she has had firsthand experience with the dealership. 
-200.	Your check engine light could be on for a multitude of reasons from the gas cap not being sealed properly to sensors or an even bigger issue.
-1. Chicken.���
-2. Campbell's.���
-3. The peanut.���
-4. South America.���
-5. Iceberg lettuce.���
-6. The plum tree.���
-7. Milk Chocolate.���
-8. Corn starch.���
-9. Mushrooms.���
-10. Sugar.���
-11. Olestra.���
-12. Lactose.���
-13. Pork.����
-14. Baking soda.���
-15. Bread.���
-16. An Apple.���
-17. Freeze-drying.���
-18. Tuna salad with mayo.���
-19. The coconut.����
-20. Peas.����
-21. Six.����
-22. Shrimp.����
-23. Sturgeon.����
-24. An Ostrich egg.���
-25. The peanut.����
-26. Monosodium glutamate.����
-27. Honey.���
-28. Fiber.���
-29. The Almond.���
-30. Spain����
-31. Venison����
-32. Omnivore����
-33. Avocado���
-34. Ingredients����
-35. India��
-36. Honey����
-37. Fishing���
-38. 100����
-39. USA����
-40. Carbohydrates����
-41. False���
-42. Corn����
-43. Marmalade����
-44. True����
-45. Milk���
-46. Warm����
-47. True����
-48. Pumpkins����
-49. Cake
-50. Herring
-51. Bell�
-52. Middle�
-53. 100C�
-54. Fleming�
-55. Dali�
-56. Shakespeare�
-57. Anonymous�
-58. alarm clock�
-59. Madrid�
-60. Prince Charles�
-61. Granada Spain�
-62. 50�
-63. Manzanares�
-64. Cologne�
-65. Grace Kelly�
-66. 1939�
-67. 1914�
-68. Oxygen�
-69. Ear�
-70. Elephant�
-71. 100�
-72. black and white�
-73. Polish�
-74. Esperanto�
-75. Sherlock Holmes�
-76. he did�
-77. Figueras�
-78. Da Vinci�
-79. 42�
-80. Cancer�
-81. Bookshop�
-82. 10, Downing Street�
-83. Doesn�t exist�
-84. 1945�
-85. In the beginning�
-86. 4�
-87. Budha�
-88. Big Ben�
-89. Genoa�
-90. 1865�
-91. Miners�
-92. Michelangelo�
-93. Cela�
-94. S. Holmes�
-95. Einstein�
-96. Mercury�
-97. Italy�
-98. Nairobi�
-99. Pacific�
-100. Tegucigarpa�
-101. United States of America��
-102. fifty��
-103. Washington DC��
-104. United states��
-105. An American��
-106. Siberia��
-107. 324,406,583��
-108. 238 years��
-109. Donald Trump��
-110. Christopher Columbus��
-111. 59.7 percent��
-112. December 6th, 1865��
-113. yes��
-114. 1118 gold medals��
-115. yes��
-116. ten��
-117. 1��
-118. 1777��
-119. six��
-120. Morocco��
-121. 1870��
-122. 1845��
-123. John Adams��
-124. Battle of Saratoga��
-125. 1987��
-126. Tariff��
-127. Tobacco��
-128. Spanish��
-129. 1795��
-130. Articles of Confederation��
-131. Eight��
-132. in 1914��
-133. the treaty of Paris of 1783��
-134. Franklin Roosevelt��
-135. Abraham Lincoln��
-136. Ohio��
-137. 1992��
-138. Wolash, Indiana��
-139. 1787��
-140. John Smith��
-141. George Washington��
-142. St. Augustine��
-143. Thomas Mckean��
-144. Ronald Reagan��
-145. Martin Van Buren��
-146. Ripon��
-147. Explosion in west Virginia��
-148. Skylab��
-149. Mary Mallon
-150. Galveston, Texas��
-151. Serverless computing, also known as function as a service (FaaS), is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function's container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour.��
-152. The AWS Serverless Application Repository offers a growing collection of serverless applications published by AWS and other AWS partners and developers. The Serverless Application Repository makes it easy to deploy applications for common use cases like web and mobile back-ends, stream processing, machine learning, and more, so you can quickly get started with the AWS Serverless platform.��
-153. AWS Lambda is an Amazon serverless computing system that runs code and automatically manages your underlying compute resources. It lets you automatically run code in response to many types of events, such as HTTP requests from Amazon API gateway, table updates in Amazon DynamoDB, and state transitions. It also enables you to extend to other AWS services with custom logic, and even create your own back-end services.��
-154. The SAM Command Line Interface (CLI) lets you locally build, test, and debug serverless applications defined by AWS SAM templates. SAM CLI provides a Lambda-like execution environment locally and helps you catch issues upfront.��
-155. You can use AWS SAM to build serverless applications that use�any runtime supported by AWS Lambda. You can also use SAM CLI to locally debug Lambda functions written in Node.js, Java, Python, and Go.�
-156. There is no additional charge to use AWS SAM. You pay for the AWS resources created using SAM in the same manner as if you created them manually. You only pay for what you use, as you use it. There are no minimum fees and no required upfront commitments.�
-157. You can install AWS SAM CLI on Linux, Mac, or Windows using pip. To get started,�visit our installation documentation.��
-158.  AWS SAM and the SAM CLI are open-sourced under the Apache 2.0 license. You can contribute new features and enhancements to�AWS SAM on GitHub�or the�AWS SAM CLI on GitHub.�
-159. Serverless applications are deployed as AWS CloudFormation stacks, which make it easy for you to manage an application as a single unit. Each resource is tagged with the application�s uniquely identifiable Amazon Resource Name (ARN), which helps you locate the resources using the AWS Tag Editor console. You can also use existing AWS and third-party tools to manage each resource separately.�
-160. If you would like to charge a fee for the use of a serverless application, you can integrate AWS Lambda behind Amazon API Gateway, and then sell the API as a SaaS product through the AWS Marketplace. To learn more, review the steps to list on AWS Marketplace and how to monetize your API using API Gateway.�
-161.  Building serverless applications means that your developers can focus on their core product instead of worrying about managing and operating servers or runtimes, either in the cloud or on-premises. This reduced overhead lets developers reclaim time and energy that can be spent on developing great products which scale and that are reliable.�
-162.  Support is available in markets where Microsoft Azure is offered. Some specific services may not be covered in all regions immediately after General Availability (GA).�
-163. Break-fix issues are technical problems you experience while using Azure services. "Break-fix" is an industry term that refers to �work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order."�
-164. �� The Azure free account includes $200 credit to spend for the first 30 days of sign up, free access to our most popular Azure products for 12 months, and access to more than 25 products that are always free.�
-165.  We�ll notify you so you can decide if you want to upgrade to a pay-as-you-go subscription. If you do, you�ll have access to all the free products. If you don�t, your account and products will be disabled, and you'll need to upgrade to resume usage.�
-166.  Your remaining credit is shown at the top of the management portal, so you always know where you're at.�
-167.  No, your credit can�t be applied to Azure Marketplace offers. However, many Azure Marketplace partners offer free trials and/or free tier plans for their solutions.�
-168.  Give us a call at 1-800-867-1389 and we�ll be happy to answer any questions you have.�
-169.  No. The Azure Hybrid Benefit cannot be combined with the products offered for free.�
-170. � At the end of your first 30 days, you can continue using your free products after you upgrade your account to a pay-as-you-go Azure subscription and remove the spending limit. If you stay within the service quantities included for free, you won�t have to pay anything.�
-171.  See the Cloud Storage Getting Support page for information about support options.�
-172.  Read the Pricing page for detailed information on pricing, including how Cloud Storage calculates bandwidth and storage usage.�
-173.  Yes!�
-174.  Yes, you can use Cloud Storage with either.�
-175.  To get started with Cloud IAM, read IAM�Quickstart.�
-176. �No. Alibaba Cloud support plan covers all services and users under the same account�so as to�provide a seamless service. However, it could not be used for one service only or for different accounts.�
-177. �For paid support plans, you could not cancel them in the middle of the subscription you signed up. However, you may cancel the subscription for the subsequent months by turning off the auto-renew button.�
-178.  For Basic, Developer and Business plan users, you could open a ticket from Support Center. If you have Enterprise support plan, you may reach us through phone, web chat, and technical account manager.�
-179.  Alibaba Cloud support service is a key factor for users to have a seamless and smooth experience with Alibaba Cloud services. All Alibaba Cloud users are recommended to choose a support plan based on their needs and budget.�We now offer support in English.�
-180.  Yes.�Physical resources reside in secure facilities, with independent auditing practices followed by the cloud vendors. Data are encrypted and host companies do not have access to those encryption keys. You (the account holder) manage access through user identities and access policies.�
-181.  Yes, absolutely.�Both the National Science Foundation (NSF) and the National Institutes of Health (NIH) fund cloud computing, but these fund sources do not qualify for any discounts or additional credits. We can help you explore these options.�
-182.  The Rackspace Cloud Servers solution is a fully unrestricted, root/Administrator level access, Linux or Windows environment. Any application or service that you can run from a traditional, physical, dedicated-unmanaged operations server can be run from your Cloud Server.�
-183.  You can reboot your server. You can restore from a backup. You can delete your server and start over. You can boot into an emergency rescue mode and attempt fix the problem. There are many options for recovering from mistakes, but the easiest is to keep regular backups and to make a fresh backup before attempting any major configuration changes or before installing new software.�
-184.  The native storage allocation for a Cloud Server is based on the Cloud Server flavor that you select, but you can add extra storage at any time with our Cloud Block Storage service.�
-185.  Yes, and we encourage it! Each Linux server�is capable of running�the Linux-standard firewall called iptables; some even have it pre-configured. Other firewall systems have been tested on Cloud Servers as well.�
-186.  The documentation for the API for Cloud Servers and our other products is located on the Rackspace Developer Docs site.�
-187.  Yes. Users can provision security groups by using the neutron client.
-188.  No default security group is applied. You just create a Security Group and apply it to the ports on an instance.�
-189.  No. Security Groups are currently supported only for virtual cloud servers.�
-190.  No, to change the flavor you�have to�restart the server.�
-191.  No, the additional volumes must be external�Ceph�volumes.�
-192.  No, this feature is still in development on OpenStack, it will be available in the next versions.�
-193.  Yes, you can take a free trial of Umbraco Cloud and test it for 14 days with no obligation to buy.�
-194.  No.�
-195.  No. All services currently run in the Azure West Europe region.�
-196. �Yes it is!�Websockets�are enabled on all sites, old and new.�
-197.  Amazon Web Services (AWS) is the leading industry provider of cloud computing services. FileMaker Cloud is offered through AWS Marketplace, an online store that sells cloud-based software and�services, and�runs on the AWS Cloud.�
-198. �Orbitera�is an authorized FileMaker reseller for FileMaker Cloud on AWS Marketplace.�Orbitera�helps companies sell and distribute cloud?ready solutions and services.�
-199.  FileMaker Cloud is currently available in the United States, Canada, Europe, Japan, and Australia.�
-200.  A user is a unique person who will need any type of access to the FileMaker Platform. A user can create or use apps to view, enter, or modify data with iPad, iPhone, Windows, Mac, or the web using the FileMaker Platform.�
+Ten
+Fufu
+Otumfuo Osei Tutu I
+Cocoa
+Farming
+Cote D'Ivoire
+Dr. Owusu Afriyie Akoto
+The practice of growing a series of different types of crops in the same area in sequenced seasons
+An agricultural crop grown for sale to return profit.
+A kind of farming in which the land is ploughed and used to grow crops.
+Twi
+28.8 million
+Accra
+Obuasi
+West Africa
+Cape Three points
+1957
+Ashanti Region
+7.7 billion
+Qatar
+Carbohydrates
+Protein
+fats and oil.
+Vitamin K
+Vitamin C
+Akan
+Ga
+Accra
+Three
+northern part
+Two
+Ghana.
+54
+Trotro
+doctors and nurses
+football players
+Terminal 3
+Nigeria
+VIP buses
+Akosombo dam
+Britain
+1964
+Nairobi
+Africa
+Yes
+Tanzania to the south and south-west, Uganda to the west, South Sudan to the north-west, Ethipia to the north and Somalia to the north-east
+Approximately 48 million
+Mombasa
+Kisumu city
+Yes
+Mzee Jomo Kenyatta
+Daniel Arap Moi
+Mwai Kibaki
+Uhuru Kenyatta
+4
+The President of Kenya
+Agriculture
+Tourism
+24%
+14%
+15
+Geothermal power
+$74.94 billion (2017)
+4.9%
+tea, coffee, flowers
+73%
+Kikuyu
+English, Kiswahili
+Christianity
+Islam
+4.49 children per woman
+8-4-4
+8 years
+4 years
+Ngugi wa Thiong'o
+Sauti Sol band
+middle-distance athletics, long-distance athletics
+Kenya is named after mt. Kenya
+Ugali
+Rift Valley Academy
+Asynchronous JavaScript and XML.
+JavaScript Object Notation.
+Hypertext Markup Language.
+PHP Hypertext Preprocessor.
+Cascading Style Sheets.
+Standard Query Language
+Content Management System
+Wordpress, WIX
+Active Server Pages
+extensible markup language.
+Extensible Stylesheet Language
+Extensible Stylesheet Language Transformations
+HyperText Transfer Protocol
+Java is a programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more.
+eXtensible Markup Language
+Active Server Pages. ASP is a development framework for building web pages.
+Python is a popular programming language. It was created in 1991 by Guido van Rossum. It is used for: web development (server-side), software development, mathematics and system scripting.
+AngularJS is a JavaScript framework. It is a library written in JavaScript. AngularJS extends HTML with ng-directives.
+Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
+JSON stands for JavaScript Object Notation. JSON is a syntax for storing and exchanging data.
+Node.js is an open source server environment. Node.js allows you to run JavaScript on the server.
+AJAX can be used to read data from a web server - after the page has loaded, update a web page without reloading the page and send data to a web server - in the background.
+HTML stands for Hypertext markup language. HTML describes the structure of Web pages using markup. HTML elements are the building blocks of HTML pages.
+JavaScript is the programming language of HTML and the Web. JavaScript can make changes to HTML attributes and modify CSS.
+for Cascading Style Sheets.
+jQuery is a lightweight, "write less, do more", JavaScript library
+SQL is a standard language for storing, manipulating and retrieving data in relational databases.
+PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.
+RSS stands for "Really Simple Syndication".
+ReactJS basically is an open-source JavaScript library which is used for building user interfaces specifically for single page applications.
+React Native is a JavaScript framework for writing real, natively rendering mobile applications for iOS and Android.
+Vue is a progressive framework for building user interfaces.
+All HTML elements can have attributes. Attributes provide additional information about an element.
+Responsive Web design is the approach that suggests that design and development should respond to the user's behavior and environment based on screen size, platform and orientation. The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries.
+HTML5 is the latest evolution of the standard that defines HTML.
+The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents.
+A relational database is a set of formally described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables.
+A NoSQL (originally referring to "non SQL" or "non relational") database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+WordPress is an online, open source website creation tool written in PHP.
+SQL injection is a code injection technique, used to attack data-driven applications, in which nefarious SQL statements are inserted into an entry field for execution (e.g. to dump the database contents to the attacker).
+The Fastest Goal in Soccer history was scored just over 2 seconds after kick-off.
+Soccer is played in a stadium.
+At the start of a game, there are a total of 22 footballers on the pitch (11 a-side).
+To become a Football Association (FA) referee you need to be at least 14-years-old.
+In FIFA Football, a penalty kick is a unique version of the direct free kick.
+The original 2014 World Cup's ball was produced in Pakistan.
+The most goals scored in a World Cup's match was 10 by Hungary against El Salvador in 1982.
+The British coined the term "Soccer" in the late 1800s, not America.
+Australia's National Soccer team is called "The Socceroos."
+A 20-month-old baby was the youngest professional soccer player ever, after being signed up by a Belgian club.
+The first soccer game was televised in 1937.
+The first soccer game televised was a friendly match between Arsenal's first and second team in 1937.
+On average, soccer players run as far as 9.5 miles in a single match.
+90 minutes, excluding additional time and extra time.
+Yes it does.
+Yes it does.
+The Fédération Internationale de Football Association (FIFA) is an association governed by Swiss law.
+FIFA was founded in 1904
+FIFA is headquatered in Zuric, Switzerland
+FIFA has 211 national associatons
+The first World Cup took place in Montevideo, Uruguay in 1930.
+Just 13 national teams participated.
+The hosts Uruguay were the winners of the first wworld cup.
+The UEFA Champions League is an annual club football competition organised by UEFA and contested by top-division European clubs.
+The UEFA Champions League was founded in 1955.
+The World Cup's top scorer is the retired German striker Miroslav Klose. He scored 24 goals over four tournaments.
+The former French player Just Fontaine holds the record for top scorer in a single World Cup. In 1958 he sccored 13 goals.
+Real Madrid was the first team to ever win the Champions League in 1955-56.
+Tony Britten wrote the UEFA Champions League anthem in 1992 when the competition got rebranded.
+The fastest goal scored in the Champions League was by Bayern Munich’s Roy Makkay versus Real Madrid in 2007.
+The biggest win in World Cup Qualifying was in 2001, between Australia and American Samoa. The Australians won by 31 to 0.
+The team with the most trophies is Brazil. They have won the competition on five occasions.
+Retired goalkeeper Dino Zoff is the oldest player to win the competition in 1982 when Italy won it. He was 40 years old.
+Brazil is the only team to have participated in every edition of the World Cup.
+Swansea’s Bafétimbi Gomis scored the fastest Champions League hattrick in 2011 under 8 minutes.
+Brazil (in 1958 and 1962) and Italy (in 1934 and 1938) are the only countries to win the competitions back-to-back.
+Uruguay in 1930, Italy in 1934, England in 1966, Germany in 1974, Argentina in 1978 and France in 1998.
+The Brazillain, Jairzinho is the only footballer to score at least one goal in every game of one competition.
+ Rafael Marques, Lothar Matthaus and Antonio Carbajal all have 5 appearances.
+Former Cameroon striker, Roger Milla. He was 42-years old.
+The best times to buy a new car are at the end of the month, the end of the quarter and the end of the year. Dealers and their salespeople are rewarded for meeting sales goals during those time periods, so the sale of a few more vehicles could result in their getting a huge bonus that is based on all the vehicles they sold before the end of that time period. In these situations, dealers and salespeople are so motivated to close a sale that they will let some new cars go with little-or-no profit in the deal.
+No, there are no laws giving you a "three day right to cancel" or any kind of cooling-off period that would permit you to return a car that you bought. However, if the dealer puts that language in your contract (most dealers won't), then it might be possible. Just remember: if something you want is not in writing, you're probably not going to get it.
+The dealer invoice price is NOT the real dealer cost on a new car or truck. Dealers get all kinds of cash incentives, rewards and bonuses after new vehicles are sold, which allows them to make huge profits when they sell at the invoice price.
+In most cases, leasing is NOT cheaper than buying. If you typically keep new cars longer than three years, then buying is going to be cheaper in the long run.
+A good lease deal is no money down, lease term 36 months or less, and a $200 monthly payment - or as close to this as you can get.
+Our inventory is primarily 1-Owner Carfax Certified cars and truck. Most of our vehicles are Factory Certification Eligible.
+Yes, simply fill out our locater request and we will locate a vehicle that meets your requirements.
+Yes we welcome any independent inspection to be performed on all of our vehicles.
+We have access to all original equipment part as well as all aftermarket and high performance. Feel free to contact us if you have any specific questions or requests.
+We recommend you have your brakes inspected approximately every 2nd oil change. This is the best way to ensure top safety and performance, and avoid long-term damage.
+If you feel that something’s not right with your vehicle, the best thing you can do is write down the symptoms, come in and see us, and give us the best explanation that you can.
+When driving in the winter, be sure to familiarize yourself with potential conditions, such as hydroplaning or snow, keep emergency numbers available at all times.
+As an environmentally-friendly automotive shop, Victoria Transmission and Auto Care is proud to offer tips and tricks to our valued customers, to help you be a more ‘green’ driver.
+Very! Following your vehicle's routine maintenance schedule is the most effective thing you can do to preserve your vehicle's resale value and prolong its working life.
+One of the most obvious reasons to buy used is the cost involved – used cars are, on average, 50% cheaper than new cars. Finance options will also be much more convenient, with shorter terms and lower payments.
+At the moment, we do not offer leasing options for used cars, but you can opt for our other great solutions, such as a Personal Contract Plan or Hire Purchase.
+Oftentimes it is not possible to receive a detailed history of your car – this is not the case at Thame Cars. Each one of our used cars comes with thorough information, is under 25,000 miles, visually looked after and screened through a 100-point safety check before being sold, so you can be sure that our cars are as reliable as they come.
+Used cars are priced according to their specifications, age and condition. At Thames, all our cars enjoy low prices and great quality – each one is carefully inspected and under 25,000 miles.
+Used cars are taxed according to where you buy them from and when they were registered. Buying a car with a registration certificate (V5C) from a dealer ensures that switching to a used car will be hassle-free and that you get all the help you need with the process.
+It is estimated that the use of air conditioning in a typical car reduces fuel economy by one to two miles per gallon. For larger cars, or when traveling in extreme heat, air conditioning cuts fuel economy up to four miles per gallon.
+Definitely. When tires are cold, add five pounds to the pressures recommended by your car's manufacturer. But don't overload the car because excessive loads and sharp impacts can cause tire cord breaks and create damaging heat buildup because of abnormal sidewall flexing.
+A car engine shouldn't be left idling unnecessarily for more than a minute. It takes less fuel to start a car than it takes to let it idle while waiting, say, for a long freight train to pass.
+An engine shouldn't idle for more than 15 to 30 seconds in any season, especially if it's fuel-injected.
+The old models were more colorful and simpler to fix. But they were fuel-guzzling, overweight polluters that didn't stay in tune as long as modern cars. Also, while most 1950s cars rarely exceeded 100,000 miles without lots of maintenance and gentle driving, even low-priced 1990s autos are routinely driven far more than 100,000 miles with minimal maintenance. They're also safer, with items such as air bags, advanced safety belt systems, anti-lock brakes and "crush" zones that let the car--not its occupants--absorb the impact in collisions. Being lighter and more efficient, they're faster with a V-6 than most of the old V-8s.
+Buy gasoline at busy stations to ensure you don't get a "bad load" that has been sitting too long in a tank. Also, don't buy gas at a station at the same time you see a delivery truck filling an underground tank--and stirring up impurities in the fuel in that tank.
+While window shopping is a good way to get started on your car buying journey, the only way to get the best feel for a vehicle is to get behind the wheel for a test drive.
+Regular maintenance helps to keep any vehicle running at optimum levels.
+Oil changes should be done every three months or every 3,000 to 5,000 miles, whichever comes first.
+Oil changes are necessary to keep your vehicle running in good condition, as oil provides lubrication for your engine and helps maintain cleanliness.
+Your vehicle should be able to travel in a straight line without corrective action from you when the steering wheel is in the proper position. If it can't, your automobile may be out of alignment.
+This is a vehicle history report based on the VIN number of the vehicle. A CarFax report typically provides information like how many owners the car has had and if it has been in an accident.
+This is the amount that the dealership will credit you towards a new purchase based on the value of the vehicle that you have traded in.
+If you don't mind listing the vehicle, marketing it, scheduling potential buyers, worrying about damage done during a test drive and other "costs," then you might choose to sell it yourself.
+You will always find an extensive inventory of new Dodge cars and RAM trucks at competitive prices at our Dodge dealership, no matter the time of year.
+If you want your car to run for years, be sure to get it regular maintenance. When you schedule regular maintenance at our Ford service center, you will feel confident in the health of your vehicle.
+We buy from sellers like Mercedes-Benz Credit, BMW Financial, and etc....If you've ever leased or purchased a new car from a Mercedes-Benz Dealer, then you probably were financed through either your own credit union or Mercedes-Benz Credit Corp.
+Leasing a new Toyota sedan or a new luxury SUV has several advantages. If you like the idea of driving a new car every few years, don't drive a lot of miles per year (12,000 or less), don't relish the idea of trading in or selling a vehicle after your purchase it, then leasing at our car dealership in Indianapolis, IN makes a lot of sense.
+Not at all. We're living in a pre-owned vehicle "golden age", where the quality and reliability possessed by pre-owned cars, and especially certified pre-owned cars, is at an all-time high. For example, every certified used car for sale is exhaustively inspected, refurbished into "like new" condition, and comes with an exceptional warranty, maintenance discounts, and much more.
+Anyone who is not currently affiliated with a car dealership, or has not worked for any car dealership in the past 5 years can write a review provided he/she has had firsthand experience with the dealership.
+Your check engine light could be on for a multitude of reasons from the gas cap not being sealed properly to sensors or an even bigger issue.
+Chicken.
+Campbell's.
+The peanut.
+South America.
+Iceberg lettuce.
+The plum tree.
+Milk Chocolate.
+Corn starch.
+Mushrooms.
+Sugar.
+Olestra.
+Lactose.
+Pork.
+Baking soda.
+Bread.
+An Apple.
+Freeze-drying.
+Tuna salad with mayo.
+The coconut.
+Peas.
+Six.
+Shrimp.
+Sturgeon.
+An Ostrich egg.
+The peanut.
+Monosodium glutamate.
+Honey.
+Fiber.
+The Almond.
+Spain
+Venison
+Omnivore
+Avocado
+Ingredients
+India
+Honey
+Fishing
+100
+USA
+Carbohydrates
+False
+Corn
+Marmalade
+True
+Milk
+Warm
+True
+Pumpkins
+Cake
+Herring
+Bell
+Middle
+100C
+Fleming
+Dali
+Shakespeare
+Anonymous
+alarm clock
+Madrid
+Prince Charles
+Granada Spain
+50
+Manzanares
+Cologne
+Grace Kelly
+1939
+1914
+Oxygen
+Ear
+Elephant
+100
+black and white
+Polish
+Esperanto
+Sherlock Holmes
+he did
+Figueras
+Da Vinci
+42
+Cancer
+Bookshop
+10, Downing Street
+ oesn't exist
+1945
+In the beginning
+4
+Budha
+Big Ben
+Genoa
+1865
+Miners
+Michelangelo
+Cela
+S. Holmes
+Einstein
+Mercury
+Italy
+Nairobi
+Pacific
+Tegucigarpa
+United States of America
+fifty
+Washington DC
+United states
+An American
+Siberia
+324,406,583
+238 years
+Donald Trump
+Christopher Columbus
+59.7 percent
+December 6th, 1865
+yes
+1118 gold medals
+yes
+ten
+1
+1777
+six
+Morocco
+1870
+1845
+John Adams
+Battle of Saratoga
+1987
+Tariff
+Tobacco
+Spanish
+1795
+Articles of Confederation
+Eight
+in 1914
+the treaty of Paris of 1783
+Franklin Roosevelt
+Abraham Lincoln
+Ohio
+1992
+Wolash, Indiana
+1787
+John Smith
+George Washington
+St. Augustine
+Thomas Mckean
+Ronald Reagan
+Martin Van Buren
+Ripon
+Explosion in west Virginia
+Skylab
+Mary Mallon
+Galveston, Texas
+Serverless computing, also known as function as a service (FaaS), is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function's container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per virtual machine, per hour.
+The AWS Serverless Application Repository offers a growing collection of serverless applications published by AWS and other AWS partners and developers. The Serverless Application Repository makes it easy to deploy applications for common use cases like web and mobile back-ends, stream processing, machine learning, and more, so you can quickly get started with the AWS Serverless platform.
+AWS Lambda is an Amazon serverless computing system that runs code and automatically manages your underlying compute resources. It lets you automatically run code in response to many types of events, such as HTTP requests from Amazon API gateway, table updates in Amazon DynamoDB, and state transitions. It also enables you to extend to other AWS services with custom logic, and even create your own back-end services.
+The SAM Command Line Interface (CLI) lets you locally build, test, and debug serverless applications defined by AWS SAM templates. SAM CLI provides a Lambda-like execution environment locally and helps you catch issues upfront.
+You can use AWS SAM to build serverless applications that use any runtime supported by AWS Lambda. You can also use SAM CLI to locally debug Lambda functions written in Node.js, Java, Python, and Go.
+There is no additional charge to use AWS SAM. You pay for the AWS resources created using SAM in the same manner as if you created them manually. You only pay for what you use, as you use it. There are no minimum fees and no required upfront commitments.
+You can install AWS SAM CLI on Linux, Mac, or Windows using pip. To get started, visit our installation documentation.
+AWS SAM and the SAM CLI are open-sourced under the Apache 2.0 license. You can contribute new features and enhancements to AWS SAM on GitHub or the AWS SAM CLI on GitHub.
+Serverless applications are deployed as AWS CloudFormation stacks, which make it easy for you to manage an application as a single unit. Each resource is tagged with the applications uniquely identifiable Amazon Resource Name (ARN), which helps you locate the resources using the AWS Tag Editor console. You can also use existing AWS and third-party tools to manage each resource separately.
+If you would like to charge a fee for the use of a serverless application, you can integrate AWS Lambda behind Amazon API Gateway, and then sell the API as a SaaS product through the AWS Marketplace. To learn more, review the steps to list on AWS Marketplace and how to monetize your API using API Gateway.
+Building serverless applications means that your developers can focus on their core product instead of worrying about managing and operating servers r runtimes, either in the cloud or on-premises. This reduced overhead lets developers reclaim time and energy that can be spent on developing great products which scale and that are reliable.
+Support is available in markets where Microsoft Azure is offered. Some specific services may not be covered in all regions immediately after General Availability (GA)
+Break-fix issues are technical problems you experience while using Azure services. "Break-fix" is an industry term that refers to work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order."
+The Azure free account includes $200 credit to spend for the first 30 days of sign up, free access to our most popular Azure products for 12 months, and access to more than 25 products that are always free.
+We ll notify you so you can decide if you want to upgrade to a pay-as-you-go subscription. If you do, youll have access to all the free products. If you dont, your account and products will be disabled, and you'll need to upgrade to resume usage.
+Your remaining credit is shown at the top of the management portal, so you always know where you're at.
+No, your credit can t be applied to Azure Marketplace offers. However, many Azure Marketplace partners offer free trials and/or free tier plans for their solutions.
+Give us a call at 1-800-867-1389 and we ll be happy to answer any questions you have.
+No. The Azure Hybrid Benefit cannot be combined with the products offered for free.
+At the end of your first 30 days, you can continue using your free products after you upgrade your account to a pay-as-you-go Azure subscription and remove the spending limit. If you stay within the service quantities included for free, you won't have to pay anything.
+See the Cloud Storage Getting Support page for information about support options.
+Read the Pricing page for detailed information on picing, including how Cloud Storage calculates bandwidth and storage usage.
+Yes!
+Yes, you can use Cloud Storage with either.
+To get started with Cloud IAM, read IAM Quickstart.
+No. Alibaba Cloud support plan covers all services and users under the same account so as to provide a seamless service. However, it could not be used for one service only or for different accounts.
+For paid support plans, you could not cancel them in the middle of the subscription you signed up. However, you may cancel the subscription for the subsequent months by turning off the auto-renew button.
+For Basic, Developer and Business plan users, you could open a ticket from Support Center. If you have Enterprise support plan, you may reach us through phone, web chat, and technical account manager.
+Alibaba Cloud support service is a key factor for users to have a seamless and smooth experience with Alibaba Cloud services. All Alibaba Cloud users are recommended to choose a support plan based on their needs and budget. We now offer support in English.
+Yes. Physical resources reside in secure facilities, with independent auditing practices followed by the cloud vendors. Data are encrypted and host companies do not have access to those encryption keys. You (the account holder) manage access through user identities and access policies.
+Yes, absolutely. Both the National Science Foundation (NSF) and the National Institutes of Health (NIH) fund cloud computing, but these fund sources do not qualify for any discounts or additional credits. We can help you explore these options.
+The Rackspace Cloud Servers solution is a fully unrestricted, root/Administrator level access, Linux or Windows environment. Any application or service that you can run from a traditional, physical, dedicated-unmanaged operations server can be run from your Cloud Server.
+You can reboot your server. You can restore from a backup. You can delete your server and start over. You can boot into an emergency rescue mode and attempt fix the problem. There are many options for recovering from mistakes, but the easiest is to keep regular backups and to make a fresh backup before attempting any major configuration changes or before installing new software
+The native storage allocation for a Cloud Server is based on the Cloud Server flavor that you select, but you can add extra storage at any time with our Cloud Block Storage service.
+Yes, and we encourage it! Each Linux server is capable of running the Linux-standard firewall called iptables; some even have it pre-configured. Other firewall systems have been tested on Cloud Servers as well.
+The documentation for the API for Cloud Servers and our other products is located on the Rackspace Developer Docs site.
+Yes. Users can provision security groups by using the neutron client.
+No default security group is applied. You just create a Security Group and apply it to the ports on an instance
+No. Security Groups are currently supported only for virtual cloud servers.
+No, to change the flavor you have to restart the server.
+No, the additional volumes must be external Ceph volumes.
+No, this feature is still in development on OpenStack, it will be available in the next versions.
+Yes, you can take a free trial of Umbraco Cloud and test it for 14 days with no obligation to buy.
+No.
+No. All services currently run in the Azure West Europe region.
+Yes it is! Websockets are enabled on all sites, old and new.
+Amazon Web Services (AWS) is the leading ind stry provider of cloud computing services. FileMaker Cloud is offered through AWS Marketplace, an online store that sells cloud-based software and services, and runs on the AWS Cloud.
+Orbitera is an authorized FileMaker reseller for FileMaker Cloud on AWS Marketplace. Orbitera helps companies sell and distribute cloud?ready solutions and services.
+FileMaker Cloud is currently available in the United States, Canada, Europe, Japan, and Australia.
+A user is a unique person who will need any type of access to the FileMaker Platform. A user can create or use apps to view, enter, or modify data with iPad, iPhone, Windows, Mac, or the web using the FileMaker Platform.
 Yes! It works great with an Apple TV (I use it on my 4th gen). This is excellent for watching movies, esp. and for playing your music library and/or music on your computer if iTunes sharing is turned on. Plays Pandora if you have that app as well- all of your audio-out needs. It doesn't stay active with the Apple TV if you use it for other things, but it is really easy to access your audio settings and re-select it with needed, similar to an iPhone or iPad. It, unfortunately, doesn't work as a general TV speaker- only ATV. I don't think you can control anything besides volume by voice through the HomePod-conneccted ATV. But the Siri remote is just as easy, really.
 Yes you are able to independently play Apple Music (of the same subscription) on both your iPhone and HomePod concurrently.
 Hi. Yes, I've just done exactly that. Australia use compatible plugs and voltage. Only had it a couple of days, but the HomePod seems to be working fine for me here in NZ.
@@ -438,158 +438,149 @@ No
 No
 Right now, you can’t use more than one HomePod together.
 There is an LED on the top of the HomePod that lights up when Siri is recording
-1. Alexa allows you to ask questions and make requests using just your voice. For instance, you can ask Alexa a question, such as "What is the weather today in New York?", or tell Alexa to do something, like "Add batteries to my shopping list," or "Play jazz." When you speak to Alexa, a recording of what you asked Alexa is sent to Amazon's cloud so we can process and respond to your request. You access Alexa differently based on the type of device you are using. For "hands free" devices, like the Amazon Echo, you access Alexa by saying the wake word (Alexa, Echo, Amazon, or Computer). For other devices, like certain Fire tablets, you access Alexa by pressing a button.
-2. When you speak to Alexa, a recording of what you asked Alexa is sent to Amazon�s cloud where we process your request and other information to respond to you. For example, when you ask �Alexa, play top hits on Amazon Music� we use the recording of your request and information from Amazon Music to play top hits.
-3. No. Echo devices are designed to detect only your chosen wake word (Alexa, Amazon, Computer or Echo). The device detects the wake word by identifying acoustic patterns that match the wake word. No audio is stored or sent to the cloud unless the device detects the wake word (or Alexa is activated by pressing a button).
-4. Yes. You can review voice recordings associated with your account and delete those voice recordings one by one or all at once by visiting Privacy in Settings in the Alexa app or https://www.amazon.com/alexaprivacy . You can also review those voice recordings by visiting History in Settings in the Alexa app and delete those voice recordings all at once for each of your Alexa-enabled products by visiting Manage Your Content and Devices. Deleting voice recordings may degrade your Alexa experience. If you delete voice recordings, we will also remove Home Screen Cards in the Alexa app related to those voice recordings. However, removing a Home Screen Card from your Alexa app does not delete voice recordings. If you have changed your default marketplace while using an Alexa-enabled product, you will need to perform this step for each marketplace to delete all voice recordings associated with your account. Note that deleting your voice recordings does not remove your Alexa messages. For more information on removing messages, refer to the FAQ "How do I remove messages?"
-5. Alexa uses your voice recordings and other information, including from third-party services, to answer your questions, fulfil your requests, and improve your experience and our services. We associate your requests with your Amazon account to allow you to review your voice recordings, access other Amazon services (e.g., so you can ask Alexa to read your Kindle books and play audiobooks from Audible), and to provide you with a more personalized experience. For example, keeping track of the songs you have listened to helps Alexa choose what songs to play when you say, �Alexa, play music.� At times, Alexa may make recommendations to you based on your requests. For example, Alexa may recommend Alexa skills you might like based on the Alexa skills you use.
-6. Alexa is designed to get smarter every day. The more you use Alexa, the more the service adapts to your speech patterns, vocabulary, and personal preferences. For example, we use your requests to Alexa to train our speech recognition and natural language understanding systems. The more data we use to train these systems, the better Alexa works, and training Alexa with voice recordings from a diverse range of customers helps ensure Alexa works well for everyone. You can also help us improve our voice services by providing feedback within History in the Alexa app.
-7. Skills are voice-driven Alexa capabilities. You can view and enable skills in your Alexa app and enable certain skills by voice. You can use a skill by saying a specific phrase, called the invocation name. When you use a skill, we may exchange related information with the developer of that skill, such as your answers when you play a trivia skill, your ZIP code when you ask for the weather, or the content of your requests. If you make a request to Alexa without using a skill invocation name, we may send the content of your request to several skills, and enable and launch the skill we think is best able to respond to your request. The Skills portion of your Alexa app contains more information about skills, such as applicable policies or terms of use provided by skill developers.
-8. Prime members can ask Alexa to order or reorder eligible products available for sale through the Amazon website. You can also subscribe to eligible services using Alexa, purchase songs or albums from our Digital Music Store, or purchase products and services through Alexa skills using your default payment and shipping settings. You can require a speakable confirmation code, turn purchasing off, and see product and order details in your Alexa app or at https://alexa.amazon.comfor those orders. Just like orders placed through the Amazon website, orders placed through Alexa are subject to Amazon's Conditions of Use and Privacy Notice in the case of a subscription for a service, the terms for the applicable service. Voice purchasing from Amazon is turned off for FreeTime on Alexa. Some Alexa skills allow you to purchase non-digital products or services from the developer of the skill (for instance, order food through a restaurant's skill) via Amazon Pay using your default payment and shipping settings. You can view your Amazon Pay order history and find additional information for those purchases on the Amazon Pay website. Some other Alexa skills allow you to purchase products and services from the developer of the skill using a payment method you provide directly to the developer. Your voice purchasing settings may not apply to those purchases.
-9. Yes, Alexa has voice purchasing settings. Open Settings > Voice Purchasing in your Alexa app to turn off voice purchasing from Amazon. You can also require an optional confirmation code that Alexa will ask you to say out loud when you want to place an order from Amazon.
-10. For information on return policies applicable to non-digital products purchased on Amazon using Alexa, see About Our Returns Policies. Amazon's return policies do not apply to purchases of non-digital products or services made through third-party Alexa skills (for instance, a food order placed through a restaurant's skill). Instead, the returns policy of the applicable skill developer applies. However, the Amazon Pay A-to-z Guarantee covers qualified purchases of physical products made through third-party Alexa skills using Amazon Pay. Purchases of digital content are final. However, if you accidentally purchase digital content or a subscription to a non-Amazon service through Alexa, that purchase is eligible for return and refund if we receive your request within 7 days of the date of purchase. To request a refund, please contact customer service. You may cancel the auto-renewal of a subscription to a non-Amazon service by visiting the detail page for the applicable Alexa skill in your Alexa app and adjusting your subscription settings; you will not receive a refund of any fees already paid. For subscriptions to Amazon services, see the terms of use for the applicable subscription for information on refund eligibility and cancellation terms.
-11. Alexa also allows you to donate to eligible charities by voice. When you make a donation, Amazon Pay will process the donation using your default Amazon payment settings and will share your name, address, and email with the charity. Your voice purchasing settings apply to donations. If you accidentally make a donation through Alexa or donate to the wrong charity, please contact customer service. You can see details of your donation in your Alexa app or at https://alexa.amazon.com.
-12. Kid skills are skills that have been identified by the developer as directed to children under age 13. Consistent with the Children's Online Privacy Protection Act, we require permission from a parent before kid skills can be used. You'll be asked to give permission the first time you attempt to use a kid skill. After you've given permission, you will receive a confirmation e-mail. You can review or change permissions by visiting the Manage Parental Consent page on Amazon.com or by contacting Customer Service ( https://www.amazon.com/contact-us). To learn more, please visit our Children's Privacy Disclosure.
-13. Alexa enables you to control and check the status of a variety of smart home devices, such as lights, switches, cameras and thermostats. See compatible smart home devices . You can connect compatible smart home devices to Alexa using Alexa smart home skills. You can also directly connect certain smart home devices to Echo devices with a built-in smart home hub like Echo Plus. We may automatically update the firmware for certain devices on behalf of the applicable manufacturer. We may receive information about third-party smart home devices you connect to Alexa, such as device type, name, features, and status and usage history. You can delete Alexa�s status and usage history for third-party smart home devices through the Manage Smart Home Device History tab of the Privacy Settings in the Alexa app or https://www.amazon.com/alexaprivacy . Deleting this history may degrade your Alexa experience and certain features, such as Hunches. This will not delete other information about your smart home devices, such as device type or name.
-14. Alexa can automatically recognize the voices of users in your household over time to improve personalization of certain Alexa features. You can also create a voice profile, so Alexa can call you by name and do more to personalize your experience. When Alexa recognizes your voice automatically, or when you create a voice profile, Alexa uses recordings of your voice to create an acoustic model of your voice characteristics. Alexa stores these acoustic models in the cloud. If a user stops using Alexa and their voice is not recognized for three years, we will automatically delete the acoustic model for their voice. You can turn off automatic voice recognition or delete any voice profile you've created in the Alexa app. Automatic voice recognition is not available in certain locations.
-15. This free feature brings the simplicity of Echo's hands-free experience, the benefit of Echo's microphone array, plus the high-quality sound of the Echo speaker, to calling and messaging. Now you can quickly call and send/receive voice messages for your family and friends via Alexa�all just by using your voice. Using your supported Echo device, simply say "Alexa, call Grandma" or "Alexa, send a message to Julie".
-16. You can send and receive Alexa messages (and place and receive Alexa calls) between a supported Echo device and the Alexa App on supported mobile phones and tablets. Alexa Calling and Messaging may also be available on some third party Alexa-enabled products. Features may vary by device.
-17. You can use supported Echo devices and the Alexa App to send voice and text messages to another Alexa calling and messaging user(e.g., on Echo, "Alexa, send a message to Mum" or, on the Alexa App, tapping on the message icon on Mum's contact card). Messages are processed in the Cloud to convert voice messages to text, and vice versa. When you receive a message on a supported Echo device, you will hear an audio tone and see a visual notification. You will be able to retrieve the message on your supported Echo devices by saying "Alexa, play my messages". When you receive a message, you also will receive a notification on your mobile phone or tablet, and you will be able to view and play the message in the Alexa App. Alexa messaging does not support sending or receiving text messages to or from phone numbers.
-18. You can use supported Echo devices and the Alexa App to call another Alexa Calling and Messaging user (e.g., on Echo, "Alexa, call Mum" or, on the Alexa App, tapping on the calling icon on Mum's contact card). When you receive Alexa calls on your supported Echo devices, Alexa will tell you that you have an incoming call and identify the caller. You also will see a rotating green light indicator on Echo devices without a screen, and an incoming call screen on Echo devices with a screen. You can say "Alexa, answer" to pick up the call. Either person can end the call by saying "Alexa, hang up". When you receive a call, you also will receive a notification on your mobile phone or tablet and will see an incoming call screen in the Alexa App that lets you answer the call. Alexa calling does not support calling phone numbers or receiving calls from phone numbers. For information on placing calls using Echo Connect, see the below FAQ "How does calling on Echo Connect work?"
-19. No, you can't reach emergency services, such as 999 or 112, through Alexa calling and messaging. You should ensure that you can contact your relevant emergency services providers through a mobile, landline telephone, or other service. For information on calling emergency services using Echo Connect, see the below FAQ "Can I call emergency services with Echo Connect?"
-20. When you register for Alexa calling and messaging on your Alexa App, you will be asked to import your contacts, which will then appear as contacts in your Alexa App. When you open the Alexa App, your contacts are auto-updated from your tablet or mobile phone. You can also add contacts at alexa.amazon.co.uk
-21. First you must register for Alexa Calling and Messaging. Once you are registered, if another Alexa Calling and Messaging user has your contact details, they can reach you via Alexa.
-22. If you call or message another Alexa Calling and Messaging user (e.g. "Jane Smith"), the call or message will go to all supported Echo devices associated with that contact, as well as that contact's Alexa App.
-23. Do Not Disturb puts your Echo device on silent, meaning you will not receive calls or messages via Alexa. Simply say "Alexa, turn on do not disturb" or you can turn it on in Settings in the Alexa App. When you're ready to receive calls and messages again, just say "Alexa, turn off do not disturb".
-24. On the iOS version of the Alexa App, swipe a conversation to the left and click "Remove". On the Android version of the Alexa App, long-press on a conversation to select it, then tap the trash icon in the top navigation bar. Note that removing a conversation from your conversation list does not remove it from your contact's conversation list. It is not possible for you to remove sent or received messages from a contact's conversation list.
-25. You can call Customer Service, and we will help you de-register from Alexa Calling and Messaging.
-26. The optional Drop In feature will let you easily connect with your closest friends and family on supported Echo devices. To give Drop In permission to yourself (and your household) or a contact (and that contact�s household), select the applicable contact card and turn on Drop In. In addition, you can give Drop In permission to yourself (and your household) by simply saying �Alexa, Drop In on Home�. To turn off Drop In for your household, you can simply say �Alexa, disable Drop In�. Alternatively, you can turn on Do Not Disturb on one, or all, Echo devices by saying "Alexa, turn on Do Not Disturb". You also may disable Drop In for a specific device via the device settings in the Alexa App.
-27. When someone drops in on your supported Echo device, you will hear an audio tone and see a visual indicator that someone is dropping in on you. The contact on the other side of the Drop In will automatically hear audio through your device. You may end the Drop In by saying "Alexa, hang up". On Echo devices without a screen, you will see a green in-call light indicator showing that a Drop In is in progress. If a contact with the Alexa App or an Echo device with a screen drops in on your Echo device with a screen, they will see a frosted glass view from your device's camera. The frosted glass view will automatically transition to clear video over a short period of time. You will see the contact's video (and a picture-in-picture view of your own video) when the Drop In is in progress. You can end a Drop In by tapping the end icon on the screen, or you can disable the camera while continuing an audio conversation by saying "Alexa, video off" or tapping the video off icon on the screen.
-28. If household members or contacts have been granted Drop In permission, they will see a recently active indicator on their Echo Show, Echo Spot or Alexa App displaying whether someone is nearby your supported Echo devices. Interactions with Alexa, and motion sensors on Echo Show, will be used to determine whether your device has been recently active.
-29. If you have granted your household members Drop In permission, you can disable it by saying �Alexa, disable Drop In� or turning off Drop In on your own contact card. If you have granted any other contacts Drop In permission, you can disable that on their contact cards. You also may disable Drop In for a specific device via the device settings in the Alexa App.
-30. The Announcements feature lets you easily make announcements to other supported Echo devices within your household, like a one-way intercom. Simply say, �Alexa, announce that dinner�s ready� and �Dinner�s ready� will then be announced in your voice to all supported Echo devices in your household. You can block Announcements on one, or all, Echo devices by turning on Do Not Disturb � simply say "Alexa, turn on Do Not Disturb". Unlike Drop In, Announcements are one-way only. To respond to an Announcement, you can make a new Announcement or start a Drop In as a two-way intercom.
-31. Yes, you can link select third-party communications services with Alexa Calling and Messaging. Simply go to �Communications� within Settings in the Alexa App. Amazon may import and save your contacts from your third-party communications service in the Cloud to help you connect with your friends and family. Some features may not be available via Alexa, and charges from the third-party communications service may apply for use of some features. You should check any terms applicable to the third-party communications service (including whether emergency services are available) prior to linking your account with Alexa.
-32. To use Alexa on a Fire TV device, you may use the voice remote or the Fire TV remote app, or you may pair your Fire TV device with a compatible Alexa-enabled device. You can use Alexa on Fire TV devices to search using your voice. Voice search is faster and less frustrating than typing on a traditional alphabet grid. To use voice search, press and hold the microphone button on your voice remote or Fire TV remote app, and say the movie, TV title, actor, genre, or director that you want. If you�re using the voice remote, release the microphone button when you're done speaking.
-33. When you press the microphone button on the Alexa Voice Remote, a blue light bar appears on the Fire TV interface to indicate that the device is streaming audio to the Cloud.
-34. You can turn on Alexa hands-free in your device settings (Settings > Alexa) by ensuring that both Alexa and Hands-Free Mode settings are enabled. To enter Show Mode, swipe down from the Quick Actions menu and toggle Show Mode, or ask Alexa to �Switch to Show Mode.�
-35. Alexa on your Fire tablet uses on-device keyword spotting to detect the wake word, even when your device is in standby mode (Fire 7 and Fire HD 8 (7th Generation) tablets may not detect the wake word when the screen is off, if the tablet is not connected to power). When the wake word is detected, Alexa on your Fire tablet streams audio to the Cloud, including a fraction of a second of audio before the wake word.
-36. When Alexa on your Fire tablet detects the wake word, or when you press and hold the Home button to access Alexa, a blue line appears at the bottom of your screen to indicate that Alexa is streaming audio to the Cloud. When you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed. You will also hear a short audible tone that plays after the wake word is recognised, to indicate that the device is streaming audio, and at the end of your request, to indicate that the connection has closed and the device is no longer streaming audio.
-37. When Alexa hands-free is activated and your tablet is passcode-locked, you can access certain Alexa features using the wake word. You'll be required to enter your passcode to access other Alexa features. If you prefer to no longer be asked to enter your passcode to access Alexa features, you can designate a wi-fi network as a Trusted Network in device settings (Settings > Alexa > Trusted Networks) and connect your Fire tablet to a Trusted Network. As a security precaution, if your tablet is passcode-locked, you may be prompted to enter your passcode to exit Show Mode�even if you're connected to a Trusted Network.
-38. When in Show Mode, your tablet will turn on the screen when it detects the wake word or motion in view of the camera or when you interact with the devices' display or buttons.
-39. There will be an on-screen indicator whenever Alexa is streaming images or video to the Cloud. For instance, if a video call is active, the device's screen will display a picture-in-picture view of the video being streamed to the Cloud.
-40. You can turn off Alexa hands-free in a few different ways: by swiping down from the Quick Actions menu and selecting the Alexa microphone/camera on/off icon (in Show Mode) or the Alexa Hands-Free icon (outside Show Mode), by simultaneously pressing and holding the device�s volume up and down buttons for three seconds, or through your device settings (Settings > Alexa > Hands-Free Mode). When in Show Mode, a red bar and icon will appear to let you know that Alexa hands-free on your Fire tablet is turned off; outside of Show Mode, an icon will appear in your status bar. Your Fire tablet will not respond to the wake word � or, in Show Mode, detect motion in view of the camera - until you turn Alexa hands-free back on. If you turn off Alexa hands-free, you will still be able to access Alexa when your tablet is not in Show Mode by pressing and holding the Home button.
-41. Echo devices are designed to detect only your chosen wake word (Alexa, Amazon, Computer or Echo). The device detects the wake word by identifying acoustic patterns that match the wake word. Once the word is detected, audio begins streaming to the cloud, including a fraction of a second of audio before the wake word. No audio is stored or sent to the Cloud unless the device detects the wake word (or Alexa is activated by pressing a button).
-42. When Echo devices detect the wake word, or when the action button available on some Echo devices is pressed to activate Alexa, a visual indicator appears on the device to indicate that the device is streaming audio to the Cloud. For instance, a light ring on the Amazon Echo will turn blue or a blue bar will appear on Echo Show. When you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed. You can turn on Follow-Up Mode to enable Alexa to respond to a series of requests without repeating the wake word. Learn more. You can also configure Echo devices to play a short audible tone any time audio is sent to the cloud within settings in the Alexa App.
-43. Yes. Echo devices are equipped with a microphone off button. When the button is pressed, the power to the microphones is disconnected and a dedicated red light is illuminated. When the microphones are turned off, your device cannot record and stream audio to the Cloud.
-44. Echo devices with a screen will turn on the screen when they detect the wake word or motion in view of the camera or when you interact with the device's display or buttons.
-45. There will be an on-screen indicator whenever Echo devices with a camera are streaming images or video to the Cloud. For instance, if a video call is active, the device�s screen will display a picture-in-picture view of the video being streamed to the Cloud or will display a green "call in progress" bar at the bottom of the screen.
-46. Yes. You can turn off the camera on Echo devices with a camera by pushing the microphone/camera off button on your device. When the microphone/camera off button is pressed, the power to the camera and the microphones is disconnected and a dedicated red light is illuminated. When the camera is turned off, the power to the camera and the microphones is disconnected and a dedicated red light is illuminated. When the camera is turned off, the device will not detect motion in view of the camera and you will not be able to use any features that rely on the camera such as video calling.
-47. You need a home phone service (such as a landline or VoIP service), wi-fi, and a supported Echo device (Echo, Echo Dot, Echo Spot, Echo Plus, and Echo Show). One Echo Connect can support only one phone line, and only one Echo Connect can be registered per Amazon account.
-48. Echo Connect extends and is not a replacement for your traditional telephone service. Plug Echo Connect into your home phone jack or VoIP adapter. You will also need to setup your supported Echo device. Then visit alexa.amazon.co.uk, or register for Alexa Calling and Messaging in the Alexa app in order to complete set up of your Echo Connect. With Echo Connect, you can ask Alexa to make calls using your home phone service to your contacts or to other numbers supported by your home phone service provider (e.g. "Alexa, call Mom" or "Alexa, call 03069990978). Echo Connect will display your home phone number as caller ID, unless you disable caller ID with your home phone service provider. You can also use your supported Echo devices to answer incoming calls to your home phone service (e.g. "Alexa, answer the phone"). As Echo Connect uses your existing home phone service to make and receive calls, home phone service provider charges may apply. Some calling features you may use on your home phone (such as call waiting and three-way calling) are not available through Echo Connect.
-49. Echo Connect will use your home phone service to make and receive your calls. The mobile number used to register for Alexa Calling and Messaging will be displayed as a caller ID for calls made using Alexa Calling. You can disable the caller ID feature through your contact card in the Alexa App. Alexa Calling uses your Echo device's internet connection to place calls to another person who has registered for Alexa calling and messaging. For more information on Alexa Calling, see the above Alexa Calling and Messaging FAQs. If you select Echo Connect, your home phone service will be used to place all calls and your home phone number will be displayed as caller ID.
-50. If you want to call another Alexa Calling and Messaging user, there are a few different ways your call may be processed. If you specify just the name of the person you would like to call (e.g. "Alexa, call Mum"), Alexa will default to placing the call through Alexa Calling to mom's supported Echo devices or the Alexa app. If you specify the name of the person and their phone type (e.g. "Alexa, call Mum's mobile") Alexa will place the call to mom's mobile using your home phone service through your Echo Connect. For more information, see the above FAQ "What's the difference between Alexa Calling and Echo Connect."
-51. Yes, calling emergency services as 999 or 112 through Echo Connect works just like dialling any other phone number. Simply say, "Alexa, call 999�. Please note that if Echo Connect is used to call emergency numbers like 999, the location information given to the emergency service, if any, may be the address associated with the phone line connected to your Echo Connect, which may not be the same as the location of your Echo device from which you are making the call. Echo Connect will not function in the event of a power or broadband outage or other connectivity issues. If you are unable to place your call through your Echo Connect, you should use your mobile, landline telephone, or other telephone service.
-1.	Currently, Bixby is compatible with the Galaxy S8 / S8, Galaxy S9 / S9+, and the Galaxy Note8 but we plan to support more models in the future.
-2.	Bixby's name is not able to be changed.
-3.	Users must login with using a Samsung account in order to use Bixby Voice, thus it does not support incognito mode.
-4.	Yes, to use Bixby, you must be connected to a mobile data or Wi-Fi network.
-5.	The Bixby Voice Open Trivia feature allow users to ask general questions about an entity (i.e. a person, place or thing). Bixby Voice will provide news articles (text), videos, webpages, etc. to answer users' questions. 
-6.	Yes, you can select another language from Bixby Home > Settings > Language and speaking style.
-7.	No, currently we are supporting one Bixby voice option.
-8.	In addition, you can also ask Bixby Voice questions, like "what is the weather like outside" or "what movies are playing nearby."You can find the supported Apps list and sample commands on  Apps with voice and Bixby Labs.
-9.	You can find your last conversation on My Bixby. My Bixby keeps track of all your conversations and helps you improve on them with phrases you can suggest to improve your Bixby experience. 
-10.	Bixby will appear and will be animated on the screen when listening, and white and still when not listening.
-11.	You can create a reminder with specific tasks in text or checklist format, calls and text messages that you want to make later, and media contents that you want to revisit later such as photos (up to 8 photos in one reminder), videos, and web contents.
-12.	Bixby Home suggests contextually relevant cards based on your usage pattern, but it does not send you separate alerts or notifications.
-13.	Feel like you�re talking to a wall? If Bixby is not responding to your voice, get the problem solved and start communicating again. From the Home screen, navigate to Apps, and then touch Settings. Touch Apps, and then swipe to and touch BixbyVoice. Touch Storage > CLEAR DATA, and then touch CLEAR CACHE. Bixby will be refreshed and ready to chat again.
-14.	Bixby stores users� personal data in accordance with stringent security procedures. Users may choose to delete data that Bixby saves from Bixby�s settings at any time. Bixby only collects data necessary to improve or personalize your experience, and ensures that your personal information is never transmitted.       
-15.	Bixby Home serves as a gateway to Bixby�s various functions and presents your most contextually relevant apps and services on a single screen, so the content you care about is just a swipe away. Bixby learns your routine and serves up the information you need when you need it. It looks for patterns in your app usage to predict what you might be looking for, and when you�re most likely to look for it. The more you use your smartphone, the more relevant Bixby�s content suggestions will become. Bixby Home will automatically populate based on your actions, but you can also customize the experience to best suit your needs. You also have the options to pin your favorite cards to the top of your Home page for easy reference,and hide any cards that you no longer wish to see.
-16.	Reminder lets users do much more than simply log an appointment or create an alarm. The function utilizes Bixby�s voice support and contextual awareness to allow users to set smart reminders for specified times, places or circumstances. Reminder is also integrated into other apps. You can use Reminder to save webpage URLs in the Samsung Internet app, as well as messages that you�d like to get back to later in the Messages app. You can also pin reminders to your device�s Always On Display to make them visible at all times, and access your collected reminders via your device�s edge panel.
-17.	Bixby Vision�s advanced OCR (object character recognition) technology allows it to scan and recognize a total of 40 languages. These languages can then be interpreted into 104 different dialects via Google�s powerful translation database.
-18.	We�ve forged partnerships with popular online shopping platforms in each region to allow consumers to enjoy a much more convenient shopping experience with Bixby. These partners include Amazon in North America, Japan and several major markets across Europe, as well as Taobao in China and Samsung Pay Shopping in Korea.
-19.	Yes, it does. Thanks to Bixby�s iterative deep learning technology, the more you use the interface, the smarter it gets.For example, whenever you�re not satisfied with its response, Bixby will work with you to learn how to better serve your needs. Each time Bixby responds to a command, it presents you with the option to �Teach me� � to select a more appropriate response from a list of similar commands. The next time you make that request, Bixby will remember exactly what you wanted it to do
-20.	Bixby is optimized to detect voice commands when users are 15 to 20 centimeters (5.9 to 7.9 inches) away from their device. If you�re too close or too far, it can affect the voice recognition technology�s accuracy. For best results, speak clearly and at a volume comparable to normal conversation levels.
-21.	Bixby works best in environments where your voice may be clearly heard. That being said, Bixby�s deep learning technology allows the interface to distinguish your voice commands from ambient noise, even when you�re listening to music, by carefully analyzing sound frequencies. When in particularly loud environments, you can activate Bixby Voice using your earphones� play/pause button and microphone.
-22.	Bixby Voice is currently available in Korea and the U.S. and supports commands in Korean and U.S. English. Users in the U.S. and Korea can switch between Korean and English by adjusting Bixby�s language settings. Bixby�s understanding of natural language is what allows it to learn dialects. We�ve taught Bixby various dialects� distinct intonations, vocabulary and grammatical structures, and we�re currently working on providing support for more.
-23.	Bixby�s Quick Commands allow you to issue multi-step, complicated requests with convenient keywords. With Quick Commands, users can replace a long request, such as �Track my run using the Samsung Health app,� with a short, simple command, such as �Run.� These shortcuts allow you to interact more seamlessly with your phone. Quick Commands may be accessed under Bixby Home�s �My Bixby� menu.
-24.	Bixby only utilizes your mobile data when listening to a command, not before or after. As a result, the length of the command ultimately determines the amount of mobile data used. If Bixby Voice is activated and you�re using a licensed SIM card, it�s possible to use the interface even when you�re overseas. Actual range of use may vary depending on the apps you�re using.
-25.	Bixby Vision was designed to provide you with a deeper understanding of what you�re looking at, allowing you to use your camera to easily scan and search for relevant information on the objects and places around you. Bixby Vision offers information on everything from purchasing options for a particular product to details on your current location and even the bottle of wine you�re enjoying. It is also capable of scanning business cards and performing convenient translations. After scanning an object, users can use Bixby Vision�s image search function to locate it online. Once Bixby has identified the object, it will automatically pull up related images on Pinterest. Bixby Vision works best in bright environments, and when you hold your camera steady. The screen should not be upside down, and if the object in focus is a product, it should be captured from the front to aid identification.
-26.	The Bixby platform is free for Residents and Property Managers to download and use. There are no monthly fees and no hidden costs. The only cost to Residents is a small transaction fee imposed by our payments partner, Stripe. These fees differ depending on how you pay. ACH payments (electronic payments directly from your bank account) incur a fee of .8% of the total transaction � up to a maximum of $5. Credit and debit card transactions incur a fee of 2.9% of the transaction total plus a flat $.30, paid by the Resident.
-27.	Currently, Bixby is only available in New York City, but we are growing fast. Stay tuned!
-28.	Bixby is free for Residents and Building Managers. But we still have to make money. We do this in two ways: Rent & payment fees: We collect a small fee ($.50 per transaction) from Property Managers.  Resident services: We also collect a small commission from our Service Partners each time you book a service through the Bixby app.
-29.	Help Bixby help you by providing feedback on how it responds to your commands. When you say a command and Bixby responds, you�ll see a drop-down arrow at the top of the screen. Touch it and swipe down, and you�ll see what Bixby heard and the choice it made. If Bixby heard you incorrectly, touch the phrase under What I heard, enter the correct phrase using the on-screen keyboard, and touch Next. Bixby will respond to the correct command. You can also edit Bixby�s response by touching a Service under Choices I made, and then selecting the correct service. 
-30.	You can raise or lower Bixby Voice's volume at any time. Just press the Bixby key to open Bixby Assistant Home, and then press the Volume Up/Down keys to adjust the volume. Note: You can also swipe down to see more volume controls.
-31.	You�ve been using the default New Bixby voice for a while now, and you are curious how the other voices sound. Press the Bixby key to open New Bixby Assistant Home. Touch More Options in the top right-hand corner and then touch Settings. Next, touch Language and voice style. To change New Bixby�s voice style, select your desired voice option under VOICE STYLE. To change New Bixby�s language, touch Language and choose your desired language.
-32.	There�s no need to fumble with the Bixby key when you want something done � just call Bixby with your voice. To set up Voice wake-up, open Bixby Assistant Home by pressing the Bixby key. Touch More Options > Settings. Touch Voice wake-up, and then touch the slider next to Wake with �Hi, Bixby.� From there, follow the on-screen prompts. Note: When you set up Bixby Voice for the first time, you will be prompted to set up Voice wake-up.
-33.	You love how Bixby responds to your voice, but what if you have music playing, or your alarm is going off? That�s no problem. You can use Voice wake-up when your phone speaker is playing media, control the Wake-up sensitivity, and more. 
-34.	During media (video/game/voice) recording, during a call (including outgoing call), while docked on the DeX Station, maximum power saving mode, emergency mode, kids mode and mirror link.
-35.	New Bixby is an intelligent, versatile, and zippy digital assistant that learns and adapts to you. And with the recent upgrade, it�s even better than before.
-36.	Press the Bixby key to open Bixby Assistant Home and then touch the keyboard icon in the lower left-hand corner. Use the keyboard to type a command to New Bixby and then touch the Send icon. New Bixby will read your command and complete it right away.
-37.	The newly updated Bixby boasts a faster response time and will adapt to your routines. Bixby will remember commands or information you�ve previously mentioned and apply it to future situations. 
-38.	Yes, the is another way. Maybe you prefer writing over speaking aloud. No sweat, New Bixby loves to read. You can type commands to New Bixby and it will understand.
-39.	First, make sure you have Spotify downloaded from the Play Store. Press the Bixby key to open Bixby Assistant Home, and then swipe left. Touch Spotify, and then touch CONNECT ACCOUNT. Log in or sign up for a Spotify account. Your Spotify account is now linked with Bixby. You're ready to try out some voice commands.
-40.	Bixby Labs is where Bixby experiments with new apps beyond default Bixby compatible apps. These experiments might not always work out just right, but Bixby always learns something new.
-41.	Bixby is a virtual assistant developed by Samsung Electronics. ... Bixby can also be sideloaded on older Galaxy devices running Android Nougat. Bixby represents a major reboot for S Voice, Samsung's voice assistant app introduced in 2012 withthe Galaxy S III.
-42.	The last step is getting rid of the Bixby Home side screen. Tap and hold on an empty section of your home screen, and then swipe right to reach the leftmost panel, which is Bixby Home. To get rid of it, toggle the button up top to the off position.
-43.	Press and hold the Bixby button on the side of the device while speaking commands. ...From Bixby Voice popup, review the prompt then tap Full screen as needed. From Bixby Voice screen, review or search available commands then tap the Bixby icon to begin listening.
-44.	Siri and Google Assistant can open the camera for you but they cannot switch to the front-facing camera, nor can they snap a photo for you. But Bixby being able to do several tasks better than Siri also Google Assistant is something I didn�t expect.
-45.	Bixby is a virtual assistant developed by Samsung Electronics. Bixby represents a reboot for Samsung�s voice assistant app introduced in 2012 with the Galaxy S III
-46.	To set up Bixby Voice for the first time, press the Bixby key, and then touch Next. Review the terms, select I have read and agree to all of the above, and then touch Next. Follow the on-screen instructions to teach Bixby your voice and set up Voice wake-up. When you�re finished, touch the Check mark. Now, Bixby will listen to your commands! You can also explore Bixby Assistant Home and see what Bixby can do
-47.	To access Bixby Home, swipe right from the Home screen, and then touch START. If needed, sign into your Samsung account. Next, review the information and then touch I have read and agree to all of the above. Then, touch NEXT.
-48.	Bixby edits photos, sends messages, and composes emails on command. Anything you do on your hone via touch, you should be able to do by voice with Bixby.
-49.	Bixby will be a new intelligent interface on our devices. Fundamentally different from other voice agents or assistants in the market, Bixby offers a deeper experience thanks to proficiency in these three properties: Completeness, Context Awareness, and Cognitive Tolerance
-50.	Bixby offers four main features: Voice, Vision, Reminder and Home.
-1 Google Home mini is tiny smart speaker powered by the Google Assistant that can be used to Play your favorite music, Create your Calender entries, Set Alarm, Get updates on Weather, Traffic etc.
-2 Please check out this link to set up your Google Home Mini with step by step instructions.
-3 Yes. It does work in India. But, there are few country-specific features which will not work in India such as Voice Calling etc.
-4 In Google Home Mini, firmware updates are Automatic. Your Home Mini will be updated to the latest firmware automatically. No manual actions needed.
-5 Open the Google Home app Click on the Devices icon in the top right of the Home Screen On your device listing, Tap on the Menu icon and select Settings Scroll down to bottom and check for Cast Firmware Version The version mentioned in front of the Cast Firmware Version is the current firmware of your Home Mini. Check out this link to find the latest firmware available for Google Home devices.
-6 If your Home Mini is purchased in the U.S. or other countries and if you are using it in India, Home Mini will not be updated to the latest available firmware. You need to change your Smartphone�s language (System Language) to English U.S. from English India. To force the firmware update, Go to your smartphone�s Settings, Select System -> Language and Input, Tap on Languages -> Change the language to English U.S., Once you change the language to English U.S., Restart the Home Mini and Force Stop the Google Home app or restart your phone. Now, the Homi Mini will receive the latest firmware update automatically. Please make a note that, Settings for changing system language is slightly different for different Android Versions. So find similar options on your Smartphone.
-7 No. you will not be able to make calls using the Home Mini. This features currently available only in very few countries such as U.S., U.K. etc
-8 No. Google Home app is needed to set up your Home Mini. Once you�re done with the setup, you can use the Home Mini without the help of a smartphone. But, still, if you would like to change the Mini settings such as Pairing your Bluetooth speaker, Switching to Night mode etc. has to be done using the Home app. So always keep the Google Home app on your smartphone.
-9 Yes. You can play the locally stored music through Home Mini. To do so, Turn ON your Phone�s Bluetooth, Open Google Home app on your smartphone, Tap on the Devices icon from the top left of the Home screen, On your device listing, Tap on the Menu icon and select Settings, Scroll down and select Paired Bluetooth Devices, Tap on Enable Pairing Mode, Now, Open your Phone�s Bluetooth Settings, Select your Home Mini and Tap on Pair, That�s it. Now, you�ll see the status as Connected, Now, if you play any Media on your smartphone, it will be outputted through the Home Mini
-10 Play some music on Home Mini, Open Google Home app on your smartphone, Tap on the Devices icon on the top left of the Home screen, Tap on the Thumbnail of the Song or Select your Home Mini, Now using the Media control page, you can Play, Pause, or Change volume levels
-11 Open the Google Home app, Click on the Devices icon from the top right of the Home Screen, On your device listing, Tap on the Menu icon and select Settings, Select More, Scroll down and select Video and Photos, Tap on Link just below the Netflix listing, Sign into your Netflix account by following the on-screen instructions
-12 Turn on your Bluetooth speaker and set it to pairing mode, Open the Google Home App on your smartphone, Tap on the Devices icon at the top right of the home screen, Tap on the Menu and select Settings, Select the option Default Music Speaker, Tap on the Pair Bluetooth Speaker. It will start scanning the nearby Bluetooth speakers, Select your Bluetooth Speaker (Altec Orbit is the name of my Bluetooth speaker), Tap on Done. Now the Music will be outputted from your Bluetooth speaker, If you would like to switch the Music output to your Home Mini, In the Default Music Speaker, Select your Google Home Mini as the default speaker and select Done
-13 G Suite�s Gmail features include: custom business email @yourcompany, unlimited group email addresses, 99.9% guaranteed uptime, twice the storage of free Gmail, zero ads, 24/7 phone and email support, G Suite Sync for Microsoft Outlook, and more.l in G Suite differ from free Gmail?
-14 Yes. A user can have multiple email addresses by creating email aliases such as support@yourcompany. You can add up to 30 email aliases for each user.
-15 Yes. Migration tools are available for importing your old emails from legacy environments such as Lotus Notes and Microsoft.
-16 G Suite has been built from the ground up to mitigate the unique threats for cloud systems. Google�s standards for performance and reliability apply to businesses, schools and government institutions around the world.The technology, scale, and agility of our infrastructure bring unique security benefits to our customers. Our vast network of data centers are built with custom-designed servers, that run our own operating system for security and performance. Because Google controls its entire hardware stack, we are able to quickly respond to threats that may emerge.Google employs dedicated security professionals to work on protecting your data, including some of the world�s foremost experts in computer security. Just like all teams at Google, this team is constantly innovating and making the future more secure, not just for Google�s billion users, but for business organizations as well.Google has an outstanding track record of protecting user data. We protect this data from outside intrusions as well as insider threats. In addition, we tightly restrict and monitor any internal access to user data. The small set of employees with access is subject to rigorous authentication measures, detailed logging, and activity scanning to detect inappropriate access via log analysis. It is this unique combination of people, technology and agility that ensure your data is secure at Google. For more information, check out the G Suite Security Whitepaper.
-17 Google designed G Suite with very stringent privacy and security standards based on industry best practices. This helps our customers address their compliance and regulatory requirements. Google offers strong contractual commitments regarding data ownership, data use, security, transparency, and accountability. Google undergoes several independent third-party audits on a regular basis. These independent auditors examine the controls present in our data centers, infrastructure, and operations. Examples of these audits and standards include:SOC1�, (SSAE-16/ISAE-3402), SOC2�, SOC3�, ISO27001, ISO 27018:2014 and FedRAMP. Learn more about our certifications at Security and Trust. Many G Suite services are also compliant with HIPAA (U.S. Health Insurance Portability and Accountability Act). G Suite for Education can be used in compliance with laws and regulations important to schools.
-18 G Suite supports customers� compliance with the U.S. Health Insurance Portability and Accountability Act (HIPAA), which governs the safeguarding, use, and disclosure of protected health information (PHI). Customers who are subject to HIPAA and wish to use G Suite for PHI processing or storage can sign a business associate amendment with Google. View more details about HIPAA compliance with G Suite.
-19 Respect for the privacy and security of data you store with Google underpins our approach to producing data in response to legal requests. When we receive such a request, our team reviews the request to make sure it satisfies legal requirements and Google's policies. Generally speaking, for Google to produce any data, the request must be made in writing, signed by an authorized official of the requesting agency and issued under an appropriate law. If we believe a request is overly broad, we'll seek to narrow it. For more information, visit Google�s Transparency Report.
-20 Core customer data that is uploaded or created in G Suite services is encrypted at rest, as described in this help centre article. This encryption happens as it is written to disk, without the customer having to take any action. Google encrypts data with distinct encryption keys, even if they belong to the same customer. Data is encrypted using 128-bit or stronger Advanced Encryption Standard (AES). Google encrypts core G Suite data while it is �in transit� as well, whether it is traveling over the Internet between the customer and Google or moving within Google as it shifts from one data center to another. We encrypt this data between Google and our customers using HTTPS with forward secrecy.
-21 Google offers the security features required for most customers directly in G Suite. G Suite�s Business and Enterprise editions offer some additional security features, such as advanced Google Drive auditing and security keys management at scale. In all plans, G Suite administrators have control over system configuration and applications from within a single dashboard via our Admin console �regardless of the size of the organization. Administrators can access advanced tools immediately, including authentication features like 2-Step verification and single sign-on, or email security policies like secure transport (TLS) enforcement, IRM, and DLP which can be configured in a few clicks. For customers with security needs beyond what is included in G Suite, we created a partner marketplace that extends our capabilities.
-22 Yes. Google has a broad customer base in Europe. Google provides capabilities and contractual commitments for our customers designed specifically to help address EU data protection requirements and the guidance provided by the Article 29 Working Party. G Suite offers EU Model Contract Clauses and a Data Processing Amendment. Additionally, G Suite has been assessed as appropriate for use with the UK government's Cloud Security Principles "OFFICIAL (including OFFICIAL- SENSITIVE)."
-23 Yes, you can bring your existing email, contacts, and calendar data with you to G Suite. You can migrate the data for yourself and your team members, or you can let your team migrate their own data. G Suite includes tools to migrate data from Microsoft� Exchange or Microsoft Office 365�, IBM� Notes�, and other email systems.
-24 No, you�ll continue to send/receive email as usual. To use Gmail with G Suite, you setup your domain (MX records) to direct your mail flow to the Google mail servers. It�s like registering your new address with the post office so that mail is delivered to your new location. Once the MX records change takes effect (up to 72 hours), you can start receiving/sending email through your G Suite account. Until then, you�ll receive/send your email through your old mail system.
-25 No, this transition will not affect your current website. Setting up G Suite does not require any changes to your current web host provider. While G Suite is not a web hosting provider, you can learn more about Google web hosting solutions through Google Cloud Platform.
-26 To use G Suite, you need a domain. Your domain name is what appears after the www. in your website URL. If you already have a domain, enter it when you sign up for G Suite. (You�ll be asked to verify that you own the domain.) If you don�t have a domain or want to use a different one with G Suite, you can purchase a domain of your choice (if available) from Google.
-27 Yes, you can work with a G Suite partner. These experienced IT-service companies can help you evaluate, customize, deploy, and transition to G Suite. They can also provide training, data management, and ongoing support. If you have questions about setting up G Suite, you can also contact G Suite Support. The Support team is available 24 hours a day, 7 days a week. Visit the Setup Site for information on setup, communication templates, and resources for deployment and change management.
-28 Yes, you can manage your organization�s mobile devices, without the need for an on-premise device management server, using the Google Admin console. Mobile device management (MDM) allows you to enforce device policies over mobile devices in your organization and perform actions like remotely wiping your users� mobile devices.
-29 If your organization acquires a new domain name or does business at multiple domains, you can add all your domains to your account at no extra cost. Users can then have identities at one or more of your domains while sharing services as part of a single organization. And you can manage your domains from the same Admin console. Add a domain as either a separate domain or domain alias, depending on how you plan to use it.
-30 Yes. No matter the size of your organization, we recommend that you distribute the responsibility of managing your users and services among a select set of trusted users. You can grant a user administrative privileges by assigning them one of the available administrator roles. Assigning a role grants the user access to your Admin console. You can make a user a super administrator who can perform all tasks in the Admin console. You can also assign an administrator a role that limits which tasks the administrator can perform. For example, allowing them only to create groups, manage service settings, or reset a user's password.
-31 Initially, most services are turned on for all of your users. You can use the Admin console to turn off services you don't want people to use, or to customize how services work. You have the option to enable the same settings for everyone or apply unique policies to different users. For example, you might turn on Hangouts just for your support team or allow only the marketing department to share public Google Sites.
-32 With G Suite, you'll receive a number of additional business-grade services not included with Google�s free consumer apps. These services include: custom business email @yourcompany, twice the amount of cloud storage across Gmail and Drive, 24/7 phone and email support, 99.9% guaranteed uptime on business email, interoperability with Microsoft Outlook, additional security options like two-step authentication and SSO, and administrative controls for user accounts.
-33 No. When you sign up for G Suite, you�ll gain access to a set of integrated apps that work together seamlessly. For instance, you can receive a message in Gmail and instantly convert it into a Calendarevent. When you make a comment in Docs, Sheets, or Slides, collaborators automatically receive email alerts. With a single click, you can launch a Hangouts video meeting from your inbox or calendar. Using these tools together improves productivity and gives your business the most value. However, you are welcome to purchase the suite and only use the services of your choice.
-34 We�ve found that many of our customers are able to eliminate their existing productivity suites and rely exclusively on G Suite to create different kinds of files, including text documents, spreadsheets, and presentations. You can work on those files in real time with other people and store them in the cloud with Google Drive. G Suite�s apps work across devices. Unlike traditional desktop applications, there is no software to install. G Suite is also compatible with files made in other programs, such as Microsoft Office.
-35 With G Suite, you'll receive a number of additional business-grade services not included with Google�s free consumer apps. These services include: custom business email @yourcompany, twice the amount of cloud storage across Gmail and Drive, 24/7 phone and email support, 99.9% guaranteed uptime on business email, interoperability with Microsoft Outlook, additional security options like two-step authentication and SSO, and administrative controls for user accounts.
-36 No. When you sign up for G Suite, you�ll gain access to a set of integrated apps that work together seamlessly. For instance, you can receive a message in Gmail and instantly convert it into a Calendarevent. When you make a comment in Docs, Sheets, or Slides, collaborators automatically receive email alerts. With a single click, you can launch a Hangouts video meeting from your inbox or calendar. Using these tools together improves productivity and gives your business the most value. However, you are welcome to purchase the suite and only use the services of your choice.
-37 We�ve found that many of our customers are able to eliminate their existing productivity suites and rely exclusively on G Suite to create different kinds of files, including text documents, spreadsheets, and presentations. You can work on those files in real time with other people and store them in the cloud with Google Drive. G Suite�s apps work across devices. Unlike traditional desktop applications, there is no software to install. G Suite is also compatible with files made in other programs, such as Microsoft Office.
-38 G Suite has three editions: Basic, Business, and Enterprise. Basic has 30GB of storage per user, Business offers unlimited storage and archiving, and Enterprise includes additional advanced controls and customization. You can compare G Suite�s editions for more information.
-39 Yes, we offer 14 days of G Suite service to new customers. Sign up for the free trial in minutes and create accounts for up to 10 people on your team. We�ll need to get your billing details to get your account set up, but you will only be charged after the free trial is over. You can cancel anytime. To get the most from your trial, we recommend trying at least 3 tasks you want to explore, such as collaborating on Docs, launching a video meeting in Hangouts Meet, or checking Gmail from your mobile device.
-40 You can sign up for G Suite online or contact our sales team to get started. When you sign up online, you�ll automatically start with a free 14-day trial. We�ll need to get your billing details to get your account set up, but you will only be charged after the free trial is over. You can cancel anytime. Please note the trial is limited to 10 users. If you add more than 10 users during your trial period, the trial will end, and you will begin payment.
-41 You can cancel your subscription at any time in the Admin Console dashboard, under the Billing section. If you cancel within your 14-day trial period, you will not be charged. Please refer to this help center article for more information.
-42 Following our setup guide, you can set up G Suite and migrate your information at no additional cost. Our Support team is available to help if needed. If you would like someone to do the setup and migration for your company, please contact a Google Partner to learn more about these services and the costs associated.
-43 You can pay for your G Suite subscription using an international credit card. Google accepts payments from Visa, Mastercard, and American Express. In some locations, you can also pay by making withdrawals from a bank account (also called direct debit).
-44 Annual plans are offered only in some countries. Visit our pricing page to see if an annual plan is offered in your country.
-45 A user is defined as one personalized email address (name@yourcompany). A user can have multiple email addresses by creating email aliases. Group email aliases (such as support@yourcompany) don't count as users. You can add up to 30 email aliases for each user.
-46 No. Each user can have multiple email addresses by creating email aliases. You can add up to 30 email aliases per user.
-47 No, the cost of a domain is separate from G Suite. During signup, you will specify the domain you want for your business email. If you don�t yet own the domain, you can purchase it from Google for an additional fee.
-48 Yes. When you first set up your billing, you will choose a country where you do business and which currency you would like to use to pay. Your country determines what payment methods you can use. Choose your country and currency carefully, as you can't change these selections later.
-49 Yes. This feature is available within a Chrome browser. If you haven't already, give Chrome a try�it's free and easy to install.
-50 Yes. You can change each document's settings to grant anyone you choose editor, viewer or commenter access.
-51 Yes. You can convert many different file types into Docs format. The original file will remain intact.
+Alexa allows you to ask questions and make requests using just your voice. For instance, you can ask Alexa a question, such as "What is the weather today in New York?", or tell Alexa to do something, like "Add batteries to my shopping list," or "Play jazz." When you speak to Alexa, a recording of what you asked Alexa is sent to Amazon's cloud so we can process and respond to your request. You access Alexa differently based on the type of device you are using. For "hands free" devices, like the Amazon Echo, you access Alexa by saying the wake word (Alexa, Echo, Amazon, or Computer). For other devices, like certain Fire tablets, you access Alexa by pressing a button.
+When you speak to Alexa, a recording of what you asked Alexa is sent to Amazons cloud where we process your request and other information to respond to you. For example, when you ask Alexa, play top hits on Amazon Music we use the recording of your request and information from Amazon Music to play top hits.
+No. Echo devices are designed to detect only your chosen wake word (Alexa, Amazon, Computer or Echo). The device detects the wake word by identifying acoustic patterns that match the wake word. No audio is stored or sent to the cloud unless the device detects the wake word (or Alexa is activated by pressing a button).
+Yes. You can review voice recordings associated with your account and delete those voice recordings one by one or all at once by visiting Privacy in Settings in the Alexa app or https://www.amazon.com/alexaprivacy . You can also review those voice recordings by visiting History in Settings in the Alexa app and delete those voice recordings all at once for each of your Alexa-enabled products by visiting Manage Your Content and Devices. Deleting voice recordings may degrade your Alexa experience. If you delete voice recordings, we will also remove Home Screen Cards in the Alexa app related to those voice recordings. However, removing a Home Screen Card from your Alexa app does not delete voice recordings. If you have changed your default marketplace while using an Alexa-enabled product, you will need to perform this step for each marketplace to delete all voice recordings associated with your account. Note that deleting your voice recordings does not remove your Alexa messages. For more information on removing messages, refer to the FAQ "How do I remove messages?"
+Alexa uses your voice recordings and other information, including from third-party services, to answer your questions, fulfil your requests, and improve your experience and our services. We associate your requests with your Amazon account to allow you to review your voice recordings, access other Amazon services (e.g., so you can ask Alexa to read your Kindle books and play audiobooks from Audible), and to provide you with a more personalized experience. For example, keeping track of the songs you have listened to helps Alexa choose what songs to play when you say, Alexa, play music. At times, Alexa may make recommendations to you based on your requests. For example, Alexa may recommend Alexa skills you might like based on the Alexa skills you use.
+Alexa is designed to get smarter every day. The more you use Alexa, the more the service adapts to your speech patterns, vocabulary, and personal preferences. For example, we use your requests to Alexa to train our speech recognition and natural language understanding systems. The more data we use to train these systems, the better Alexa works, and training Alexa with voice recordings from a diverse range of customers helps ensure Alexa works well for everyone. You can also help us improve our voice services by providing feedback within History in the Alexa app.
+Skills are voice-driven Alexa capabilities. You can view and enable skills in your Alexa app and enable certain skills by voice. You can use a skill by saying a specific phrase, called the invocation name. When you use a skill, we may exchange related information with the developer of that skill, such as your answers when you play a trivia skill, your ZIP code when you ask for the weather, or the content of your requests. If you make a request to Alexa without using a skill invocation name, we may send the content of your request to several skills, and enable and launch the skill we think is best able to respond to your request. The Skills portion of your Alexa app contains more information about skills, such as applicable policies or terms of use provided by skill developers.
+Prime members can ask Alexa to order or reorder eligible products available for sale through the Amazon website. You can also subscribe to eligible services using Alexa, purchase songs or albums from our Digital Music Store, or purchase products and services through Alexa skills using your default payment and shipping settings. You can require a speakable confirmation code, turn purchasing off, and see product and order details in your Alexa app or at https://alexa.amazon.comfor those orders. Just like orders placed through the Amazon website, orders placed through Alexa are subject to Amazon's Conditions of Use and Privacy Notice in the case of a subscription for a service, the terms for the applicable service. Voice purchasing from Amazon is turned off for FreeTime on Alexa. Some Alexa skills allow you to purchase non-digital products or services from the developer of the skill (for instance, order food through a restaurant's skill) via Amazon Pay using your default payment and shipping settings. You can view your Amazon Pay order history and find additional information for those purchases on the Amazon Pay website. Some other Alexa skills allow you to purchase products and services from the developer of the skill using a payment method you provide directly to the developer. Your voice purchasing settings may not apply to those purchases.
+Yes, Alexa has voice purchasing settings. Open Settings > Voice Purchasing in your Alexa app to turn off voice purchasing from Amazon. You can also require an optional confirmation code that Alexa will ask you to say out loud when you want to place an order from Amazon.
+For information on return policies applicable to non-digital products purchased on Amazon using Alexa, see About Our Returns Policies. Amazon's return policies do not apply to purchases of non-digital products or services made through third-party Alexa skills (for instance, a food order placed through a restaurant's skill). Instead, the returns policy of the applicable skill developer applies. However, the Amazon Pay A-to-z Guarantee covers qualified purchases of physical products made through third-party Alexa skills using Amazon Pay. Purchases of digital content are final. However, if you accidentally purchase digital content or a subscription to a non-Amazon service through Alexa, that purchase is eligible for return and refund if we receive your request within 7 days of the date of purchase. To request a refund, please contact customer service. You may cancel the auto-renewal of a subscription to a non-Amazon service by visiting the detail page for the applicable Alexa skill in your Alexa app and adjusting your subscription settings; you will not receive a refund of any fees already paid. For subscriptions to Amazon services, see the terms of use for the applicable subscription for information on refund eligibility and cancellation terms.
+Alexa also allows you to donate to eligible charities by voice. When you make a donation, Amazon Pay will process the donation using your default Amazon payment settings and will share your name, address, and email with the charity. Your voice purchasing settings apply to donations. If you accidentally make a donation through Alexa or donate to the wrong charity, please contact customer service. You can see details of your donation in your Alexa app or at https://alexa.amazon.com.
+Kid skills are skills that have been identified by the developer as directed to children under age 13. Consistent with the Children's Online Privacy Protection Act, we require permission from a parent before kid skills can be used. You'll be asked to give permission the first time you attempt to use a kid skill. After you've given permission, you will receive a confirmation e-mail. You can review or change permissions by visiting the Manage Parental Consent page on Amazon.com or by contacting Customer Service ( https://www.amazon.com/contact-us). To learn more, please visit our Children's Privacy Disclosure.
+Alexa enables you to control and check the status of a variety of smart home devices, such as lights, switches, cameras and thermostats. See compatible smart home devices . You can connect compatible smart home devices to Alexa using Alexa smart home skills. You can also directly connect certain smart home devices to Echo devices with a built-in smart home hub like Echo Plus. We may automatically update the firmware for certain devices on behalf of the applicable manufacturer. We may receive information about third-party smart home devices you connect to Alexa, such as device type, name, features, and status and usage history. You can delete Alexas status and usage history for third-party smart home devices through the Manage Smart Home Device History tab of the Privacy Settings in the Alexa app or https://www.amazon.com/alexaprivacy . Deleting this history may degrade your Alexa experience and certain features, such as Hunches. This will not delete other information about your smart home devices, such as device type or name.
+Alexa can automatically recognize the voices of users in your household over time to improve personalization of certain Alexa features. You can also create a voice profile, so Alexa can call you by name and do more to personalize your experience. When Alexa recognizes your voice automatically, or when you create a voice profile, Alexa uses recordings of your voice to create an acoustic model of your voice characteristics. Alexa stores these acoustic models in the cloud. If a user stops using Alexa and their voice is not recognized for three years, we will automatically delete the acoustic model for their voice. You can turn off automatic voice recognition or delete any voice profile you've created in the Alexa app. Automatic voice recognition is not available in certain locations.
+This free feature brings the simplicity of Echo's hands-free experience, the benefit of Echo's microphone array, plus the high-quality sound of the Echo speaker, to calling and messaging. Now you can quickly call and send/receive voice messages for your family and friends via Alexaall just by using your voice. Using your supported Echo device, simply say "Alexa, call Grandma" or "Alexa, send a message to Julie".
+You can send and receive Alexa messages (and place and receive Alexa calls) between a supported Echo device and the Alexa App on supported mobile phones and tablets. Alexa Calling and Messaging may also be available on some third party Alexa-enabled products. Features may vary by device.
+You can use supported Echo devices and the Alexa App to send voice and text messages to another Alexa calling and messaging user(e.g., on Echo, "Alexa, send a message to Mum" or, on the Alexa App, tapping on the message icon on Mum's contact card). Messages are processed in the Cloud to convert voice messages to text, and vice versa. When you receive a message on a supported Echo device, you will hear an audio tone and see a visual notification. You will be able to retrieve the message on your supported Echo devices by saying "Alexa, play my messages". When you receive a message, you also will receive a notification on your mobile phone or tablet, and you will be able to view and play the message in the Alexa App. Alexa messaging does not support sending or receiving text messages to or from phone numbers.
+You can use supported Echo devices and the Alexa App to call another Alexa Calling and Messaging user (e.g., on Echo, "Alexa, call Mum" or, on the Alexa App, tapping on the calling icon on Mum's contact card). When you receive Alexa calls on your supported Echo devices, Alexa will tell you that you have an incoming call and identify the caller. You also will see a rotating green light indicator on Echo devices without a screen, and an incoming call screen on Echo devices with a screen. You can say "Alexa, answer" to pick up the call. Either person can end the call by saying "Alexa, hang up". When you receive a call, you also will receive a notification on your mobile phone or tablet and will see an incoming call screen in the Alexa App that lets you answer the call. Alexa calling does not support calling phone numbers or receiving calls from phone numbers. For information on placing calls using Echo Connect, see the below FAQ "How does calling on Echo Connect work?"
+No, you can't reach emergency services, such as 999 or 112, through Alexa calling and messaging. You should ensure that you can contact your relevant emergency services providers through a mobile, landline telephone, or other service. For information on calling emergency services using Echo Connect, see the below FAQ "Can I call emergency services with Echo Connect?"
+When you register for Alexa calling and messaging on your Alexa App, you will be asked to import your contacts, which will then appear as contacts in your Alexa App. When you open the Alexa App, your contacts are auto-updated from your tablet or mobile phone. You can also add contacts at alexa.amazon.co.uk
+First you must register for Alexa Calling and Messaging. Once you are registered, if another Alexa Calling and Messaging user has your contact details, they can reach you via Alexa.
+If you call or message another Alexa Calling and Messaging user (e.g. "Jane Smith"), the call or message will go to all supported Echo devices associated with that contact, as well as that contact's Alexa App.
+Do Not Disturb puts your Echo device on silent, meaning you will not receive calls or messages via Alexa. Simply say "Alexa, turn on do not disturb" or you can turn it on in Settings in the Alexa App. When you're ready to receive calls and messages again, just say "Alexa, turn off do not disturb".
+On the iOS version of the Alexa App, swipe a conversation to the left and click "Remove". On the Android version of the Alexa App, long-press on a conversation to select it, then tap the trash icon in the top navigation bar. Note that removing a conversation from your conversation list does not remove it from your contact's conversation list. It is not possible for you to remove sent or received messages from a contact's conversation list.
+You can call Customer Service, and we will help you de-register from Alexa Calling and Messaging.
+The optional Drop In feature will let you easily connect with your closest friends and family on supported Echo devices. To give Drop In permission to yourself (and your household) or a contact (and that contacts household), select the applicable contact card and turn on Drop In. In addition, you can give Drop In permission to yourself (and your household) by simply saying Alexa, Drop In on Home. To turn off Drop In for your household, you can simply say Alexa, disable Drop In. Alternatively, you can turn on Do Not Disturb on one, or all, Echo devices by saying "Alexa, turn on Do Not Disturb". You also may disable Drop In for a specific device via the device settings in the Alexa App.
+When someone drops in on your supported Echo device, you will hear an audio tone and see a visual indicator that someone is dropping in on you. The contact on the other side of the Drop In will automatically hear audio through your device. You may end the Drop In by saying "Alexa, hang up". On Echo devices without a screen, you will see a green in-call light indicator showing that a Drop In is in progress. If a contact with the Alexa App or an Echo device with a screen drops in on your Echo device with a screen, they will see a frosted glass view from your device's camera. The frosted glass view will automatically transition to clear video over a short period of time. You will see the contact's video (and a picture-in-picture view of your own video) when the Drop In is in progress. You can end a Drop In by tapping the end icon on the screen, or you can disable the camera while continuing an audio conversation by saying "Alexa, video off" or tapping the video off icon on the screen.
+If household members or contacts have been granted Drop In permission, they will see a recently active indicator on their Echo Show, Echo Spot or Alexa App displaying whether someone is nearby your supported Echo devices. Interactions with Alexa, and motion sensors on Echo Show, will be used to determine whether your device has been recently active.
+If you have granted your household members Drop In permission, you can disable it by saying Alexa, disable Drop In or turning off Drop In on your own contact card. If you have granted any other contacts Drop In permission, you can disable that on their contact cards. You also may disable Drop In for a specific device via the device settings in the Alexa App.
+The Announcements feature lets you easily make announcements to other supported Echo devices within your household, like a one-way intercom. Simply say, Alexa, announce that dinners ready and Dinners ready will then be announced in your voice to all supported Echo devices in your household. You can block Announcements on one, or all, Echo devices by turning on Do Not Disturb  simply say "Alexa, turn on Do Not Disturb". Unlike Drop In, Announcements are one-way only. To respond to an Announcement, you can make a new Announcement or start a Drop In as a two-way intercom.
+Yes, you can link select third-party communications services with Alexa Calling and Messaging. Simply go to Communications within Settings in the Alexa App. Amazon may import and save your contacts from your third-party communications service in the Cloud to help you connect with your friends and family. Some features may not be available via Alexa, and charges from the third-party communications service may apply for use of some features. You should check any terms applicable to the third-party communications service (including whether emergency services are available) prior to linking your account with Alexa.
+To use Alexa on a Fire TV device, you may use the voice remote or the Fire TV remote app, or you may pair your Fire TV device with a compatible Alexa-enabled device. You can use Alexa on Fire TV devices to search using your voice. Voice search is faster and less frustrating than typing on a traditional alphabet grid. To use voice search, press and hold the microphone button on your voice remote or Fire TV remote app, and say the movie, TV title, actor, genre, or director that you want. If youre using the voice remote, release the microphone button when you're done speaking.
+When you press the microphone button on the Alexa Voice Remote, a blue light bar appears on the Fire TV interface to indicate that the device is streaming audio to the Cloud.
+You can turn on Alexa hands-free in your device settings (Settings > Alexa) by ensuring that both Alexa and Hands-Free Mode settings are enabled. To enter Show Mode, swipe down from the Quick Actions menu and toggle Show Mode, or ask Alexa to Switch to Show Mode.
+Alexa on your Fire tablet uses on-device keyword spotting to detect the wake word, even when your device is in standby mode (Fire 7 and Fire HD 8 (7th Generation) tablets may not detect the wake word when the screen is off, if the tablet is not connected to power). When the wake word is detected, Alexa on your Fire tablet streams audio to the Cloud, including a fraction of a second of audio before the wake word.
+When Alexa on your Fire tablet detects the wake word, or when you press and hold the Home button to access Alexa, a blue line appears at the bottom of your screen to indicate that Alexa is streaming audio to the Cloud. When you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed. You will also hear a short audible tone that plays after the wake word is recognised, to indicate that the device is streaming audio, and at the end of your request, to indicate that the connection has closed and the device is no longer streaming audio.
+When Alexa hands-free is activated and your tablet is passcode-locked, you can access certain Alexa features using the wake word. You'll be required to enter your passcode to access other Alexa features. If you prefer to no longer be asked to enter your passcode to access Alexa features, you can designate a wi-fi network as a Trusted Network in device settings (Settings > Alexa > Trusted Networks) and connect your Fire tablet to a Trusted Network. As a security precaution, if your tablet is passcode-locked, you may be prompted to enter your passcode to exit Show Modeeven if you're connected to a Trusted Network.
+When in Show Mode, your tablet will turn on the screen when it detects the wake word or motion in view of the camera or when you interact with the devices' display or buttons.
+There will be an on-screen indicator whenever Alexa is streaming images or video to the Cloud. For instance, if a video call is active, the device's screen will display a picture-in-picture view of the video being streamed to the Cloud.
+You can turn off Alexa hands-free in a few different ways: by swiping down from the Quick Actions menu and selecting the Alexa microphone/camera on/off icon (in Show Mode) or the Alexa Hands-Free icon (outside Show Mode), by simultaneously pressing and holding the devices volume up and down buttons for three seconds, or through your device settings (Settings > Alexa > Hands-Free Mode). When in Show Mode, a red bar and icon will appear to let you know that Alexa hands-free on your Fire tablet is turned off; outside of Show Mode, an icon will appear in your status bar. Your Fire tablet will not respond to the wake word  or, in Show Mode, detect motion in view of the camera - until you turn Alexa hands-free back on. If you turn off Alexa hands-free, you will still be able to access Alexa when your tablet is not in Show Mode by pressing and holding the Home button.
+Echo devices are designed to detect only your chosen wake word (Alexa, Amazon, Computer or Echo). The device detects the wake word by identifying acoustic patterns that match the wake word. Once the word is detected, audio begins streaming to the cloud, including a fraction of a second of audio before the wake word. No audio is stored or sent to the Cloud unless the device detects the wake word (or Alexa is activated by pressing a button).
+When Echo devices detect the wake word, or when the action button available on some Echo devices is pressed to activate Alexa, a visual indicator appears on the device to indicate that the device is streaming audio to the Cloud. For instance, a light ring on the Amazon Echo will turn blue or a blue bar will appear on Echo Show. When you use the wake word, the audio stream includes a fraction of a second of audio before the wake word, and closes once your question or request has been processed. You can turn on Follow-Up Mode to enable Alexa to respond to a series of requests without repeating the wake word. Learn more. You can also configure Echo devices to play a short audible tone any time audio is sent to the cloud within settings in the Alexa App.
+Yes. Echo devices are equipped with a microphone off button. When the button is pressed, the power to the microphones is disconnected and a dedicated red light is illuminated. When the microphones are turned off, your device cannot record and stream audio to the Cloud.
+Echo devices with a screen will turn on the screen when they detect the wake word or motion in view of the camera or when you interact with the device's display or buttons.
+There will be an on-screen indicator whenever Echo devices with a camera are streaming images or video to the Cloud. For instance, if a video call is active, the devices screen will display a picture-in-picture view of the video being streamed to the Cloud or will display a green "call in progress" bar at the bottom of the screen.
+Yes. You can turn off the camera on Echo devices with a camera by pushing the microphone/camera off button on your device. When the microphone/camera off button is pressed, the power to the camera and the microphones is disconnected and a dedicated red light is illuminated. When the camera is turned off, the power to the camera and the microphones is disconnected and a dedicated red light is illuminated. When the camera is turned off, the device will not detect motion in view of the camera and you will not be able to use any features that rely on the camera such as video calling.
+You need a home phone service (such as a landline or VoIP service), wi-fi, and a supported Echo device (Echo, Echo Dot, Echo Spot, Echo Plus, and Echo Show). One Echo Connect can support only one phone line, and only one Echo Connect can be registered per Amazon account.
+Echo Connect extends and is not a replacement for your traditional telephone service. Plug Echo Connect into your home phone jack or VoIP adapter. You will also need to setup your supported Echo device. Then visit alexa.amazon.co.uk, or register for Alexa Calling and Messaging in the Alexa app in order to complete set up of your Echo Connect. With Echo Connect, you can ask Alexa to make calls using your home phone service to your contacts or to other numbers supported by your home phone service provider (e.g. "Alexa, call Mom" or "Alexa, call 03069990978). Echo Connect will display your home phone number as caller ID, unless you disable caller ID with your home phone service provider. You can also use your supported Echo devices to answer incoming calls to your home phone service (e.g. "Alexa, answer the phone"). As Echo Connect uses your existing home phone service to make and receive calls, home phone service provider charges may apply. Some calling features you may use on your home phone (such as call waiting and three-way calling) are not available through Echo Connect.
+Echo Connect will use your home phone service to make and receive your calls. The mobile number used to register for Alexa Calling and Messaging will be displayed as a caller ID for calls made using Alexa Calling. You can disable the caller ID feature through your contact card in the Alexa App. Alexa Calling uses your Echo device's internet connection to place calls to another person who has registered for Alexa calling and messaging. For more information on Alexa Calling, see the above Alexa Calling and Messaging FAQs. If you select Echo Connect, your home phone service will be used to place all calls and your home phone number will be displayed as caller ID.
+If you want to call another Alexa Calling and Messaging user, there are a few different ways your call may be processed. If you specify just the name of the person you would like to call (e.g. "Alexa, call Mum"), Alexa will default to placing the call through Alexa Calling to mom's supported Echo devices or the Alexa app. If you specify the name of the person and their phone type (e.g. "Alexa, call Mum's mobile") Alexa will place the call to mom's mobile using your home phone service through your Echo Connect. For more information, see the above FAQ "What's the difference between Alexa Calling and Echo Connect."
+Yes, calling emergency services as 999 or 112 through Echo Connect works just like dialling any other phone number. Simply say, "Alexa, call 999. Please note that if Echo Connect is used to call emergency numbers like 999, the location information given to the emergency service, if any, may be the address associated with the phone line connected to your Echo Connect, which may not be the same as the location of your Echo device from which you are making the call. Echo Connect will not function in the event of a power or broadband outage or other connectivity issues. If you are unable to place your call through your Echo Connect, you should use your mobile, landline telephone, or other telephone service.Currently, Bixby is compatible with the Galaxy S8 / S8, Galaxy S9 / S9+, and the Galaxy Note8 but we plan to support more models in the future.Bixby's name is not able to be changed.Users must login with using a Samsung account in order to use Bixby Voice, thus it does not support incognito mode.Yes, to use Bixby, you must be connected to a mobile data or Wi-Fi network.The Bixby Voice Open Trivia feature allow users to ask general questions about an entity (i.e. a person, place or thing). Bixby Voice will provide news articles (text), videos, webpages, etc. to answer users' questions. Yes, you can select another language from Bixby Home > Settings > Language and speaking style.No, currently we are supporting one Bixby voice option.In addition, you can also ask Bixby Voice questions, like "what is the weather like outside" or "what movies are playing nearby."You can find the supported Apps list and sample commands on  Apps with voice and Bixby Labs.You can find your last conversation on My Bixby. My Bixby keeps track of all your conversations and helps you improve on them with phrases you can suggest to improve your Bixby experience.
+Bixby will appear and will be animated on the screen when listening, and white and still when not listening.
+You can create a reminder with specific tasks in text or checklist format, calls and text messages that you want to make later, and media contents that you want to revisit later such as photos (up to 8 photos in one reminder), videos, and web contents.
+Bixby Home suggests contextually relevant cards based on your usage pattern, but it does not send you separate alerts or notifications.
+Feel like youre talking to a wall? If Bixby is not responding to your voice, get the problem solved and start communicating again. From the Home screen, navigate to Apps, and then touch Settings. Touch Apps, and then swipe to and touch BixbyVoice. Touch Storage > CLEAR DATA, and then touch CLEAR CACHE. Bixby will be refreshed and ready to chat again.
+Bixby stores users personal data in accordance with stringent security procedures. Users may choose to delete data that Bixby saves from Bixbys settings at any time. Bixby only collects data necessary to improve or personalize your experience, and ensures that your personal information is never transmitted.
+Bixby Home serves as a gateway to Bixbys various functions and presents your most contextually relevant apps and services on a single screen, so the content you care about is just a swipe away. Bixby learns your routine and serves up the information you need when you need it. It looks for patterns in your app usage to predict what you might be looking for, and when youre most likely to look for it. The more you use your smartphone, the more relevant Bixbys content suggestions will become. Bixby Home will automatically populate based on your actions, but you can also customize the experience to best suit your needs. You also have the options to pin your favorite cards to the top of your Home page for easy reference,and hide any cards that you no longer wish to see.
+Reminder lets users do much more than simply log an appointment or create an alarm. The function utilizes Bixbys voice support and contextual awareness to allow users to set smart reminders for specified times, places or circumstances. Reminder is also integrated into other apps. You can use Reminder to save webpage URLs in the Samsung Internet app, as well as messages that youd like to get back to later in the Messages app. You can also pin reminders to your devices Always On Display to make them visible at all times, and access your collected reminders via your devices edge panel.
+Bixby Visions advanced OCR (object character recognition) technology allows it to scan and recognize a total of 40 languages. These languages can then be interpreted into 104 different dialects via Googles powerful translation database.
+Weve forged partnerships with popular online shopping platforms in each region to allow consumers to enjoy a much more convenient shopping experience with Bixby. These partners include Amazon in North America, Japan and several major markets across Europe, as well as Taobao in China and Samsung Pay Shopping in Korea.
+Yes, it does. Thanks to Bixbys iterative deep learning technology, the more you use the interface, the smarter it gets.For example, whenever youre not satisfied with its response, Bixby will work with you to learn how to better serve your needs. Each time Bixby responds to a command, it presents you with the option to Teach me  to select a more appropriate response from a list of similar commands. The next time you make that request, Bixby will remember exactly what you wanted it to do
+Bixby is optimized to detect voice commands when users are 15 to 20 centimeters (5.9 to 7.9 inches) away from their device. If youre too close or too far, it can affect the voice recognition technologys accuracy. For best results, speak clearly and at a volume comparable to normal conversation levels.
+Bixby works best in environments where your voice may be clearly heard. That being said, Bixbys deep learning technology allows the interface to distinguish your voice commands from ambient noise, even when youre listening to music, by carefully analyzing sound frequencies. When in particularly loud environments, you can activate Bixby Voice using your earphones play/pause button and microphone.
+Bixby Voice is currently available in Korea and the U.S. and supports commands in Korean and U.S. English. Users in the U.S. and Korea can switch between Korean and English by adjusting Bixbys language settings. Bixbys understanding of natural language is what allows it to learn dialects. Weve taught Bixby various dialects distinct intonations, vocabulary and grammatical structures, and were currently working on providing support for more.
+Bixbys Quick Commands allow you to issue multi-step, complicated requests with convenient keywords. With Quick Commands, users can replace a long request, such as Track my run using the Samsung Health app, with a short, simple command, such as Run. These shortcuts allow you to interact more seamlessly with your phone. Quick Commands may be accessed under Bixby Homes My Bixby menu.
+Bixby only utilizes your mobile data when listening to a command, not before or after. As a result, the length of the command ultimately determines the amount of mobile data used. If Bixby Voice is activated and youre using a licensed SIM card, its possible to use the interface even when youre overseas. Actual range of use may vary depending on the apps youre using.
+Bixby Vision was designed to provide you with a deeper understanding of what youre looking at, allowing you to use your camera to easily scan and search for relevant information on the objects and places around you. Bixby Vision offers information on everything from purchasing options for a particular product to details on your current location and even the bottle of wine youre enjoying. It is also capable of scanning business cards and performing convenient translations. After scanning an object, users can use Bixby Vision�s image search function to locate it online. Once Bixby has identified the object, it will automatically pull up related images on Pinterest. Bixby Vision works best in bright environments, and when you hold your camera steady. The screen should not be upside down, and if the object in focus is a product, it should be captured from the front to aid identification.
+The Bixby platform is free for Residents and Property Managers to download and use. There are no monthly fees and no hidden costs. The only cost to Residents is a small transaction fee imposed by our payments partner, Stripe. These fees differ depending on how you pay. ACH payments (electronic payments directly from your bank account) incur a fee of .8% of the total transaction  up to a maximum of $5. Credit and debit card transactions incur a fee of 2.9% of the transaction total plus a flat $.30, paid by the Resident.
+Currently, Bixby is only available in New York City, but we are growing fast. Stay tuned!
+Bixby is free for Residents and Building Managers. But we still have to make money. We do this in two ways: Rent & payment fees: We collect a small fee ($.50 per transaction) from Property Managers.  Resident services: We also collect a small commission from our Service Partners each time you book a service through the Bixby app.
+Help Bixby help you by providing feedback on how it responds to your commands. When you say a command and Bixby responds, youll see a drop-down arrow at the top of the screen. Touch it and swipe down, and youll see what Bixby heard and the choice it made. If Bixby heard you incorrectly, touch the phrase under What I heard, enter the correct phrase using the on-screen keyboard, and touch Next. Bixby will respond to the correct command. You can also edit Bixbys response by touching a Service under Choices I made, and then selecting the correct service.
+You can raise or lower Bixby Voice's volume at any time. Just press the Bixby key to open Bixby Assistant Home, and then press the Volume Up/Down keys to adjust the volume. Note: You can also swipe down to see more volume controls.
+Youve been using the default New Bixby voice for a while now, and you are curious how the other voices sound. Press the Bixby key to open New Bixby Assistant Home. Touch More Options in the top right-hand corner and then touch Settings. Next, touch Language and voice style. To change New Bixbys voice style, select your desired voice option under VOICE STYLE. To change New Bixbys language, touch Language and choose your desired language.
+Theres no need to fumble with the Bixby key when you want something done  just call Bixby with your voice. To set up Voice wake-up, open Bixby Assistant Home by pressing the Bixby key. Touch More Options > Settings. Touch Voice wake-up, and then touch the slider next to Wake with Hi, Bixby. From there, follow the on-screen prompts. Note: When you set up Bixby Voice for the first time, you will be prompted to set up Voice wake-up.
+You love how Bixby responds to your voice, but what if you have music playing, or your alarm is going off? Thats no problem. You can use Voice wake-up when your phone speaker is playing media, control the Wake-up sensitivity, and more.
+During media (video/game/voice) recording, during a call (including outgoing call), while docked on the DeX Station, maximum power saving mode, emergency mode, kids mode and mirror link.
+New Bixby is an intelligent, versatile, and zippy digital assistant that learns and adapts to you. And with the recent upgrade, its even better than before.
+Press the Bixby key to open Bixby Assistant Home and then touch the keyboard icon in the lower left-hand corner. Use the keyboard to type a command to New Bixby and then touch the Send icon. New Bixby will read your command and complete it right away.
+The newly updated Bixby boasts a faster response time and will adapt to your routines. Bixby will remember commands or information youve previously mentioned and apply it to future situations.
+Yes, the is another way. Maybe you prefer writing over speaking aloud. No sweat, New Bixby loves to read. You can type commands to New Bixby and it will understand.
+First, make sure you have Spotify downloaded from the Play Store. Press the Bixby key to open Bixby Assistant Home, and then swipe left. Touch Spotify, and then touch CONNECT ACCOUNT. Log in or sign up for a Spotify account. Your Spotify account is now linked with Bixby. You're ready to try out some voice commands.
+Bixby Labs is where Bixby experiments with new apps beyond default Bixby compatible apps. These experiments might not always work out just right, but Bixby always learns something new.
+Bixby is a virtual assistant developed by Samsung Electronics. ... Bixby can also be sideloaded on older Galaxy devices running Android Nougat. Bixby represents a major reboot for S Voice, Samsung's voice assistant app introduced in 2012 withthe Galaxy S III.
+The last step is getting rid of the Bixby Home side screen. Tap and hold on an empty section of your home screen, and then swipe right to reach the leftmost panel, which is Bixby Home. To get rid of it, toggle the button up top to the off position.
+Press and hold the Bixby button on the side of the device while speaking commands. ...From Bixby Voice popup, review the prompt then tap Full screen as needed. From Bixby Voice screen, review or search available commands then tap the Bixby icon to begin listening.
+Siri and Google Assistant can open the camera for you but they cannot switch to the front-facing camera, nor can they snap a photo for you. But Bixby being able to do several tasks better than Siri also Google Assistant is something I didnt expect.
+Bixby is a virtual assistant developed by Samsung Electronics. Bixby represents a reboot for Samsungs voice assistant app introduced in 2012 with the Galaxy S III
+To set up Bixby Voice for the first time, press the Bixby key, and then touch Next. Review the terms, select I have read and agree to all of the above, and then touch Next. Follow the on-screen instructions to teach Bixby your voice and set up Voice wake-up. When youre finished, touch the Check mark. Now, Bixby will listen to your commands! You can also explore Bixby Assistant Home and see what Bixby can do
+To access Bixby Home, swipe right from the Home screen, and then touch START. If needed, sign into your Samsung account. Next, review the information and then touch I have read and agree to all of the above. Then, touch NEXT.
+Bixby edits photos, sends messages, and composes emails on command. Anything you do on your hone via touch, you should be able to do by voice with Bixby.
+Bixby will be a new intelligent interface on our devices. Fundamentally different from other voice agents or assistants in the market, Bixby offers a deeper experience thanks to proficiency in these three properties: Completeness, Context Awareness, and Cognitive Tolerance
+Bixby offers four main features: Voice, Vision, Reminder and Home.
+Google Home mini is tiny smart speaker powered by the Google Assistant that can be used to Play your favorite music, Create your Calender entries, Set Alarm, Get updates on Weather, Traffic etc.
+Please check out this link to set up your Google Home Mini with step by step instructions.
+Yes. It does work in India. But, there are few country-specific features which will not work in India such as Voice Calling etc.
+In Google Home Mini, firmware updates are Automatic. Your Home Mini will be updated to the latest firmware automatically. No manual actions needed.
+Open the Google Home app Click on the Devices icon in the top right of the Home Screen On your device listing, Tap on the Menu icon and select Settings Scroll down to bottom and check for Cast Firmware Version The version mentioned in front of the Cast Firmware Version is the current firmware of your Home Mini. Check out this link to find the latest firmware available for Google Home devices.
+If your Home Mini is purchased in the U.S. or other countries and if you are using it in India, Home Mini will not be updated to the latest available firmware. You need to change your Smartphones language (System Language) to English U.S. from English India. To force the firmware update, Go to your smartphones Settings, Select System -> Language and Input, Tap on Languages -> Change the language to English U.S., Once you change the language to English U.S., Restart the Home Mini and Force Stop the Google Home app or restart your phone. Now, the Homi Mini will receive the latest firmware update automatically. Please make a note that, Settings for changing system language is slightly different for different Android Versions. So find similar options on your Smartphone.
+No. you will not be able to make calls using the Home Mini. This features currently available only in very few countries such as U.S., U.K. etc
+No. Google Home app is needed to set up your Home Mini. Once youre done with the setup, you can use the Home Mini without the help of a smartphone. But, still, if you would like to change the Mini settings such as Pairing your Bluetooth speaker, Switching to Night mode etc. has to be done using the Home app. So always keep the Google Home app on your smartphone.
+Yes. You can play the locally stored music through Home Mini. To do so, Turn ON your Phones Bluetooth, Open Google Home app on your smartphone, Tap on the Devices icon from the top left of the Home screen, On your device listing, Tap on the Menu icon and select Settings, Scroll down and select Paired Bluetooth Devices, Tap on Enable Pairing Mode, Now, Open your Phones Bluetooth Settings, Select your Home Mini and Tap on Pair, Thats it. Now, youll see the status as Connected, Now, if you play any Media on your smartphone, it will be outputted through the Home Mini
+Play some music on Home Mini, Open Google Home app on your smartphone, Tap on the Devices icon on the top left of the Home screen, Tap on the Thumbnail of the Song or Select your Home Mini, Now using the Media control page, you can Play, Pause, or Change volume levels
+Open the Google Home app, Click on the Devices icon from the top right of the Home Screen, On your device listing, Tap on the Menu icon and select Settings, Select More, Scroll down and select Video and Photos, Tap on Link just below the Netflix listing, Sign into your Netflix account by following the on-screen instructions
+Turn on your Bluetooth speaker and set it to pairing mode, Open the Google Home App on your smartphone, Tap on the Devices icon at the top right of the home screen, Tap on the Menu and select Settings, Select the option Default Music Speaker, Tap on the Pair Bluetooth Speaker. It will start scanning the nearby Bluetooth speakers, Select your Bluetooth Speaker (Altec Orbit is the name of my Bluetooth speaker), Tap on Done. Now the Music will be outputted from your Bluetooth speaker, If you would like to switch the Music output to your Home Mini, In the Default Music Speaker, Select your Google Home Mini as the default speaker and select Done
+G Suites Gmail features include: custom business email @yourcompany, unlimited group email addresses, 99.9% guaranteed uptime, twice the storage of free Gmail, zero ads, 24/7 phone and email support, G Suite Sync for Microsoft Outlook, and more.l in G Suite differ from free Gmail?
+Yes. A user can have multiple email addresses by creating email aliases such as support@yourcompany. You can add up to 30 email aliases for each user.
+Yes. Migration tools are available for importing your old emails from legacy environments such as Lotus Notes and Microsoft.
+G Suite has been built from the ground up to mitigate the unique threats for cloud systems. Googles standards for performance and reliability apply to businesses, schools and government institutions around the world.The technology, scale, and agility of our infrastructure bring unique security benefits to our customers. Our vast network of data centers are built with custom-designed servers, that run our own operating system for security and performance. Because Google controls its entire hardware stack, we are able to quickly respond to threats that may emerge.Google employs dedicated security professionals to work on protecting your data, including some of the world�s foremost experts in computer security. Just like all teams at Google, this team is constantly innovating and making the future more secure, not just for Googles billion users, but for business organizations as well.Google has an outstanding track record of protecting user data. We protect this data from outside intrusions as well as insider threats. In addition, we tightly restrict and monitor any internal access to user data. The small set of employees with access is subject to rigorous authentication measures, detailed logging, and activity scanning to detect inappropriate access via log analysis. It is this unique combination of people, technology and agility that ensure your data is secure at Google. For more information, check out the G Suite Security Whitepaper.
+Google designed G Suite with very stringent privacy and security standards based on industry best practices. This helps our customers address their compliance and regulatory requirements. Google offers strong contractual commitments regarding data ownership, data use, security, transparency, and accountability. Google undergoes several independent third-party audits on a regular basis. These independent auditors examine the controls present in our data centers, infrastructure, and operations. Examples of these audits and standards include:SOC1, (SSAE-16/ISAE-3402), SOC2, SOC3, ISO27001, ISO 27018:2014 and FedRAMP. Learn more about our certifications at Security and Trust. Many G Suite services are also compliant with HIPAA (U.S. Health Insurance Portability and Accountability Act). G Suite for Education can be used in compliance with laws and regulations important to schools.
+G Suite supports customers compliance with the U.S. Health Insurance Portability and Accountability Act (HIPAA), which governs the safeguarding, use, and disclosure of protected health information (PHI). Customers who are subject to HIPAA and wish to use G Suite for PHI processing or storage can sign a business associate amendment with Google. View more details about HIPAA compliance with G Suite.
+Respect for the privacy and security of data you store with Google underpins our approach to producing data in response to legal requests. When we receive such a request, our team reviews the request to make sure it satisfies legal requirements and Google's policies. Generally speaking, for Google to produce any data, the request must be made in writing, signed by an authorized official of the requesting agency and issued under an appropriate law. If we believe a request is overly broad, we'll seek to narrow it. For more information, visit Googles Transparency Report.
+Core customer data that is uploaded or created in G Suite services is encrypted at rest, as described in this help centre article. This encryption happens as it is written to disk, without the customer having to take any action. Google encrypts data with distinct encryption keys, even if they belong to the same customer. Data is encrypted using 128-bit or stronger Advanced Encryption Standard (AES). Google encrypts core G Suite data while it is in transit as well, whether it is traveling over the Internet between the customer and Google or moving within Google as it shifts from one data center to another. We encrypt this data between Google and our customers using HTTPS with forward secrecy.
+Google offers the security features required for most customers directly in G Suite. G Suites Business and Enterprise editions offer some additional security features, such as advanced Google Drive auditing and security keys management at scale. In all plans, G Suite administrators have control over system configuration and applications from within a single dashboard via our Admin console regardless of the size of the organization. Administrators can access advanced tools immediately, including authentication features like 2-Step verification and single sign-on, or email security policies like secure transport (TLS) enforcement, IRM, and DLP which can be configured in a few clicks. For customers with security needs beyond what is included in G Suite, we created a partner marketplace that extends our capabilities.
+Yes. Google has a broad customer base in Europe. Google provides capabilities and contractual commitments for our customers designed specifically to help address EU data protection requirements and the guidance provided by the Article 29 Working Party. G Suite offers EU Model Contract Clauses and a Data Processing Amendment. Additionally, G Suite has been assessed as appropriate for use with the UK government's Cloud Security Principles "OFFICIAL (including OFFICIAL- SENSITIVE)."
+Yes, you can bring your existing email, contacts, and calendar data with you to G Suite. You can migrate the data for yourself and your team members, or you can let your team migrate their own data. G Suite includes tools to migrate data from Microsoft Exchange or Microsoft Office 365�, IBM Notes, and other email systems.
+No, youll continue to send/receive email as usual. To use Gmail with G Suite, you setup your domain (MX records) to direct your mail flow to the Google mail servers. Its like registering your new address with the post office so that mail is delivered to your new location. Once the MX records change takes effect (up to 72 hours), you can start receiving/sending email through your G Suite account. Until then, youll receive/send your email through your old mail system.
+No, this transition will not affect your current website. Setting up G Suite does not require any changes to your current web host provider. While G Suite is not a web hosting provider, you can learn more about Google web hosting solutions through Google Cloud Platform.
+To use G Suite, you need a domain. Your domain name is what appears after the www. in your website URL. If you already have a domain, enter it when you sign up for G Suite. (Youll be asked to verify that you own the domain.) If you dont have a domain or want to use a different one with G Suite, you can purchase a domain of your choice (if available) from Google.
+Yes, you can work with a G Suite partner. These experienced IT-service companies can help you evaluate, customize, deploy, and transition to G Suite. They can also provide training, data management, and ongoing support. If you have questions about setting up G Suite, you can also contact G Suite Support. The Support team is available 24 hours a day, 7 days a week. Visit the Setup Site for information on setup, communication templates, and resources for deployment and change management.
+Yes, you can manage your organizations mobile devices, without the need for an on-premise device management server, using the Google Admin console. Mobile device management (MDM) allows you to enforce device policies over mobile devices in your organization and perform actions like remotely wiping your users mobile devices.
+If your organization acquires a new domain name or does business at multiple domains, you can add all your domains to your account at no extra cost. Users can then have identities at one or more of your domains while sharing services as part of a single organization. And you can manage your domains from the same Admin console. Add a domain as either a separate domain or domain alias, depending on how you plan to use it.
+Yes. No matter the size of your organization, we recommend that you distribute the responsibility of managing your users and services among a select set of trusted users. You can grant a user administrative privileges by assigning them one of the available administrator roles. Assigning a role grants the user access to your Admin console. You can make a user a super administrator who can perform all tasks in the Admin console. You can also assign an administrator a role that limits which tasks the administrator can perform. For example, allowing them only to create groups, manage service settings, or reset a user's password.
+Initially, most services are turned on for all of your users. You can use the Admin console to turn off services you don't want people to use, or to customize how services work. You have the option to enable the same settings for everyone or apply unique policies to different users. For example, you might turn on Hangouts just for your support team or allow only the marketing department to share public Google Sites.
+With G Suite, you'll receive a number of additional business-grade services not included with Googles free consumer apps. These services include: custom business email @yourcompany, twice the amount of cloud storage across Gmail and Drive, 24/7 phone and email support, 99.9% guaranteed uptime on business email, interoperability with Microsoft Outlook, additional security options like two-step authentication and SSO, and administrative controls for user accounts.
+No. When you sign up for G Suite, youll gain access to a set of integrated apps that work together seamlessly. For instance, you can receive a message in Gmail and instantly convert it into a Calendarevent. When you make a comment in Docs, Sheets, or Slides, collaborators automatically receive email alerts. With a single click, you can launch a Hangouts video meeting from your inbox or calendar. Using these tools together improves productivity and gives your business the most value. However, you are welcome to purchase the suite and only use the services of your choice.
+Weve found that many of our customers are able to eliminate their existing productivity suites and rely exclusively on G Suite to create different kinds of files, including text documents, spreadsheets, and presentations. You can work on those files in real time with other people and store them in the cloud with Google Drive. G Suites apps work across devices. Unlike traditional desktop applications, there is no software to install. G Suite is also compatible with files made in other programs, such as Microsoft Office.
+With G Suite, you'll receive a number of additional business-grade services not included with Googles free consumer apps. These services include: custom business email @yourcompany, twice the amount of cloud storage across Gmail and Drive, 24/7 phone and email support, 99.9% guaranteed uptime on business email, interoperability with Microsoft Outlook, additional security options like two-step authentication and SSO, and administrative controls for user accounts.
+No. When you sign up for G Suite, youll gain access to a set of integrated apps that work together seamlessly. For instance, you can receive a message in Gmail and instantly convert it into a Calendarevent. When you make a comment in Docs, Sheets, or Slides, collaborators automatically receive email alerts. With a single click, you can launch a Hangouts video meeting from your inbox or calendar. Using these tools together improves productivity and gives your business the most value. However, you are welcome to purchase the suite and only use the services of your choice.
+Weve found that many of our customers are able to eliminate their existing productivity suites and rely exclusively on G Suite to create different kinds of files, including text documents, spreadsheets, and presentations. You can work on those files in real time with other people and store them in the cloud with Google Drive. G Suites apps work across devices. Unlike traditional desktop applications, there is no software to install. G Suite is also compatible with files made in other programs, such as Microsoft Office.
+G Suite has three editions: Basic, Business, and Enterprise. Basic has 30GB of storage per user, Business offers unlimited storage and archiving, and Enterprise includes additional advanced controls and customization. You can compare G Suites editions for more information.
+Yes, we offer 14 days of G Suite service to new customers. Sign up for the free trial in minutes and create accounts for up to 10 people on your team. We�ll need to get your billing details to get your account set up, but you will only be charged after the free trial is over. You can cancel anytime. To get the most from your trial, we recommend trying at least 3 tasks you want to explore, such as collaborating on Docs, launching a video meeting in Hangouts Meet, or checking Gmail from your mobile device.
+You can sign up for G Suite online or contact our sales team to get started. When you sign up online, youll automatically start with a free 14-day trial. We�ll need to get your billing details to get your account set up, but you will only be charged after the free trial is over. You can cancel anytime. Please note the trial is limited to 10 users. If you add more than 10 users during your trial period, the trial will end, and you will begin payment.
+You can cancel your subscription at any time in the Admin Console dashboard, under the Billing section. If you cancel within your 14-day trial period, you will not be charged. Please refer to this help center article for more information.
+Following our setup guide, you can set up G Suite and migrate your information at no additional cost. Our Support team is available to help if needed. If you would like someone to do the setup and migration for your company, please contact a Google Partner to learn more about these services and the costs associated.
+You can pay for your G Suite subscription using an international credit card. Google accepts payments from Visa, Mastercard, and American Express. In some locations, you can also pay by making withdrawals from a bank account (also called direct debit).
+Annual plans are offered only in some countries. Visit our pricing page to see if an annual plan is offered in your country.
+A user is defined as one personalized email address (name@yourcompany). A user can have multiple email addresses by creating email aliases. Group email aliases (such as support@yourcompany) don't count as users. You can add up to 30 email aliases for each user.
+No. Each user can have multiple email addresses by creating email aliases. You can add up to 30 email aliases per user.
+No, the cost of a domain is separate from G Suite. During signup, you will specify the domain you want for your business email. If you dont yet own the domain, you can purchase it from Google for an additional fee.
+Yes. When you first set up your billing, you will choose a country where you do business and which currency you would like to use to pay. Your country determines what payment methods you can use. Choose your country and currency carefully, as you can't change these selections later.
+Yes. This feature is available within a Chrome browser. If you haven't already, give Chrome a try it's free and easy to install.
+Yes. You can change each document's settings to grant anyone you choose editor, viewer or commenter access.
+Yes. You can convert many different file types into Docs format. The original file will remain intact.
 yes
 yes
 no
@@ -694,8 +685,7 @@ Yes
 Yes he did
 He was professor of astronomy at Uppsala University
 The scale was reversed
-He determined the dependence of the boiling of water with atmospheric pressure.
- the Celsius temperature scale 
+He determined the dependence of the boiling of water with atmospheric pressure.the Celsius temperature scale
 atmospheric pressure
 Uppsala, Sweden
 The scale was reversed by Carolus Linnaeus. 
@@ -2362,17 +2352,17 @@ Artificial Intelligence can be used in many areas like Computing, Speech recogni
 Perl language is not commonly used programming language for AI
 In AI, Prolog is a programming language based on logic.
 Strong AI makes strong claims that computers can be made to think on a level equal to humans while weak AI simply predicts that some features that are resembling to human intelligence can be incorporated to computer to make it more useful tools.
-Statistical AI is more concerned with �inductive� thought like given a set of pattern, induce the trend etc. While, classical AI, on the other hand, is more concerned with � deductive� thought given as a set of constraints, deduce a conclusion etc.
+Statistical AI is more concerned with inductive thought like given a set of pattern, induce the trend etc. While, classical AI, on the other hand, is more concerned with � deductive� thought given as a set of constraints, deduce a conclusion etc.
 Alternate Key: Excluding primary keys all candidate keys are known as Alternate Keys. Artificial Key: If no obvious key either stands alone or compound is available, then the last resort is to, simply create a key, by assigning a number to each record or occurrence. This is known as artificial key. Compound Key: When there is no single data element that uniquely defines the occurrence within a construct, then integrating multiple elements to create a unique identifier for the construct is known as Compound Key. Natural Key: Natural key is one of the data element that is stored within a construct, and which is utilized as the primary key.
 The production rule comprises of a set of rule and a sequence of steps.
-The �depth first search� method takes less memory.
+The depth first search method takes less memory.
 Heuristic approach is the best way to go for game playing problem, as it will use the technique based on intelligent guesswork. For example, Chess between humans and computers as it will use brute force computation, looking at hundreds of thousands of positions.
 A* algorithm is based on best first search method, as it gives an idea of optimization and quick choose of path, and all characteristics lie in A* algorithm.
 A hybrid Bayesian network contains both a discrete and continuous variables.
 Anything perceives its environment by sensors and acts upon an environment by effectors are known as Agent. Agent includes Robots, Programs, and Humans etc.
 In partial order planning , rather than searching over possible situation it involves searching over the space of possible plans. The idea is to construct a plan piece by piece.
 a) Add an operator (action) b) Add an ordering constraint between operators
-�Attachment� is considered as not a desirable property of a logical rule based system.
+Attachment is considered as not a desirable property of a logical rule based system.
 In artificial intelligence, neural network is an emulation of a biological neural system, which receives the data, process the data and gives the output based on the algorithm and empirical data.
 An algorithm is said completed when it terminates with a solution when one exists.
 A heuristic function ranks alternatives, in search algorithms, at each branching step based on the available information to decide which branch to follow.
@@ -2380,11 +2370,11 @@ In a planning system, the function of the third component is to detect when a so
 Generality is the measure of ease with which the method can be adapted to different domains of application.
 A top-down parser begins by hypothesizing a sentence and successively predicting lower level constituents until individual pre-terminal symbols are written.
 These are the two strategies which are quite similar. In best first search, we expand the nodes in accordance with the evaluation function. While, in breadth first search a node is expanded in accordance to the cost function of the parent node.
-Frames are a variant of semantic networks which is one of the popular ways of presenting nonprocedural knowledge in an expert system. A frame which is an artificial data structure is used to divide knowledge into substructure by representing �stereotyped situations�. Scripts are similar to frames, except the values that fill the slots must be ordered. Scripts are used in natural language understanding systems to organize a knowledge base in terms of the situation that the system should understand.
-FOPL stands for First Order Predicate Logic, Predicate Logic provides a) A language to express assertions about certain �World� b) An inference system to deductive apparatus whereby we may draw conclusions from such assertion c) A semantic based on set theory
+Frames are a variant of semantic networks which is one of the popular ways of presenting nonprocedural knowledge in an expert system. A frame which is an artificial data structure is used to divide knowledge into substructure by representing stereotyped situations. Scripts are similar to frames, except the values that fill the slots must be ordered. Scripts are used in natural language understanding systems to organize a knowledge base in terms of the situation that the system should understand.
+FOPL stands for First Order Predicate Logic, Predicate Logic provides a) A language to express assertions about certain World b) An inference system to deductive apparatus whereby we may draw conclusions from such assertion c) A semantic based on set theory
 a) A set of constant symbols b) A set of variables c) A set of predicate symbols d) A set of function symbols e) The logical connective f) The Universal Quantifier and Existential Qualifier g) A special binary relation of equality
 In online search, it will first take action and then observes the environment.
-RBFE and SMA* will solve any kind of problem that A* can�t by using a limited amount of memory.
+RBFE and SMA* will solve any kind of problem that A* cant by using a limited amount of memory.
 In Artificial Intelligence to answer the probabilistic queries conditioned on one piece of evidence, Bayes rule can be used.
 For building a Bayes model in AI, three terms are required; they are one conditional probability and two unconditional probability.
 While creating Bayesian Network, the consequence between a node and its predecessors is that a node can be conditionally independent of its predecessors.
@@ -2392,19 +2382,19 @@ If a Bayesian Network is a representative of the joint distribution, then by sum
 Inductive logic programming combines inductive methods with the power of first order representations.
 The objective of an Inductive Logic Programming is to come up with a set of sentences for the hypothesis such that the entailment constraint is satisfied.
 There are three literals available in top-down inductive learning methods they are a) Predicates b) Equality and Inequality c) Arithmetic Literals
-�Inverse Resolution� inverts a complete resolution, as it is a complete algorithm for learning first order theories.
+Inverse Resolution inverts a complete resolution, as it is a complete algorithm for learning first order theories.
 In speech recognition, Acoustic signal is used to identify a sequence of words.
 Biagram model gives the probability of each word following each other word in speech recognition.
 To solve temporal probabilistic reasoning, HMM (Hidden Markov Model) is used, independent of transition and sensor model.
 Hidden Markov Models are a ubiquitous tool for modelling time series data or to model sequence behaviour. They are used in almost all current speech recognition systems.
-The state of the process in HMM�s model is described by a �Single Discrete Random Variable�.
-�Possible States of the World� is the possible values of the variable in HMM�s.
+The state of the process in HMMs model is described by a Single Discrete Random Variable.
+Possible States of the World is the possible values of the variable in HMMs.
 While staying within the HMM network, the additional state variables can be added to a temporal model.
-In Artificial Intelligence, to extract the meaning from the group of sentences semantic analysis is used.
+In Artificial Intelligence, to extract the meaning from the group of sentences semantic analysis is used.k
 The process of determining the meaning of P*Q from P,Q and* is known as Compositional Semantics.
 In Propositional Logic, Logical Inference algorithm can be solved by using a) Logical Equivalence b) Validity c) Satisfying ability
-�Unification� process makes different logical expressions identical. Lifted inferences require finding substitute which can make a different expression looks identical. This process is called unification.
-In �Unification and Lifting� the algorithm that takes two sentences and returns a unifier is �Unify� algorithm.
+Unification process makes different logical expressions identical. Lifted inferences require finding substitute which can make a different expression looks identical. This process is called unification.
+In Unification and Lifting the algorithm that takes two sentences and returns a unifier is Unify algorithm.
 State space search is the most straight forward approach for planning algorithm because it takes account of everything for finding a solution.
 First check the computer's power cord to make sure it is completely plugged into the wall socket.  
 When your computer no longer responds to keyboard commands your best bet is to restart the computer. 

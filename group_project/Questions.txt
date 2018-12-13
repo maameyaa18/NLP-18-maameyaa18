@@ -1,403 +1,403 @@
-1.	How many regions are in Ghana?
-2.	What is the favorite food for people in Ashanti region of Ghana?
-3.	What is the name of the king of the Asantes?
-4.	What cash crop does Ghana export?
-5.	What is the primary occupation in Ghana?
-6.	Which country is the leading producer of cocoa in Africa?
-7.	Who is the minister of Food and Agriculture in Ghana?
-8.	What is crop rotation?
-9.	What is a cash crop?
-10.	What is arable farming?
-11.	What is the dominant native language in Ghana?
-12.	What is the current population of Ghana?
-13.	What is the capital city of Ghana?
-14.	Where is golf mined in Ashanti Region?
-15.	Ghana is in which part of Africa?
-16.	What is the southest point in Ghana?
-17.	Which year did Ghana gain independence?
-18.	Which region in Ghana has the largest population?
-19.	What is the world population in 2018?
-20.	Which is the richest country in the world?
-21.	Which food nutrient is in cooked yam?
-22.	Which food nutrient is in fried meat?
-23.	Which food nutrient is in groundnuts?
-24.	Which type of vitamins helps blood clotting?
-25.	Which type of vitamins helps scurvy?
-26.	Which is the largest ethnic group in Ghana?
-27.	Which people celebrate Homowo festival?
-28.	Which city in Ghana has the largest population?
-29.	How many religions are in Ghana?
-30.	Where are cattle dominantly reared in Ghana?
-31.	How many lakes are in Ghana?
-32.	Which country is Ashesi University found?
-33.	How many countries are in Africa?
-34.	What is the most popular name for mini commercial vehicles in Ghana?
-35.	Which professionals work in the hospital?
-36.	Which people are always on the pitch when one goes to the stadium?
-37.	What is the new terminal opened in Accra?
-38.	Which is the richest country in Africa?
-39.	Which transport company is the mostly popular in Accra and Kumasi?
-40.	Which dam supplies electricity to Ghana?
-41.	Which country colonised Kenya?
-42.	When did Kenya gain its independence?
-43.	What is the capital city of Kenya?
-44.	Which continent is Kenya in?
-45.	Does the equator pass through Kenya?
-46.	Which countries does Kenya border?
-47.	What is the current population of Kenya?
-48.	Which is the oldest city in Kenya?
-49.	Which is the secold largest city in Kenya?
-50.	Is Kenya part of the African Great Lakes region?
-51.	Who was the first president of Kenya?
-52.	Who was the second president of Kenya?
-53.	Who was the third president of Kenya?
-54.	Who is the current president of Kenya?
-55.	How many presidents has Kenya had since independence?
-56.	Who is the comander in chief of the Kenya Defence Forces?
-57.	What is largest source of foreign exchange revenue in Kenya?
-58.	What is second largest source of foreign exchange revenue in Kenya?
-59.	What percentage does agriculture constitute the GDP in Kenya?
-60.	What percentage does manufacturing constitute the GDP in Kenya?
-61.	How many airports does Kenya have?
-62.	Where does the largest share of Kenya's electricity supply comes from?
-63.	What is Kenya's GDP?
-64.	What is Kenya's annual growth rate?
-65.	What are three main cash crops exported from Kenya?
-66.	What percentage of Kenya's population is below 30 years?
-67.	What is the largest native ethnic group in Kenya?
-68.	What is the official language in Kenya?
-69.	Which is the main religion in Kenya?
-70.	Which is the second largest religion in Kenya?
-71.	What is the total fertility rate in Kenya?
-72.	What education system does Kenya use?
-73.	How many years is primary school education in Kenya?
-74.	How many years is secondary school education in Kenya?
-75.	Who is the best know author from Kenya?
-76.	Who is the top artiste in Kenya?
-77.	What sports is Kenya known for?
-78.	Where does Kenya get its name from?
-79.	What is Kenya's staple food?
-80.	Which is the best high school in Kenya?
-81.	What does AJAX stand for?
-82.	What does JSON stand for?
-83.	What does HTML stand for?
-84.	What does PHP stand for?
-85.	What does CSS stand for?
-86.	What does SQL stand for?
-87.	What does CMS stand for?
-88.	What are some examples of Content Management Systems (CMSs)?
-89.	What does ASP stand for?
-90.	What does XML stand for?
-91.	What does XSL stand for?
-92.	What does XSLT stand for?
-93.	What does HTTP stand for?
-94.	What is Java?
-95.	What is XML?	
-96.	What is ASP?	
-97.	What is Python?
-98.	What is AngularJS?
-99.	What is Bootstrap?
-100.	What is JSON?
-101.	What is Node.js?
-102.	What is AJAX?	
-103.	What is HTML?
-104.	What is JavaScript?
-105.	What is CSS?
-106.	What is jQuery?	
-107.	What is SQL?
-108.	What is PHP?
-109.	What is an RSS feed?
-110.	What is ReactJS?
-111.	What is React Native?
-112.	What is VueJS?	
-113.	What are HTML attributes?
-114.	What is responsive web design
-115.	What is HTML5?
-116.	What does DOM mean?
-117.	What is a relational database?
-118.	What is a non-relational database?
-119.	What is Wordpress?
-120.	What is SQL injection?
-121.	How quick was the fastest goal in soccer?
-122.	What is the name of the physical location where soccer is played?
-123.	How many players are on a soccer pitch at every point in time?
-124.	How can I become a referee?
-125.	What is a Penalty in Football?
-126.	Where was the original 2014 world cup's ball produced?
-127.	What's the most goals scored in a world cup match?
-128.	Did America coin the term "soccer"?
-129.	What is the Australian national soccer team called? 
-130.	Who was the youngest ever professional soccer player?
-131.	When was the first soccer game televised?
-132.	What was the first soccer game televised? And what teams played?
-133.	On average how far do soccer players run in a match?
-134.	How many minutes are played in a normal soccer game?
-135.	Does the Vatican have its own soccer team?
-136.	 Does FIFA have more member countries than the United Nations?
-137.	What is FIFA?
-138.	When was FIFA founded?
-139.	Where is the headquarter of FIFA?
-140.	How many member countries does FIFA have?
-141.	Where did the first world cup take place? 
-142.	How many teams participated in the first world cup?
-143.	Who won the first world cup? 
-144.	What is the UEFA Champions League?
-145.	When was the UEFA Champions League founded? 
-146.	Who's the top scorer in the World Cup?
-147.	Who holds the record for top scorer in a single World Cup?
-148.	Who was the first team to win the Champions League?
-149.	Who wrote the UEFA Champions League anthem?
-150.	Who scored the fastest goal in the UEFA Champions League?
-151.	What is the biggest win in a World Cup Qualifying game?
-152.	What national team has the most world cup trophies?
-153.	Who is the oldest player to win the world cup?
-154.	Has any team participated in all world cup competitions? 
-155.	Who scored the fastest hattrick in the UEFA Champions League?
-156.	Has any team won the world cup back-to-back?
-157.	Which teams have won the world cup as a host?
-158.	Who is the most regular world cup scorer?
-159.	Which player has the most appearances in the world cup?
-160.	Who is the oldest player to score at the world cup?
-161.	When is the best time to buy a new car?
-162.	Is there a "three day right to cancel" when buying a car?
-163.	Is the dealer invoice price the real dealer cost on new cars?
-164.	Is leasing cheaper than buying?
-165.	What is a good lease deal? 
-166.	What is the condition of your vehicles?
-167.	Can I order a used car?
-168.	Can I have an Independent inspection performed?
-169.	What types of parts are you able to order and install?
-170.	How often should I have my brakes serviced?
-171.	How can I figure out what’s wrong with my vehicle
-172.	What are some winter driving tips?
-173.	How can I be a more environmentally-friendly driver?
-174.	How important is car maintenance?
-175.	Is buying a used car better than buying a new one?
-176.	Can you lease used cars?
-177.	 Are used cars reliable?
-178.	How are used cars priced?
-179.	Are used cars taxed?
-180.	How must extra fuel is burned when using air conditioning?
-181.	Does putting extra air in the tires help a car cope with carrying extra weight?
-182.	Should you turn your car off when stopped for extended periods?
-183.	How long should you warm up an engine before winter driving?
-184.	Are today's cars really better than the ones built in the 1950s?
-185.	Does it matter where you buy gasoline?
-186.	Why is test driving a car important?
-187.	How important is car maintenance?
-188.	How do I know when I need an oil change?
-189.	Why do I need regular oil changes?
-190.	My car won't hold a straight line without corrections from me. Is something wrong?
-191.	What is CarFax?
-192.	What is a trade-in value?
-193.	Should I sell my car myself or trade it in?
-194.	When is the best time to buy a car?
-195.	How important is vehicle maintenance?
-196.	WHERE DO YOU BUY YOUR VEHICLES?
-197.	What are the advantages to leasing a car?
-198.	Should I be concerned about the quality of pre-owned cars?
-199.	Who can write a dealer review?
-200.	WHY IS MY CHECK ENGINE LIGHT ON? WHAT IF IT’S BLINKING?
-1. What food is the leading source of salmonella poisoning?���
-2. �What company first condensed soup in 1898?���
-3. �What nutty legume accounts for one sixth of the world's vegetable oil production?���
-4. �What country saw the cultivation of the first potato, in 200 A.D.?���
-5. �What type of lettuce was called�Crisphead�until the 1920s?���
-6. �What tree gives us prunes?���
-7. What type of chocolate was first developed for public consumption in Vevey, Switzerland in 1875?���
-8. �What added ingredient keeps confectioners' sugar from clumping?���
-9. �What edible comes in�crimmini, morel, oyster and wood ear varieties?���
-10. �What newly-imported substance caused the first major outbreak of tooth decay in Europe, in the1500's?���
-11. What fat substitute got FDA approval for use in snack foods, despite reports of diarrhea and cramps?���
-12. What ingredient in fresh milk is eventually devoured by bacteria, causing the sour taste?���
-13. �What uncooked meat is a trichina worm most likely to make a home in?���
-14. �What baking ingredient, sprayed at high pressure, did the U.S. Air Force replace its toxic paint stripper with?���
-15. �What staple is laced with up to 16 additives including plaster of�paris, to stay fresh?���
-16. What falling fruit supposedly inspired Isaac Newton to write the laws of gravity?���
-17. What method of preserving food did the Incas first use, on potatoes?���
-18. �What deli sandwich topped Dateline NBC's list for total fat content - a Reuben,�BLT� or�tuna salad with mayo?���
-19. What drupaceous fruit were Hawaiian women once forbidden by law to eat?���
-20. �What hit the market alongside spinach as the first frozen veggies?���
-21. How many sizes of chicken eggs does the USDA recognize, including peewee?���
-22. What are de-headed, de-veined�an�sorted by size in a�laitram�machine?���
-23. �What's the only fish that produces real caviar, according to the FDA?���
-24. What type of egg will yield 11 and one-half average-size�omelettes?���
-25. �What's the groundnut better known as?���
-26. What crystalline salt is frequently used to enhance the flavor to TV dinners?���
-27. What sticky sweetener was traditionally used as an antiseptic ointment for cuts and burns?���
-28. �What should your diet be high in to lessen the chance of colon cancer, according to a 1990 study?���
-29. What nut do two-thirds of its U. S. producers sell through Blue Diamond?���
-30. The rice dish �paella� comes from what country?���
-31. Deer meat is known by what name?���
-32. Are�humans�omnivore, herbivore or carnivore?���
-33. What food is used as the base of guacamole?���
-34. The range of vegetables, fruits, meats, nuts, grains, herbs and spices used in cooking are known as what?���
-35. Which country is the world�s largest producer of bananas?��
-36. What is the sweet substance made by bees?���
-37. Lures, reels, rods, hooks, baits and nets are common equipment used in what food gathering method?���
-38. In how many countries around the world does McDonald�s have restaurants?��
-39. The �Pizza Hut� franchise began in what country?���
-40. Foods rich in starch such as pasta and bread are often known by what word starting with the letter C?���
-41. True or false? Trans fats are good for your health.���
-42. What is another name for maize?���
-43. Fruit preserves made from citrus fruits, sugar and water are known as what?���
-44. True or false? �Beefsteak� is a variety of tomato.���
-45. �Dairy products are generally made from what common liquid?���
-46. Do coconut trees grow better in cold or warm climates?���
-47. True or false? Cooking food often transforms its chemical makeup.���
-48. What is the popular food used to carve jack-o-lanterns during Halloween?���
-49. Chiffon, marble and�bundt�are types of what?���
-50. �What is the most widely eaten fish in the world?��
-51. Who invented the telephone?��
-52. Which nail grows fastest?��
-53. What temperature does water boil at?��
-54. Who discovered penicillin?��
-55. What Spanish artist said he would eat his wife when she died?��
-56. Who wrote Julius Caesar, Macbeth and Hamlet?�
-57. Who wrote�Lazarillo�de Tormes?��
-58. What did the crocodile swallow in Peter Pan?�
-59. Where was Lope de Vega born?�
-60. Who did Lady Diana Spencer marry?�
-61. Where is Mulhacen?��
-62. How many states are there in the United States of America?��
-63. Which river passes through Madrid?��
-64. Which German city is famous for the perfume it produces?�
-65. Who did Prince Rainier of Monaco marry?�
-66. What year did the Spanish Civil War end?�
-67. When did the First World War start?�
-68. What did Joseph�Priesley�discover in 1774?�
-69. Where is the smallest bone in the body?�
-70. Which is the only mammal that can�t jump?��
-71. What does the roman numeral C represent?�
-72. What�colour�is a panda?�
-73. What nationality was Chopin?��
-74. What�s the best known artificial international language?��
-75. Who lived at 221B, Baker Street, London?�
-76. Who cut Van Gogh�s ear?�
-77. Where did Salvador Dali live?�
-78. Who painted the Mona Lisa?�
-79. How many dots are there on two dice?�
-80. What horoscope sign has a crab?�
-81. In which shop can you buy books in England?�
-82. Where does the British Prime Minister live?�
-83. How long is the compulsory military service in England?�
-84. When did the Second World War end?��
-85. What are the first three words of the bible?�
-86. How many children has Queen Elizabeth the Second got?�
-87. What�s the real name of�Siddartha�Gautama?��
-88. What�s the name of the famous big clock in London?�
-89. Where was Christopher Columbus born?�
-90. When did the American Civil War end?�
-91. What did the 7 dwarves do for a job?�
-92. Who painted the Sistine Chapel?�
-93. Who wrote La Colmena?�
-94. Name a famous detective who smoked a pipe and played the violin.�
-95. Who said E=mc2 ?�
-96. Which planet is nearest the sun?�
-97. Where are the Dolomites?��
-98. What�s the capital of Kenya?��
-99. Which is the largest ocean?�
-100. What�s the capital of Honduras?�
-101. What does USA stand for?�� 
-102. How many states is United States composed of?�� 
-103. What is the capital city of United states?�� 
-104. Which is the world's oldest surviving federation�� 
-105. A citizen of the United states is called?�� 
-106. The first inhabitant of North America migrated from?�� 
-107. How many people are in the United States?�� 
-108. How old is America?�� 
-109. Who won the 2016 presidential election in the United States?�� 
-110. Who discovered America?�� 
-111. What percentage of Americans voted in 2016?�� 
-112. When was slavery abolished in USA?�� 
-113. Is Puerto part of the United States?�� 
-114. How many gold medals does USA have?�� 
-115. Is United states of America a country?�� 
-116. How many aircraft carriers does the United States have?�� 
-117. What�s the country code for America?�� 
-118. When did America become a country?�� 
-119. How many time zones are in the US?�� 
-120. Which country recognized America as a country�� 
-121. Independence Day was first established as a holiday by congress in what year?�� 
-122. Which year did Texas become a state?�� 
-123. Who was the first president to live in the white house?�� 
-124. Which battle was the turning point of American Revolution?�� 
-125. Which year did the US stock market face the black Monday?�� 
-126. Name the tax which was imposed on the goods in the country�� 
-127. Name the first cash crop of America�� 
-128. Which European language was first spoken in the United States?�� 
-129. In what year did English become the official language of America?�� 
-130. What is the name of the first American Constitution?�� 
-131. How many blacks has become the President of America?�� 
-132. In which year was the first commercial flight of America scheduled?�� 
-133. Which treaty forced Britain to recognize united states as an independent nation?�� 
-134. Who was the first president of United states to appear on television?�� 
-135. Who was the 16th president of the United States?�� 
-136. Which state was formally not admitted in the Union of the US?�� 
-137. When was the last amendment made in the constitution of America?�� 
-138. Which city of America firstly used electricity for the street lights?�� 
-139. Which year was the American constitution written?�� 
-140. Who coined the word New England?�� 
-141. Which President gave the shortest inaugural speech�� 
-142. Name the oldest city of the United States�� 
-143. Who was the last man to sign the declaration of independence?�� 
-144. Name the Oldest elected president of America�� 
-145. Who was the first president to be born in the United States?�� 
-146. Where was the republican party founded?�� 
-147. Name the America's worst national disaster�� 
-148. Name the first American space station�� 
-149. Name the first carrier of Typhoid in the united states�� 
-150. Which area was hit by the deadliest hurricane of US?�� 
-151. What is "serverless"? Where can one learn more about it, and how it can be used today?��
-152. What�is�the AWS Serverless Application Repository?��
-153. What is AWS Lambda?��
-154. What is AWS SAM CLI?��
-155. Which languages does AWS SAM support?�
-156. How much does AWS SAM cost to use?�
-157. How do I install AWS SAM CLI?�
-158. Is AWS SAM open-source?�
-159. How do I manage serverless applications deployed to my account?�
-160. Can I charge a fee for serverless applications I publish?�
-161. Why use serverless computing?�
-162. Where is Azure Support available?�
-163. What is a break-fix issue?�
-164. What is the Azure free account?�
-165. What happens once I use my $200 free credit or I�m at the end of 30 days?�
-166. How do I know how much of the $200 I�ve used and how much I have left?�
-167. Can I apply any of my $200 credit towards Azure Marketplace offers?�
-168. What if I still have questions?�
-169. Can I use my Azure Hybrid Benefit within the Azure free account?�
-170. Do I have to pay something after 30 days?�
-171. �What are my support options?�
-172. Where can I find pricing information?�
-173. I'm developing a library or tool for Cloud Storage and I want to sell it on the Internet. Is this okay?�
-174. Can I use Cloud Storage with my G Suite account or Cloud Identity domain?�
-175. How do I get started with using Cloud IAM?�
-176. Can I purchase support plan for one of my services or for multiple accounts?�
-177. Could I cancel Alibaba Cloud Support subscription?�
-178. How to get support from Alibaba Cloud?�
-179. Who could use Alibaba Cloud support? And do you speak my language?�
-180. Is the cloud secure?�
-181. Do NSF and NIH fund cloud computing?�
-182. What can I do with a Cloud Server?�
-183. What if I mess up my Cloud Server?�
-184. Can I buy extra storage?�
-185. �Can I run a firewall on my server?�
-186. Where are your APIs?�
-187. Are security groups supported via the neutron client?�
-188. Is there a default security group that gets applied to my instances?�
-189. Are security groups supported for�OnMetal�users?�
-190. Can you resize an instance's CPU or RAM while it is running?�
-191. Can you add a local SSD volume to an instance?�
-192. Can you mount an additional volume on several servers at the same time?�
-193. Can I try before I pay?�
-194. Can I setup a load balanced Umbraco Cloud site?�
-195. Can I choose which Azure Region my projects run in?�
-196. �I would love to use�Websockets�on my site. Is this possible?�
-197. Who�is�AWS?�
-198. Who is�Orbitera?�
-199. In which regions is FileMaker Cloud available?�
-200. What is a user?��
+How many regions are in Ghana?
+What is the favorite food for people in Ashanti region of Ghana?
+What is the name of the king of the Asantes?
+What cash crop does Ghana export?
+What is the primary occupation in Ghana?
+Which country is the leading producer of cocoa in Africa?
+Who is the minister of Food and Agriculture in Ghana?
+What is crop rotation?
+What is a cash crop?
+What is arable farming?
+What is the dominant native language in Ghana?
+What is the current population of Ghana?
+What is the capital city of Ghana?
+Where is golf mined in Ashanti Region?
+Ghana is in which part of Africa?
+What is the southest point in Ghana?
+Which year did Ghana gain independence?
+Which region in Ghana has the largest population?
+What is the world population in 2018?
+Which is the richest country in the world?
+Which food nutrient is in cooked yam?
+Which food nutrient is in fried meat?
+Which food nutrient is in groundnuts?
+Which type of vitamins helps blood clotting?
+Which type of vitamins helps scurvy?
+Which is the largest ethnic group in Ghana?
+Which people celebrate Homowo festival?
+Which city in Ghana has the largest population?
+How many religions are in Ghana?
+Where are cattle dominantly reared in Ghana?
+How many lakes are in Ghana?
+Which country is Ashesi University found?
+How many countries are in Africa?
+What is the most popular name for mini commercial vehicles in Ghana?
+Which professionals work in the hospital?
+Which people are always on the pitch when one goes to the stadium?
+What is the new terminal opened in Accra?
+Which is the richest country in Africa?
+Which transport company is the mostly popular in Accra and Kumasi?
+Which dam supplies electricity to Ghana?
+Which country colonised Kenya?
+When did Kenya gain its independence?
+What is the capital city of Kenya?
+Which continent is Kenya in?
+Does the equator pass through Kenya?
+Which countries does Kenya border?
+What is the current population of Kenya?
+Which is the oldest city in Kenya?
+Which is the secold largest city in Kenya?
+Is Kenya part of the African Great Lakes region?
+Who was the first president of Kenya?
+Who was the second president of Kenya?
+Who was the third president of Kenya?
+Who is the current president of Kenya?
+How many presidents has Kenya had since independence?
+Who is the comander in chief of the Kenya Defence Forces?
+What is largest source of foreign exchange revenue in Kenya?
+What is second largest source of foreign exchange revenue in Kenya?
+What percentage does agriculture constitute the GDP in Kenya?
+What percentage does manufacturing constitute the GDP in Kenya?
+How many airports does Kenya have?
+Where does the largest share of Kenya's electricity supply comes from?
+What is Kenya's GDP?
+What is Kenya's annual growth rate?
+What are three main cash crops exported from Kenya?
+What percentage of Kenya's population is below 30 years?
+What is the largest native ethnic group in Kenya?
+What is the official language in Kenya?
+Which is the main religion in Kenya?
+Which is the second largest religion in Kenya?
+What is the total fertility rate in Kenya?
+What education system does Kenya use?
+How many years is primary school education in Kenya?
+How many years is secondary school education in Kenya?
+Who is the best know author from Kenya?
+Who is the top artiste in Kenya?
+What sports is Kenya known for?
+Where does Kenya get its name from?
+What is Kenya's staple food?
+Which is the best high school in Kenya?
+What does AJAX stand for?
+What does JSON stand for?
+What does HTML stand for?
+What does PHP stand for?
+What does CSS stand for?
+What does SQL stand for?
+What does CMS stand for?
+What are some examples of Content Management Systems (CMSs)?
+What does ASP stand for?
+What does XML stand for?
+What does XSL stand for?
+What does XSLT stand for?
+What does HTTP stand for?
+What is Java?
+What is XML?
+What is ASP?
+What is Python?
+What is AngularJS?
+What is Bootstrap?
+What is JSON?
+What is Node.js?
+What is AJAX?
+What is HTML?
+What is JavaScript?
+What is CSS?
+What is jQuery?
+What is SQL?
+What is PHP?
+What is an RSS feed?
+What is ReactJS?
+What is React Native?
+What is VueJS?
+What are HTML attributes?
+What is responsive web design
+What is HTML5?
+What does DOM mean?
+What is a relational database?
+What is a non-relational database?
+What is Wordpress?
+What is SQL injection?
+How quick was the fastest goal in soccer?
+What is the name of the physical location where soccer is played?
+How many players are on a soccer pitch at every point in time?
+How can I become a referee?
+What is a Penalty in Football?
+Where was the original 2014 world cup's ball produced?
+What's the most goals scored in a world cup match?
+Did America coin the term "soccer"?
+What is the Australian national soccer team called?
+Who was the youngest ever professional soccer player?
+When was the first soccer game televised?
+What was the first soccer game televised? And what teams played?
+On average how far do soccer players run in a match?
+How many minutes are played in a normal soccer game?
+Does the Vatican have its own soccer team?
+Does FIFA have more member countries than the United Nations?
+What is FIFA?
+When was FIFA founded?
+Where is the headquarter of FIFA?
+How many member countries does FIFA have?
+Where did the first world cup take place?
+How many teams participated in the first world cup?
+Who won the first world cup?
+What is the UEFA Champions League?
+When was the UEFA Champions League founded?
+Who's the top scorer in the World Cup?
+Who holds the record for top scorer in a single World Cup?
+Who was the first team to win the Champions League?
+Who wrote the UEFA Champions League anthem?
+Who scored the fastest goal in the UEFA Champions League?
+What is the biggest win in a World Cup Qualifying game?
+What national team has the most world cup trophies?
+Who is the oldest player to win the world cup?
+Has any team participated in all world cup competitions?
+Who scored the fastest hattrick in the UEFA Champions League?
+Has any team won the world cup back-to-back?
+Which teams have won the world cup as a host?
+Who is the most regular world cup scorer?
+Which player has the most appearances in the world cup?
+Who is the oldest player to score at the world cup?
+When is the best time to buy a new car?
+Is there a "three day right to cancel" when buying a car?
+Is the dealer invoice price the real dealer cost on new cars?
+Is leasing cheaper than buying?
+What is a good lease deal?
+What is the condition of your vehicles?
+Can I order a used car?
+Can I have an Independent inspection performed?
+What types of parts are you able to order and install?
+How often should I have my brakes serviced?
+How can I figure out what’s wrong with my vehicle
+What are some winter driving tips?
+How can I be a more environmentally-friendly driver?
+How important is car maintenance?
+Is buying a used car better than buying a new one?
+Can you lease used cars?
+Are used cars reliable?
+How are used cars priced?
+Are used cars taxed?
+How must extra fuel is burned when using air conditioning?
+Does putting extra air in the tires help a car cope with carrying extra weight?
+Should you turn your car off when stopped for extended periods?
+How long should you warm up an engine before winter driving?
+Are today's cars really better than the ones built in the 1950s?
+Does it matter where you buy gasoline?
+Why is test driving a car important?
+How important is car maintenance?
+How do I know when I need an oil change?
+Why do I need regular oil changes?
+My car won't hold a straight line without corrections from me. Is something wrong?
+What is CarFax?
+What is a trade-in value?
+Should I sell my car myself or trade it in?
+When is the best time to buy a car?
+How important is vehicle maintenance?
+WHERE DO YOU BUY YOUR VEHICLES?
+What are the advantages to leasing a car?
+Should I be concerned about the quality of pre-owned cars?
+Who can write a dealer review?
+WHY IS MY CHECK ENGINE LIGHT ON? WHAT IF IT’S BLINKING?
+What food is the leading source of salmonella poisoning?
+What company first condensed soup in 1898?
+What nutty legume accounts for one sixth of the world's vegetable oil production?
+What country saw the cultivation of the first potato, in 200 A.D.?
+What type of lettuce was called Crisphead until the 1920s?
+What tree gives us prunes?
+What type of chocolate was first developed for public consumption in Vevey, Switzerland in 1875?
+What added ingredient keeps confectioners' sugar from clumping?
+What edible comes in crimmini, morel, oyster and wood ear varieties?
+What newly-imported substance caused the first major outbreak of tooth decay in Europe, in the1500's?
+What fat substitute got FDA approval for use in snack foods, despite reports of diarrhea and cramps?
+What ingredient in fresh milk is eventually devoured by bacteria, causing the sour taste?
+What uncooked meat is a trichina worm most likely to make a home in?
+What baking ingredient, sprayed at high pressure, did the U.S. Air Force replace its toxic paint stripper with?
+What staple is laced with up to 16 additives including plaster of paris, to stay fresh?
+What falling fruit supposedly inspired Isaac Newton to write the laws of gravity?
+What method of preserving food did the Incas first use, on potatoes?
+What deli sandwich topped Dateline NBC's list for total fat content - a Reuben, BLT  or tuna salad with mayo?
+What drupaceous fruit were Hawaiian women once forbidden by law to eat?
+What hit the market alongside spinach as the first frozen veggies?
+How many sizes of chicken eggs does the USDA recognize, including peewee?
+What are de-headed, de-veined an sorted by size in a laitram machine?
+What's the only fish that produces real caviar, according to the FDA?
+What type of egg will yield 11 and one-half average-size omelettes?
+What's the groundnut better known as?
+What crystalline salt is frequently used to enhance the flavor to TV dinners?
+What sticky sweetener was traditionally used as an antiseptic ointment for cuts and burns?
+What should your diet be high in to lessen the chance of colon cancer, according to a 1990 study?
+What nut do two-thirds of its U. S. producers sell through Blue Diamond?
+The rice dish  paella  comes from what country?
+Deer meat is known by what name?
+Are humans omnivore, herbivore or carnivore?
+What food is used as the base of guacamole?
+The range of vegetables, fruits, meats, nuts, grains, herbs and spices used in cooking are known as what?
+Which country is the world s largest producer of bananas?
+What is the sweet substance made by bees?
+Lures, reels, rods, hooks, baits and nets are common equipment used in what food gathering method?
+In how many countries around the world does McDonald s have restaurants?
+The  Pizza Hut  franchise began in what country?
+Foods rich in starch such as pasta and bread are often known by what word starting with the letter C?
+True or false? Trans fats are good for your health.
+What is another name for maize?
+Fruit preserves made from citrus fruits, sugar and water are known as what?
+True or false?  Beefsteak  is a variety of tomato.
+Dairy products are generally made from what common liquid?
+Do coconut trees grow better in cold or warm climates?
+True or false? Cooking food often transforms its chemical makeup.
+What is the popular food used to carve jack-o-lanterns during Halloween?
+Chiffon, marble and bundt are types of what?
+What is the most widely eaten fish in the world?
+Who invented the telephone?
+Which nail grows fastest?
+What temperature does water boil at?
+Who discovered penicillin?
+What Spanish artist said he would eat his wife when she died?
+Who wrote Julius Caesar, Macbeth and Hamlet?
+Who wrote Lazarillo de Tormes?
+What did the crocodile swallow in Peter Pan?
+Where was Lope de Vega born?
+Who did Lady Diana Spencer marry?
+Where is Mulhacen?
+How many states are there in the United States of America?
+Which river passes through Madrid?
+Which German city is famous for the perfume it produces?
+Who did Prince Rainier of Monaco marry?
+What year did the Spanish Civil War end?
+When did the First World War start?
+What did Joseph Priesley discover in 1774?
+Where is the smallest bone in the body?
+Which is the only mammal that can t jump?
+What does the roman numeral C represent?
+What colour is a panda?
+What nationality was Chopin?
+What s the best known artificial international language?
+Who lived at 221B, Baker Street, London?
+Who cut Van Gogh s ear?
+Where did Salvador Dali live?
+Who painted the Mona Lisa?
+How many dots are there on two dice?
+What horoscope sign has a crab?
+In which shop can you buy books in England?
+Where does the British Prime Minister live?
+How long is the compulsory military service in England?
+When did the Second World War end?
+What are the first three words of the bible?
+How many children has Queen Elizabeth the Second got?
+What s the real name of Siddartha Gautama?
+What s the name of the famous big clock in London?
+Where was Christopher Columbus born?
+When did the American Civil War end?
+What did the 7 dwarves do for a job?
+Who painted the Sistine Chapel?
+Who wrote La Colmena?
+Name a famous detective who smoked a pipe and played the violin.
+Who said E=mc2 ?
+Which planet is nearest the sun?
+Where are the Dolomites?
+What s the capital of Kenya?
+Which is the largest ocean?
+What s the capital of Honduras?
+What does USA stand for?
+How many states is United States composed of?
+What is the capital city of United states?
+Which is the world's oldest surviving federation
+A citizen of the United states is called?
+The first inhabitant of North America migrated from?
+How many people are in the United States?
+How old is America?
+Who won the 2016 presidential election in the United States?
+Who discovered America?
+What percentage of Americans voted in 2016?
+When was slavery abolished in USA?
+Is Puerto part of the United States?
+How many gold medals does USA have?
+Is United states of America a country?
+How many aircraft carriers does the United States have?
+What s the country code for America?
+When did America become a country?
+How many time zones are in the US?
+Which country recognized America as a country
+Independence Day was first established as a holiday by congress in what year?
+Which year did Texas become a state?
+Who was the first president to live in the white house?
+Which battle was the turning point of American Revolution?
+Which year did the US stock market face the black Monday?
+Name the tax which was imposed on the goods in the country
+Name the first cash crop of America
+Which European language was first spoken in the United States?
+In what year did English become the official language of America?
+What is the name of the first American Constitution?
+How many blacks has become the President of America?
+In which year was the first commercial flight of America scheduled?
+Which treaty forced Britain to recognize united states as an independent nation?
+Who was the first president of United states to appear on television?
+Who was the 16th president of the United States?
+Which state was formally not admitted in the Union of the US?
+When was the last amendment made in the constitution of America?
+Which city of America firstly used electricity for the street lights?
+Which year was the American constitution written?
+Who coined the word New England?
+Which President gave the shortest inaugural speech
+Name the oldest city of the United States
+Who was the last man to sign the declaration of independence?
+Name the Oldest elected president of America
+Who was the first president to be born in the United States?
+Where was the republican party founded?
+Name the America's worst national disaster
+Name the first American space station
+Name the first carrier of Typhoid in the united states
+Which area was hit by the deadliest hurricane of US?�
+What is "serverless"? Where can one learn more about it, and how it can be used today?
+Whatisthe AWS Serverless Application Repository?
+What is AWS Lambda?
+What is AWS SAM CLI?
+Which languages does AWS SAM support?
+How much does AWS SAM cost to use?
+How do I install AWS SAM CLI?
+Is AWS SAM open-source?
+How do I manage serverless applications deployed to my account?
+Can I charge a fee for serverless applications I publish?
+Why use serverless computing?
+Where is Azure Support available?
+What is a break-fix issue?
+What is the Azure free account?
+What happens once I use my $200 free credit or Im at the end of 30 days?
+How do I know how much of the $200 Ive used and how much I have left?
+Can I apply any of my $200 credit towards Azure Marketplace offers?
+What if I still have questions?
+Can I use my Azure Hybrid Benefit within the Azure free account?
+Do I have to pay something after 30 days?
+What are my support options?
+Where can I find pricing information?
+I'm developing a library or tool for Cloud Storage and I want to sell it on the Internet. Is this okay?
+Can I use Cloud Storage with my G Suite account or Cloud Identity domain?
+How do I get started with using Cloud IAM?
+Can I purchase support plan for one of my services or for multiple accounts?
+Could I cancel Alibaba Cloud Support subscription?
+How to get support from Alibaba Cloud?
+Who could use Alibaba Cloud support? And do you speak my language?
+Is the cloud secure?
+Do NSF and NIH fund cloud computing?
+What can I do with a Cloud Server?
+What if I mess up my Cloud Server?
+Can I buy extra storage?
+Can I run a firewall on my server?
+Where are your APIs?
+Are security groups supported via the neutron client?
+Is there a default security group that gets applied to my instances?
+Are security groups supported for OnMetal users?
+Can you resize an instance's CPU or RAM while it is running?
+Can you add a local SSD volume to an instance?
+Can you mount an additional volume on several servers at the same time?
+Can I try before I pay?
+Can I setup a load balanced Umbraco Cloud site?
+Can I choose which Azure Region my projects run in?
+I would love to use Websockets on my site. Is this possible?
+Who is AWS?
+Who is Orbitera?
+In which regions is FileMaker Cloud available?
+What is a user?
 Can I pair HomePod with Apple TV?
 Can i play apple music on the home pod and iphone at the same time?
 The HomePod isn’t available in New Zealand yet. If I buy it in Australia and bring it back to New Zealand will it still work properly?
