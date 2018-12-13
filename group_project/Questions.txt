@@ -438,158 +438,158 @@ Does It Work Over Bluetooth?
 Can I Connect HomePod To My Cable Box or My Console?
 Does It Support Multi-Room Audio?
 How do I know when Siri is recording?
-1. How do I use Alexa?
-2. What happens when I speak to Alexa?
-3. Is Alexa recording all my conversations?
-4. Can I review and delete my voice recordings?
-5. How are my voice recordings used?
-6. How do my voice recordings improve Alexa?
-7. How do Alexa skills work?
-8. How does voice purchasing work?
-9. Can I turn off voice purchasing?
-10. What are the return and cancellation policies for products and content I order using Alexa?
-11. How do voice donations work?
-12. What is a kid skill and how do I give or revoke permission to use kid skills?
-13. How does Alexa work with smart home devices?
-14. How does automatic voice recognition and voice profiles work?
-15. What is Alexa Calling and Messaging?
-16. What devices support Alexa Calling and Messaging?
-17. How does Alexa messaging work?
-18. How does Alexa calling work?
-19. Can I text or call emergency services using Alexa Calling and Messaging?
-20. How do I add contacts for Alexa Calling and Messaging?
-21. Do I need to give permission for others to call or message me?
-22. Who will receive my calls or messages?
-23. What is Do Not Disturb mode?
-24. How do I remove messages from my conversation list?
-25. How do I de-register from Alexa Calling and Messaging?
-26. What is Drop In?
-27. When someone drops in on my device, what do they hear and see?
-28. What is a recently active indicator?
-29. How do I disable Drop In?
-30. What are Announcements?
-31. Can I link third-party communications services with Alexa Calling and Messaging?
-32. How do I use Alexa on Fire TV devices? 
-33. How do I know when my Fire TV device is streaming my voice to the Cloud? 
-34. How do I activate Alexa hands-free on my Fire tablet?
-35. How does Alexa hands-free on my Fire tablet recognise the wake word?
-36. How do I know when Alexa on my Fire tablet is streaming my voice to the Cloud?
-37. How does Alexa hands-free on my Fire tablet work when I lock my tablet with a passcode?
-38. How does Alexa know to turn on the screen when my Fire tablet is in Show Mode?
-39. How do I know when Alexa on my Fire tablet is streaming images or video to the Cloud?
-40. How can I turn off Alexa hands-free?
-41. How do Echo devices recognise the wake word?
-42. How do I know when Echo devices are streaming audio to the Cloud?
-43. Can I turn off the microphones on Echo devices?
-44. How do Echo devices with a screen know to turn on the screen?
-45. How do I know when Echo devices with a camera are streaming images or video to the Cloud?
-46. Can I turn off the camera on Echo devices with a camera?
-47. What do I need in order to use Echo Connect?
-48. How does calling on Echo Connect work?
-49. What's the difference between Alexa Calling and Echo Connect?
-50. I have an Echo Connect but also use Alexa Calling. How will my call to an Alexa contact be processed?
-51. Can I call emergency services with Echo Connect?
-1.	What devices does Bixby support?
-2.	Can I customize Bixby's name?
-3.	Does Bixby support Incognito mode?
-4.	Do I need Wi-Fi or mobile data to use Bixby?
-5.	Can I change the language of Bixby?
-6.	What is Open Trivia?
-7.	Can I change the speaking style of Bixby Voice? 
-8.	Which functionalities are supported by Bixby Voice?
-9.	How do I see my last conversations with Bixby?
-10.	How do I know when Bixby is listening?
-11.	How do I know when Bixby is listening?
-12.	Can I set a reminder every time my Bixby Home Card is updated?
-13.	How can I Reset my Bixby?
-14.	Is my personal data safe with Bixby?
-15.	What is Bixby Home, and how does it cater to users� individual needs?
-16.	What is Bixby Home, and how does it cater to users� individual needs?
-17.	What languages can Bixby Vision translate?
-18.	Who are some of Bixby Vision�s current retail partners?
-19.	Does Bixby get smarter the more I use it?
-20.	What can I do to make sure that Bixby Voice hears me clearly?
-21.	Do I need to be in a quiet area in order for Bixby Voice to hear me?
-22.	What languages and dialects does Bixby understand?
-23.	What are Quick Commands in my Bixby?
-24.	Will using Bixby eat up my mobile data, and is it possible to use it overseas?
-25.	What is Bixby Vision, and how does it work?
-26.	How much does Bixby cost?
-27.	Where is Bixby available?
-28.	How does Bixby make money?
-29.	How do I make Bixby Understand me?
-30.	How to Adjust Bixby Voice Volume?
-31.	Change the Language and Voice Style?
-32.	How to set the new Bixby Wake-Up Command.?
-33.	Can I play music and use Bixby at the same time?
-34.	Under what conditions can Bixby Voice be limited or unavailable?
-35.	What is new about Bixby?
-36.	How does the Interactive text in Bixby work?
-37.	How different is the new Bixby from the old one?
-38.	Is there any other way to use Bixby other than speaking?
-39.	How do you link Bixby and Spotify together?
-40.	What is Bixby Labs about?
-41.	What is Bixby on my Samsung phone?
-42.	How do I get rid of Bixby?
-43.	How do I set up Bixby voice?
-44.	Is Bixby like Siri?
-45.	What does Bixby app do? 
-46.	How to setup Bixby voice
-47.	How to use Bixby Home
-48.	What does Samsung Bixby do?
-49.	How different is Bixby from the other digital assistances?
-50.	What are the four main features new Bixby offers?
-1 What is Google Home Mini?
-2 How to setup Google Home Mini?
-3 Does a Google Home Mini purchase in the U.S. work in India?
-4 How to update Home Mini firmware?
-5 How to Check the Home Mini firmware version?
-6 My Home Mini is running on the Old Firmware. How can I update it to the latest version?
-7 Can I make Voice calls using Home Mini in India?
-8 Can I use Home Mini without a smartphone?
-9 Can I play the Music stored in my phone�s internal storage on Home Mini?
-10 How to change Home Mini�s volume using my phone?
-11 How can I link my Netflix account to Google Home Mini?
-12 How to connect Home Mini to Bluetooth speakers?
-13 How does Gmail in G Suite differ from free Gmail?
-14 Can a user have multiple email addresses?
-15 Can I migrate my existing email to G Suite?
-16 How does Google keep my information secure and prevent unauthorized access to my data?
-17 Does G Suite meet my compliance requirements?
-18 Is G Suite HIPAA compliant?
-19 How does Google respond to government requests for data?
-20 Does Google encrypt my data?
-21 Do I need to use third-party tools to keep my data secure within Google?
-22 My organization is subject to EU data protection requirements. Can I use G Suite?
-23 Can I move my old email, calendar events, and contacts to G Suite?
-24 Will I experience email downtime during the transition? 
-25 Will this transition affect my current website? Can you host my website?
-26 Can I use my own domain with G Suite? If I don�t have an existing domain, what should I do?
-27 Can someone set up G Suite for my company?
-28 Can I manage mobile devices with G Suite?
-29 Can I manage multiple domains with G Suite?
-30 Can I grant administrative privileges to other users?
-31 Can I control users� access to certain features or services?
-32 What is the difference between G Suite and Google�s free apps?
-33 Can I purchase individual G Suite apps?
-34 Can I replace my current software with G Suite?
-35 What is the difference between G Suite and Google�s free apps?
-36 Can I purchase individual G Suite apps?
-37 Can I replace my current software with G Suite?
-38 What are the differences between G Suite�s editions?
-39 Does G Suite have a free trial?
-40 How do I purchase G Suite?
-41 How do I cancel my trial if I decide not to purchase G Suite?
-42 What is the cost to setup and migrate to G Suite?
-43 What forms of payment does Google accept?
-44 Can I pay for a full year of G Suite up front rather than monthly?
-45 What constitutes a user in terms of pricing?
-46 If I plan to create email aliases for groups, does that alias count as a user I have to pay for? How many aliases can each user manage?
-47 Is a domain included as a part of G Suite?
-48 Does Google accept multiple currencies?
-49 Does Docs work offline?
-50 Can I share Docs files externally?
-51 Can I convert my existing documents into Docs?
+How do I use Alexa?
+What happens when I speak to Alexa?
+Is Alexa recording all my conversations?
+Can I review and delete my voice recordings?
+How are my voice recordings used?
+How do my voice recordings improve Alexa?
+How do Alexa skills work?
+How does voice purchasing work?
+Can I turn off voice purchasing?
+What are the return and cancellation policies for products and content I order using Alexa?
+How do voice donations work?
+What is a kid skill and how do I give or revoke permission to use kid skills?
+How does Alexa work with smart home devices?
+How does automatic voice recognition and voice profiles work?
+What is Alexa Calling and Messaging?
+What devices support Alexa Calling and Messaging?
+How does Alexa messaging work?
+How does Alexa calling work?
+Can I text or call emergency services using Alexa Calling and Messaging?
+How do I add contacts for Alexa Calling and Messaging?
+Do I need to give permission for others to call or message me?
+Who will receive my calls or messages?
+What is Do Not Disturb mode?
+How do I remove messages from my conversation list?
+How do I de-register from Alexa Calling and Messaging?
+What is Drop In?
+When someone drops in on my device, what do they hear and see?
+What is a recently active indicator?
+How do I disable Drop In?
+What are Announcements?
+Can I link third-party communications services with Alexa Calling and Messaging?
+How do I use Alexa on Fire TV devices?
+How do I know when my Fire TV device is streaming my voice to the Cloud?
+How do I activate Alexa hands-free on my Fire tablet?
+How does Alexa hands-free on my Fire tablet recognise the wake word?
+How do I know when Alexa on my Fire tablet is streaming my voice to the Cloud?
+How does Alexa hands-free on my Fire tablet work when I lock my tablet with a passcode?
+How does Alexa know to turn on the screen when my Fire tablet is in Show Mode?
+How do I know when Alexa on my Fire tablet is streaming images or video to the Cloud?
+How can I turn off Alexa hands-free?
+How do Echo devices recognise the wake word?
+How do I know when Echo devices are streaming audio to the Cloud?
+Can I turn off the microphones on Echo devices?
+How do Echo devices with a screen know to turn on the screen?
+How do I know when Echo devices with a camera are streaming images or video to the Cloud?
+Can I turn off the camera on Echo devices with a camera?
+What do I need in order to use Echo Connect?
+How does calling on Echo Connect work?
+What's the difference between Alexa Calling and Echo Connect?
+I have an Echo Connect but also use Alexa Calling. How will my call to an Alexa contact be processed?
+Can I call emergency services with Echo Connect?
+What devices does Bixby support?
+Can I customize Bixby's name?
+Does Bixby support Incognito mode?
+Do I need Wi-Fi or mobile data to use Bixby?
+Can I change the language of Bixby?
+What is Open Trivia?
+Can I change the speaking style of Bixby Voice?
+Which functionalities are supported by Bixby Voice?
+How do I see my last conversations with Bixby?
+How do I know when Bixby is listening?
+How do I know when Bixby is listening?
+Can I set a reminder every time my Bixby Home Card is updated?
+How can I Reset my Bixby?
+Is my personal data safe with Bixby?
+What is Bixby Home, and how does it cater to users� individual needs?
+What is Bixby Home, and how does it cater to users� individual needs?
+What languages can Bixby Vision translate?
+Who are some of Bixby Vision�s current retail partners?
+Does Bixby get smarter the more I use it?
+What can I do to make sure that Bixby Voice hears me clearly?
+Do I need to be in a quiet area in order for Bixby Voice to hear me?
+What languages and dialects does Bixby understand?
+What are Quick Commands in my Bixby?
+Will using Bixby eat up my mobile data, and is it possible to use it overseas?
+What is Bixby Vision, and how does it work?
+How much does Bixby cost?
+here is Bixby available?
+How does Bixby make money?
+How do I make Bixby Understand me?
+How to Adjust Bixby Voice Volume?
+Change the Language and Voice Style?
+How to set the new Bixby Wake-Up Command.?
+Can I play music and use Bixby at the same time?
+Under what conditions can Bixby Voice be limited or unavailable?
+What is new about Bixby?
+How does the Interactive text in Bixby work?
+How different is the new Bixby from the old one?
+Is there any other way to use Bixby other than speaking?
+How do you link Bixby and Spotify together?
+What is Bixby Labs about?
+What is Bixby on my Samsung phone?
+How do I get rid of Bixby?
+How do I set up Bixby voice?
+Is Bixby like Siri?
+What does Bixby app do?
+How to setup Bixby voice
+How to use Bixby Home
+What does Samsung Bixby do?
+How different is Bixby from the other digital assistances?
+What are the four main features new Bixby offers?
+What is Google Home Mini?
+How to setup Google Home Mini?
+Does a Google Home Mini purchase in the U.S. work in India?
+How to update Home Mini firmware?
+How to Check the Home Mini firmware version?
+My Home Mini is running on the Old Firmware. How can I update it to the latest version?
+Can I make Voice calls using Home Mini in India?
+Can I use Home Mini without a smartphone?
+Can I play the Music stored in my phone�s internal storage on Home Mini?
+How to change Home Mini�s volume using my phone?
+How can I link my Netflix account to Google Home Mini?
+How to connect Home Mini to Bluetooth speakers?
+How does Gmail in G Suite differ from free Gmail?
+Can a user have multiple email addresses?
+Can I migrate my existing email to G Suite?
+How does Google keep my information secure and prevent unauthorized access to my data?
+Does G Suite meet my compliance requirements?
+Is G Suite HIPAA compliant?
+How does Google respond to government requests for data?
+Does Google encrypt my data?
+Do I need to use third-party tools to keep my data secure within Google?
+My organization is subject to EU data protection requirements. Can I use G Suite?
+Can I move my old email, calendar events, and contacts to G Suite?
+Will I experience email downtime during the transition?
+Will this transition affect my current website? Can you host my website?
+Can I use my own domain with G Suite? If I don�t have an existing domain, what should I do?
+Can someone set up G Suite for my company?
+Can I manage mobile devices with G Suite?
+Can I manage multiple domains with G Suite?
+Can I grant administrative privileges to other users?
+Can I control users� access to certain features or services?
+What is the difference between G Suite and Google�s free apps?
+Can I purchase individual G Suite apps?
+Can I replace my current software with G Suite?
+What is the difference between G Suite and Google�s free apps?
+Can I purchase individual G Suite apps?
+Can I replace my current software with G Suite?
+What are the differences between G Suite�s editions?
+Does G Suite have a free trial?
+How do I purchase G Suite?
+How do I cancel my trial if I decide not to purchase G Suite?
+What is the cost to setup and migrate to G Suite?
+What forms of payment does Google accept?
+Can I pay for a full year of G Suite up front rather than monthly?
+What constitutes a user in terms of pricing?
+If I plan to create email aliases for groups, does that alias count as a user I have to pay for? How many aliases can each user manage?
+Is a domain included as a part of G Suite?
+Does Google accept multiple currencies?
+Does Docs work offline?
+Can I share Docs files externally?
+Can I convert my existing documents into Docs?
 Was Abraham Lincoln the sixteenth President of the United States?
 Did Lincoln sign the National Banking Act of 1863?
 Did his mother die of pneumonia?
