@@ -2257,7 +2257,7 @@ How long is Mercury's day?
 Which moon is a moon of Mars?
 Which planet is Olympus Mons, the highest volcano in the Solar System, on?
 There are so many schools in the U.S. How do I decide which schools to apply to?
-What�s the difference between a college and a university?
+Whats the difference between a college and a university?
 Are there age limitations to attend U.S. universities?
 What is the academic calendar for universities in the United States?
 What is the difference between "Undergraduate" and "Graduate" degrees?
@@ -2279,7 +2279,7 @@ How can I find out if an institution is accredited?
 How can I find out if a specialized program of study is accredited?
 How can I find out which universities are rated best for a specific academic major?
 What are English language proficiency requirements?
-I want to study in the United States, but my English proficiency isn�t good enough yet. What can I do?
+I want to study in the United States, but my English proficiency isnt good enough yet. What can I do?
 Do students have to study a fixed set of subjects or can they individually form their major?
 When do you declare a major?
 What is a liberal arts college?
@@ -2292,24 +2292,24 @@ What is the difference between state and private universities?
 Are there opportunities for university exchange programs?
 How can an international student find out what academic subjects from their country are acceptable for a U.S. university?
 How can I apply for vocational training in the United States?
-What�s the best general advice for an incoming student?
+Whats the best general advice for an incoming student?
 Can you evaluate my credentials and resume before I apply for the grad program?
 From whom can I request letters of recommendation?
 If I get accepted into a graduate program, can I defer the admission?
 Is an interview needed for admission into graduate education program?
-Do I qualify for financial aid at the graduate level even if I�m studying part-time?
+Do I qualify for financial aid at the graduate level even if m studying part-time?
 How do departments determine to whom to give assistantships?
 What is the process for applying for financial aid?
 Are courses offered for flexible schedules?
 Are graduate degrees in education full-time or can they be taken part-time?
 Can I start my grad program in the Spring or Summer semesters, or does it have to be in the Fall?
-Which takes students more effort � regular courses (on-campus) or online courses?
+Which takes students more effort regular courses (on-campus) or online courses?
 Does my undergraduate degree have to match the subjects I want to teach?
-Do substitute teachers require a teacher�s license?
-What food makes up nearly all (around 99%) of a Giant Panda�s diet?
+Do substitute teachers require a teaches license?
+What food makes up nearly all (around 99%) of a Giant Pands diet?
 True or false? Mice live for up to 10 years.
 What is the name of the phobia that involves an abnormal fear of spiders?
-What is the largest type of �big cat� in the world?
+What is the largest type ofbig ca in the world?
 True or false? Crocodiles have no sweat glands so they use their mouths to release heat.
 Are butterflies insects?
 What are female elephants called?
@@ -2317,8 +2317,8 @@ True or false? Bats are mammals.
 Bees are found on every continent of earth except for one, which is it?
 True or false? Cats spend an average of 13 to 14 hours a day sleeping.
 What is the fastest land animal in the world?
-A �doe� is what kind of animal?
-True or false? Cougar�s are herbivores.
+Ado is what kind of animal?
+True or false? Cougas are herbivores.
 Groups of lions are known as what?
 Is a dolphin a mammal?
 What is the largest land animal in the world?
@@ -2572,7 +2572,7 @@ What is Elliptic curve cryptography Digital signature algorithm?
 Why ECC is better than RSA? 
 What is a ledger? 
 What is the difference between Blockchain and distributed ledger? 
-What is Quorum Slice? 
+Wt is Quorum Slice?
 What is a segment tree? 
 What is Diffie Hellman key exchange? 
 How are boxes linked in a BlockChain? 
@@ -2580,11 +2580,11 @@ Write a python program to perform word tokenization?
 Write a function to calculate multiplicative inverse of two numbers? 
 Which of these facts about a ledger is NOT CORRECT? 
 Which benefits of a BlockChain enabled business network engender TRUST? 
-What is bitcoin? 
+What is bitcoin
 What is the core requirement(s) for a business BlockChain? 
-The primary benefit of immutability is � 
-A smart contract is � 
-In a business BlockChain, transactions � 
+The primary benefit of immutability is
+A smart contract is
+In a business BlockChain, transactions
 What is the appropriate use of business BlockChain? 
 What makes a good Block Chain use case? 
 What factors can help ensure a successful FIRST BlockChain use case project? 
@@ -2606,8 +2606,3 @@ How will you define the mining?
 Can you name some details that are sent to the block of bitcoin? 
 How do the public key and private key generation work? 
 Can you write a smart contract for "Hello Word" in solidity?
-
-
-
-
-
